@@ -1,0 +1,12 @@
+[build]
+  publish = "dist"
+  command = "npm run generate"
+
+[[headers]]
+  for = "/_nuxt/*"
+
+  [headers.values]
+    cache-control = '''
+      public,
+      max-age=31536000,
+      immutable'''

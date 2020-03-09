@@ -1,0 +1,94 @@
+@import 'assets/scss/settings'
+
+$page-width: 1440px
+
+@font-face
+  font-family: 'GoshaSans'
+  src: url('~assets/fonts/GoshaSans-Regular.otf') format('opentype')
+  font-display: swap
+
+div.abs
+  position: absolute
+  width: 1440px
+  top: 0
+
+div.rel
+  position: relative
+  //height: 4000px
+
+div.achter
+  width: 1440px
+  //width: 1440px
+  //margin-left: auto
+  //margin-right: auto
+  //background-color: white
+  height: 4000px
+
+body.center.div.achter
+  margin-left: auto
+  margin-right: auto
+
+.page-enter-active,
+.page-leave-active
+  transition-property: opacity
+  transition-timing-function: ease-in-out
+  transition-duration: .3s
+
+.page-enter,
+.page-leave-to
+  opacity: 0
+
+.desktop.background
+  .blocks
+    height: 100%
+
+  &.home,&.about
+    .blocks
+      background: url(~assets/svg/background-main.svg) no-repeat
+  &.venue
+    .blocks
+      background: url(~assets/svg/background-venue.svg) no-repeat
+  &.participate
+    .blocks
+      background: url(~assets/svg/background-participate.svg) no-repeat
+
+  &.home
+    height: 3088px + 392px
+  &.about
+    height: 4052px + 392px
+  &.venue
+    height: 3244px + 392px
+  &.participate
+    height: 2425px + 392px
+
+  h2
+    line-height: 1
+    margin-bottom: 2.5rem
+
+  .button
+    font-size: 18px
+    font-weight: 500
+    font-family: $figma-font-ibm-mono
+    line-height: 17px
+
+  .main-text
+    p
+      font-weight: 500
+      font-size: 18px
+      line-height: 28px
+      font-family: $figma-font-ibm
+    .button
+      font-weight: 500
+      font-size: 18px
+  h3
+    font-size: 36px
+    line-height: 30px
+    margin-bottom: 49px
+
+  .venue-head
+    color: white
+    p
+      font-weight: 500
+      font-size: 18px
+      line-height: 24px
+      font-family: $figma-font-ibm
