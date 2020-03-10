@@ -33,7 +33,8 @@ export default {
   */
   css: [
       '~assets/scss/app.scss',
-      '~assets/scss/custom.sass'
+      '~assets/scss/custom.sass',
+      '~assets/scss/menubar.sass'
   ],
   /*
   ** Plugins to load before mounting the App
