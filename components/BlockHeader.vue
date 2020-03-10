@@ -5,7 +5,8 @@
             <div class="page-title float-left">
                 <h1><span>{{title}}</span><br/><span class="subtitle">{{subtitle}}</span></h1>
             </div>
-            <div class="dates float-left">
+            <div class="side-content float-left">
+                <slot name="side-content">
                 <div>
                     <span class="grey">Berlin, Germany <br/></span>
                     <span class="orange">10-11 August: Tutorials <br/>
@@ -13,18 +14,19 @@
                         14 August: Sprints
                     </span>
                 </div>
+                </slot>
             </div>
         </div>
         <div class="background">
-            <slot name="content">
-                <div class="content">
+            <div :class="tall ? 'content-tall' : 'content'">
+                <slot name="content">
                     <div class="tickets" v-if="buttons">
                         <div><a class="button hollow">Buy tickets</a></div>
                         <div><a class="button hollow">Submit a talk</a></div>
                     </div>
-                </div>
-                <img src="~assets/svg/circle-dashed-orange.svg" class="halfcircle"/>
-            </slot>
+                </slot>
+            </div>
+            <img src="~assets/svg/circle-dashed-orange.svg" class="halfcircle" v-if="!tall"/>
             <div class="movie">
                 <slot name="media">
                     <video class="autoplay" id="autoplay-video" autoplay="false" muted="true" loop="" style="height: 516px;">
@@ -55,6 +57,10 @@
             buttons: {
                 type: Boolean,
                 default: true,
+            },
+            tall: {
+                type: Boolean,
+                default: false,
             },
         },
     }
@@ -92,7 +98,7 @@
                     color: $figma-grey2;
                 }
             }
-            .dates {
+            .side-content {
                 z-index: -1;
                 background-color: $figma-grey3;
                 padding-top: 140px;
@@ -143,6 +149,14 @@
                     }
 
                 }
+            }
+            .content-tall {
+                position: absolute;
+                background-color: $figma-orange;
+                height: 434px;
+                width: 541px;
+                left: 0px;
+                bottom: 0px;
             }
             .halfcircle {
                 position: absolute;
