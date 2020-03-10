@@ -113,6 +113,7 @@
                 .participate-text {
                     width: 50%;
                     padding-right: 50px;
+                    padding-left: 50px;
                     margin-top: -25px;
                 }
                 img {

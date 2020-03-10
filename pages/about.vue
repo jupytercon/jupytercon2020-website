@@ -26,7 +26,7 @@
     import BlockGreyOrange from "../components/BlockGreyOrange";
 
     export default {
-        name: "index",
+        name: "about",
         components: {BlockHeader, BlockAbout, BlockGreyOrange},
     }
 </script>
