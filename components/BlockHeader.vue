@@ -1,5 +1,6 @@
 <template>
     <div class="main">
+        <MenuBar class='menubar'/>
         <div class="top">
             <div class="page-title float-left">
                 <h1><span>{{title}}</span><br/><span class="subtitle">{{subtitle}}</span></h1>
@@ -38,8 +39,10 @@
 
 
 <script>
+    import MenuBar from "../components/MenuBar";
     export default {
         name: "BlockHeader",
+        components: {MenuBar},
         props: {
             title: {
                 type: String,
@@ -59,6 +62,10 @@
 
 <style scoped lang="scss">
     @import 'assets/scss/settings';
+    .menubar {
+        position: relative;
+        z-index: 1;
+    }
     .main {
         position: relative;
         background-color: white;
@@ -86,6 +93,7 @@
                 }
             }
             .dates {
+                z-index: -1;
                 background-color: $figma-grey3;
                 padding-top: 140px;
                 padding-left: 30px;
