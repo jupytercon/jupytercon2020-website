@@ -1,19 +1,6 @@
 <template>
     <div>
-        <div class="jupyter-logo">
-            <nuxt-link to="/" aria-label="home"><img src="~assets/svg/logo.svg" alt="JupyterCon logo"/></nuxt-link>
-        </div>
-        <div class="menu-text">Menu
-        </div>
-        <div class="menu-btn" :class="menuOpen?'opened':'closed'" @click="menuOpen = !menuOpen"></div>
-        <div class="menu-wrapper">
-            <div class="menu-overlay" :class="menuOpen?'opened':'closed'">
-                <div class="social-icons"></div>
-                <div class="terms">Privacy Policy | Terms & Conditions
-                </div>
-                <MenuContent></MenuContent>
-            </div>
-        </div>
+        <MenuBar />
         <div class="page-title">
             <h1><span>{{ title }}</span><br/><span class="year" v-if="year">2020</span></h1>
         </div>
@@ -35,43 +22,16 @@
 </template>
 
 <script>
-    import MenuContent from "./MenuContent";
-
+    import MenuBar from "./MenuBar";
     export default {
         name: "DesktopHeader",
-        components: {MenuContent},
+        components: {MenuBar},
         props: ['title', 'year'],
-        data() {
-            return {
-                menuOpen: false,
-            }
-        },
     }
 </script>
 
 <style scoped lang="sass">
     @import 'assets/scss/settings'
-
-    .temp-nav
-        a
-            margin: 20px
-
-    .temp-menu
-        a
-            margin: 20px
-            color: white
-            border-color: white
-
-    .jupyter-logo
-        position: absolute
-        width: 169px
-        height: 45px
-        left: 54px
-        top: 27px
-
-        img
-            width: 168px
-            height: 45px
 
     .page-title
         position: absolute
@@ -135,61 +95,6 @@
         line-height: 24px
         color: #4D4D4D
 
-    .menu-btn
-        position: absolute
-        width: 44px
-        height: 50px
-        left: 1354px
-        top: 26px
-
-        transition: background .3 s ease-in-out
-        cursor: pointer
-
-        &.closed
-            background: url(~assets/svg/menu-icon.svg)
-
-        &.opened
-            background: url(~assets/svg/menu-close-icon.svg)
-
-    .menu-overlay, .menu-wrapper
-        width: 1440px
-        height: 712px
-
-    .menu-wrapper
-        position: absolute
-        left: 0
-        top: 100px
-        overflow: hidden
-
-    .menu-overlay
-        background-color: #F37626
-        position: relative
-
-        transition: left 0.2s ease
-        z-index: 10
-
-        &.closed
-            left: 1440px
-
-        &.opened
-            left: 0;
-
-
-        .social-icons
-            position: absolute
-            left: 100px
-            bottom: 100px
-            width: 240px
-            height: 53px
-            background: url(~assets/svg/social-icons.svg) no-repeat
-
-        .terms
-            position: absolute
-            right: 100px
-            bottom: 100px
-            color: white
-            font-family: $figma-font-ibm
-
     .image
         position: absolute
         width: 901px
@@ -204,29 +109,4 @@
 
         .placeholder
             border: 1px dashed black
-</style>
-
-<style lang="sass">
-    .menu-overlay
-        .clearfix
-            padding-top: 100px
-            margin-left: 100px
-            margin-right: 100px
-        .menu-block
-            width: 246px
-            color: white
-
-            .no-title
-                line-height: 36px
-
-            a
-                color: white
-                padding: 0
-
-            a:hover
-                text-decoration: underline
-
-            h3
-                margin-bottom: 36px
-
 </style>
