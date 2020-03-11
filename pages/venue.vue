@@ -3,7 +3,11 @@
         <BlockHeader :buttons="false" title="Venue" tall>
             <template v-slot:side-content>
                 <div>bcc Berlin Congress Center</div>
-                <div class="location-name">Berlin, Germany</div>
+                <div class="location-name">
+                <p>
+                Alexanderstr. 11, 10178 Berlin
+                </p>
+                </div>
             </template>
             <template v-slot:media>
                 <img src="~assets/images/bcc_photo_exterior_view_4708_x_2648_pixel_350_dpi.webp"/>
