@@ -60,6 +60,10 @@
 
 <style scoped lang="scss">
     @import 'assets/scss/settings';
+    .menubar {
+        position: relative;
+        z-index: 1;
+    }
     h1 {
         font-size: 36px;
     }

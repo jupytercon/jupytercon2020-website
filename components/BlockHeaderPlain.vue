@@ -1,5 +1,6 @@
 <template>
     <div class="header-plain">
+        <MenuBar class='menubar'/>
         <div class="title float-left">
             <slot name="title">
                 <h1>{{ title }}</h1>
@@ -16,15 +17,22 @@
 
 
 <script>
+    import MenuBar from "../components/MenuBar";
     export default {
         name: "BlockHeader",
+        components: {MenuBar},
         props: ['title', 'year'],
     }
 </script>
 
 <style scoped lang="scss">
     @import 'assets/scss/settings';
-
+    .menubar {
+        position: absolute;
+        left: 0;
+        right: 0;
+        z-index: 1;
+    }
     .header-plain {
         height: 298px;
         .title {
