@@ -12,10 +12,12 @@
                 <div class="header-content">
                     <h2>The conference hall</h2>
                     <slot>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
-                        Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
-                        malesuada pretium faucibus odio quis
-                        congue.</p>
+                    <p>
+                        This year’s JupyterCon will take place at the <a href="https://www.bcc-berlin.de/en">bcc Berlin Congress Center</a>.
+                        Situated in the heart of Berlin, it provides easy access to the city’s top destinations including Alexanderplatz,
+                        Maerkisches Museum, Altes Stadthaus, Rotes Rathaus and many others.
+                        The location's excellent public transport connections ensure an easy arrival and minimized commuting times.
+                    </p>
                     </slot>
                 </div>
             </template>
@@ -125,6 +127,10 @@
     .header-content {
         margin: 100px 120px;
         color: white;
+        a {
+            color: white;
+            text-decoration: underline;
+        }
         h2 {
             font-size: 30px;
         }
