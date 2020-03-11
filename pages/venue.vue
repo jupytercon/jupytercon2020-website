@@ -9,7 +9,7 @@
                 <img src="~assets/images/bcc_photo_exterior_view_4708_x_2648_pixel_350_dpi.webp"/>
             </template>
             <template v-slot:content>
-                <div class="header-content"> 
+                <div class="header-content">
                     <h2>The conference hall</h2>
                     <slot>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
@@ -88,11 +88,12 @@
         <BlockGreyOrange :right="false">
             <img src="~assets/images/venue-berlin-roads.jpg" class="float-left"></img>
             <div class="main-text participate-text float-left">
-                <h2>Staying there</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
-                    Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
-                    malesuada pretium faucibus odio quis
-                    congue.</p>
+                <h2>Child Care</h2>
+                <p>
+                    Welcome JupyterCon parents! We are pleased to offer complimentary childcare during JupyterCon 2020 in Berlin, Germany.
+                    Quality childcare will be offered on TBD August, 2020 by licensed and pre-screened providers. Childcare is offered during the conference hours only.
+                    If you like to sign up for this service, please complete the Childcare Request Questionnaire by insert date. If you have any questions, email us at events@numfocus.org.
+                </p>
                 <nuxt-link class="button hollow" to="/about/">Learn More</nuxt-link>
             </div>
         </BlockGreyOrange>
