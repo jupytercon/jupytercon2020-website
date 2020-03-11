@@ -44,15 +44,17 @@
             <h2>How can I get to the venue?</h2>
             <p>[TO BE FILLED BY LOCAL TEAM]</p>
         </div>
+        <DesktopFooter />
     </div>
 </template>
 
 <script>
     import BlockHeaderPlain from "../components/BlockHeaderPlain";
+    import DesktopFooter from "../components/DesktopFooter";
 
     export default {
         name: "proposals",
-        components: {BlockHeaderPlain},
+        components: {DesktopFooter, BlockHeaderPlain},
     }
 </script>
 
@@ -69,8 +71,6 @@
     }
     .main {
         background-color: $figma-grey3;
-        padding-left: 100px;
-        padding-right: 100px;
-        padding-top: 100px;
+        padding: 100px;
     }
 </style>
