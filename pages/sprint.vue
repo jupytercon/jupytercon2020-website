@@ -44,20 +44,26 @@
             <h2>How can I get to the venue?</h2>
             <p>[TO BE FILLED BY LOCAL TEAM]</p>
         </div>
+        <DesktopFooter />
     </div>
 </template>
 
 <script>
     import BlockHeaderPlain from "../components/BlockHeaderPlain";
+    import DesktopFooter from "../components/DesktopFooter";
 
     export default {
         name: "proposals",
-        components: {BlockHeaderPlain},
+        components: {DesktopFooter, BlockHeaderPlain},
     }
 </script>
 
 <style scoped lang="scss">
     @import 'assets/scss/settings';
+    .menubar {
+        position: relative;
+        z-index: 1;
+    }
     h1 {
         font-size: 36px;
     }
@@ -69,8 +75,6 @@
     }
     .main {
         background-color: $figma-grey3;
-        padding-left: 100px;
-        padding-right: 100px;
-        padding-top: 100px;
+        padding: 100px;
     }
 </style>
