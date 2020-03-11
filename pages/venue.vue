@@ -89,7 +89,7 @@
 
         <BlockGreyOrange :right="false">
             <img src="~assets/images/venue-berlin-roads.jpg" class="float-left"></img>
-            <div class="main-text participate-text float-left">
+            <div class="main-text main-content float-left">
                 <h2>Child Care</h2>
                 <p>
                     Welcome JupyterCon parents! We are pleased to offer complimentary childcare during JupyterCon 2020 in Berlin, Germany.
