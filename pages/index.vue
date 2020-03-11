@@ -16,6 +16,7 @@
             <img src="~assets/images/speed-network.jpg" class="float-left"></img>
         </BlockGreyOrange>
         <DesktopSponsors />
+        <DesktopFooter />
     </div>
 </template>
 
@@ -24,10 +25,11 @@
     import BlockAbout from "../components/BlockAbout";
     import BlockGreyOrange from "../components/BlockGreyOrange";
     import DesktopSponsors from "../components/DesktopSponsors";
+    import DesktopFooter from "../components/DesktopFooter";
 
     export default {
         name: "index",
-        components: {DesktopSponsors, BlockHeader, BlockAbout, BlockGreyOrange},
+        components: {DesktopFooter, DesktopSponsors, BlockHeader, BlockAbout, BlockGreyOrange},
     }
 </script>
 

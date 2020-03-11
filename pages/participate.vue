@@ -82,6 +82,7 @@
                 </div>
             </div>
         </BlockGreyOrange>
+        <DesktopFooter />
     </div>
 </template>
 
@@ -89,10 +90,11 @@
     import BlockHeader from "../components/BlockHeader";
     import BlockAbout from "../components/BlockAbout";
     import BlockGreyOrange from "../components/BlockGreyOrange";
+    import DesktopFooter from "../components/DesktopFooter";
 
     export default {
         name: "participate",
-        components: {BlockHeader, BlockAbout, BlockGreyOrange},
+        components: {DesktopFooter, BlockHeader, BlockAbout, BlockGreyOrange},
     }
 </script>
 
