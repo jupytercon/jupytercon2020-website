@@ -2,7 +2,7 @@
     <div>
         <BlockHeader title="JupyterCon" subtitle="2020">
         </BlockHeader>
-        <BlockAbout :img="require('~/assets/images/flickr/batman.jpg')" title="About"/>
+        <BlockAbout :img="require('~/assets/images/flickr/people_smiling_sitting.jpg')" title="About"/>
         <BlockGreyOrange/>
     </div>
 </template>
