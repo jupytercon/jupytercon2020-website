@@ -7,11 +7,10 @@
         </div>
         <div class="extra float-left">
             <slot name="side-content">
-                Deadline
             </slot>
             <img src="~assets/svg/circle-facing-left-white-orange.svg" class="halfcircle"/>
         </div>
-    </div>        
+    </div>
 </template>
 
 
