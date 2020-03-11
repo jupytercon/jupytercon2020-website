@@ -7,12 +7,19 @@
                 </div>
                 <div class="float-right"><a class="button hollow">View all</a></div>
             </div>
-
-            <carousel :per-page="4" :mouse-drag="false" autoplay loop navigationEnabled :paginationEnabled="false" class="carousel">
-                <slide v-for="sponsor in sponsors" :key="sponsor">
-                    <div class="sponsor-placeholder">Sponsor {{ sponsor }}</div>
-                </slide>
-            </carousel>
+            <div class="grid-x logos">
+                <div class="cell large-4">
+                    <img class="sponsor" src="~assets/images/sponsors/WIA-Secondary-RGB.png"/>
+                </div>
+                <div class="cell large-4">
+                    <img class="sponsor" src="~assets/images/sponsors/wwcode_Final Logo.svg"/>
+                </div>
+                <div class="cell large-4">
+                    <div class="sponsor">
+                        Sponsor 3
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </template>
@@ -20,11 +27,6 @@
 <script>
     export default {
         name: "DesktopSponsors",
-        data() {
-            return {
-                sponsors: [1, 2, 3, 4, 5, 6, 7, 8]
-            }
-        }
     }
 </script>
 
@@ -33,7 +35,6 @@
 
     .sponsors
         background-color: white
-        height: 800px
 
         .main-text
             padding-top: 200px
@@ -50,21 +51,13 @@
         h2
             color: $figma-orange
 
-    .carousel
-        margin-top: 60px
-        margin-left: 120px
-        margin-right: 120px
+        .logos
+            margin: 60px 120px
+            padding-bottom: 120px
 
-        .VueCarousel-navigation-button
-            color: #9E9E9E
-
-    .sponsor-placeholder
-        width: 250px
-        height: 250px
-        background-color: #9E9E9E
-</style>
-
-<style lang="sass">
-    .sponsors .carousel .VueCarousel-navigation-button
-        color: #9E9E9E
+        .sponsor
+            width: 250px
+            height: 250px
+            border: 1px solid $figma-grey2
+            object-fit: scale-down
 </style>
