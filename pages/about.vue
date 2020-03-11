@@ -17,6 +17,7 @@
                 <h1>Conduct - diversity - eco friendly</h1>
             </div>
         </BlockGreyOrange>
+        <DesktopFooter />
     </div>
 </template>
 
@@ -24,10 +25,11 @@
     import BlockHeader from "../components/BlockHeader";
     import BlockAbout from "../components/BlockAbout";
     import BlockGreyOrange from "../components/BlockGreyOrange";
+    import DesktopFooter from "../components/DesktopFooter";
 
     export default {
         name: "about",
-        components: {BlockHeader, BlockAbout, BlockGreyOrange},
+        components: {DesktopFooter, BlockHeader, BlockAbout, BlockGreyOrange},
     }
 </script>
 

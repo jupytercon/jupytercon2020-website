@@ -52,7 +52,7 @@
             color: $figma-orange
 
         .logos
-            margin: 60px 120px
+            margin: 60px 120px 0
             padding-bottom: 120px
 
         .sponsor

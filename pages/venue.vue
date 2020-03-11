@@ -99,6 +99,7 @@
         <div class="things-todo">
             <h1>Things to do</h1>
         </div>
+        <DesktopFooter />
     </div>
 </template>
 
@@ -106,10 +107,11 @@
     import BlockHeader from "../components/BlockHeader";
     import BlockAbout from "../components/BlockAbout";
     import BlockGreyOrange from "../components/BlockGreyOrange";
+    import DesktopFooter from "../components/DesktopFooter";
 
     export default {
         name: "venue",
-        components: {BlockHeader, BlockAbout, BlockGreyOrange},
+        components: {DesktopFooter, BlockHeader, BlockAbout, BlockGreyOrange},
     }
 </script>
 
