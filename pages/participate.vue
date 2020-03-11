@@ -19,6 +19,38 @@
         </BlockHeader>
         <div class="tickets">
             <h1>Tickets</h1>
+            <div class="grid-x grid-padding-x">
+                <div class="cell small-12 medium-4">
+                    <h3 class="ticket-number">1</h3>
+                    <hr>
+                    <h3>Ticket Type 1</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
+                        Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
+                        malesuada pretium faucibus odio quis
+                        congue.</p>
+                    <a class="button">Purchase</a>
+                </div>
+                <div class="cell small-12 medium-4">
+                    <h3 class="ticket-number">2</h3>
+                    <hr>
+                    <h3>Ticket Type 2</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
+                        Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
+                        malesuada pretium faucibus odio quis
+                        congue.</p>
+                    <a class="button">Purchase</a>
+                </div>
+                <div class="cell small-12 medium-4">
+                    <h3 class="ticket-number">3</h3>
+                    <hr>
+                    <h3>Ticket Type 3</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
+                        Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
+                        malesuada pretium faucibus odio quis
+                        congue.</p>
+                    <a class="button">Purchase</a>
+                </div>
+            </div>
         </div>
 
         <BlockGreyOrange>
@@ -77,7 +109,10 @@
         }
     }
     .tickets {
-        height: 800px;
+        h3 {
+            color: $figma-orange;
+        }
+
         padding: 100px 120px;
         background-color: white;
         h1 {
@@ -89,5 +124,11 @@
          h1 {
              margin-bottom: 100px;
          }
+    }
+    .ticket-number {
+        font-size: 220px;
+        -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
     }
 </style>
