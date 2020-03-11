@@ -9,13 +9,15 @@
                 <img src="~assets/images/bcc_photo_exterior_view_4708_x_2648_pixel_350_dpi.webp"/>
             </template>
             <template v-slot:content>
-                <div class="header-content"> 
+                <div class="header-content">
                     <h2>The conference hall</h2>
                     <slot>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
-                        Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
-                        malesuada pretium faucibus odio quis
-                        congue.</p>
+                    <p>
+                        This year’s JupyterCon will take place at the <a href="https://www.bcc-berlin.de/en">bcc Berlin Congress Center</a>.
+                        Situated in the heart of Berlin, it provides easy access to the city’s top destinations including Alexanderplatz,
+                        Maerkisches Museum, Altes Stadthaus, Rotes Rathaus and many others.
+                        The location's excellent public transport connections ensure an easy arrival and minimized commuting times.
+                    </p>
                     </slot>
                 </div>
 
