@@ -1,0 +1,63 @@
+<template>
+    <div class="header-plain">
+        <div class="title float-left">
+            <slot name="title">
+                <h1>{{ title }}</h1>
+            </slot>
+        </div>
+        <div class="extra float-left">
+            <slot name="side-content">
+                Deadline
+            </slot>
+            <img src="~assets/svg/circle-facing-left-white-orange.svg" class="halfcircle"/>
+        </div>
+    </div>        
+</template>
+
+
+<script>
+    export default {
+        name: "BlockHeader",
+        props: ['title', 'year'],
+    }
+</script>
+
+<style scoped lang="scss">
+    @import 'assets/scss/settings';
+
+    .header-plain {
+        height: 298px;
+        .title {
+            background-color: white;
+            width: 60%;
+            height: 100%;
+            font-size: 96px;
+            font-family: $figma-font-gosha;
+            color: $figma-orange;
+            padding-left: 122px;
+            padding-top: 122px;
+            h1 {
+                font-size: 48px;
+            }
+        }
+        .extra {
+            padding-left: 122px;
+            padding-top: 122px;
+            position: relative;
+            background-color: $figma-grey2;
+            color: white;
+            font-size: 24px;
+            line-height: 30px;
+
+            width: 40%;
+            height: 100%;
+            .halfcircle {
+                position: absolute;
+                right: 0;
+                bottom: -200px;
+            }
+        }
+    }
+
+
+</style>
