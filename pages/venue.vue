@@ -28,7 +28,7 @@
 </p>
             <h2>Arriving by train</h2>
 
-            <p>ICE and Inter-City trains stop at Berlin Central Station. At the central station follow the  signs.</p>
+            <p>ICE and Inter-City trains stop at Berlin Central Station. At the central station follow the green "S" signs.</p>
 
             <p>Take one of the following trains:</p>
 
@@ -72,7 +72,7 @@
             <li>Tram: M2, M4, M5, M6</li>
             </ul>
 
-            <p>For more info</p>
+            <p>For more info:</p>
             <ul>
               <li><a href="https://www.berlin.de/en/public-transportation/">Public Transportation in Berlin</a></li>
               <li><a href="https://www.bvg.de/en">Travel Information and Journey Planner (BVG).</a></li>
