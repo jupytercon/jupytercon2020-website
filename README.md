@@ -22,4 +22,4 @@ $ npm run generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 # Preview
-https://5e68f84da42af6000bba3273--heuristic-mclean-df145e.netlify.com/
+https://heuristic-mclean-df145e.netlify.com/
