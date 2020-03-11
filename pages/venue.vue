@@ -63,6 +63,10 @@
     .header-content {
         margin: 100px 120px;
         color: white;
+        a {
+            color: white;
+            text-decoration: underline;
+        }
         h2 {
             font-size: 30px;
         }
