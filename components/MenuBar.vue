@@ -9,12 +9,12 @@
 
         <div class="float-right">
             <div class="clearfix right">
-                <div class="float-right menu-btn" :class="menuOpen?'opened':'closed'" @click="menuOpen = !menuOpen"></div>
+                <div class="float-right menu-btn" :class="menuOpen?'opened':'closed'" @click="toggleMenu()"></div>
                 <div class="float-right menu-text">Menu</div>
             </div>
 
-            <div class="menu-wrapper">
-                <div class="menu-overlay" :class="menuOpen?'opened':'closed'">
+            <div class="menu-wrapper" ref="menuWrapper">
+                <div class="menu-overlay" :class="menuOpen?'opened':'closed'" ref="menuOverlay">
                     <div class="social-icons"></div>
                     <div class="terms">Privacy Policy | Terms & Conditions
                     </div>
@@ -34,10 +34,25 @@
     export default {
         name: "MenuBar",
         components: {DesktopBackground, MenuContent},
+        mounted() {
+            this.$refs.menuOverlay.addEventListener('transitionend', (e) => {
+                if (e.target.classList.contains('closed')) {
+                    this.$refs.menuWrapper.style.height = '0';
+                }
+            });
+        },
         data() {
             return {
                 menuOpen: false,
             }
         },
+        methods: {
+            toggleMenu() {
+                if (!this.menuOpen) {
+                    this.$refs.menuWrapper.style.height = '700px';
+                }
+                this.menuOpen = !this.menuOpen
+            }
+        }
     }
 </script>
