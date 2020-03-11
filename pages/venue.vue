@@ -2,7 +2,7 @@
     <div>
         <BlockHeader :buttons="false" title="Venue" tall>
             <template v-slot:side-content>
-                <div>Venue name</div>
+                <div>bcc Berlin Congress Center</div>
                 <div class="location-name">Berlin, Germany</div>
             </template>
             <template v-slot:media>
