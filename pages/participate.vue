@@ -77,7 +77,7 @@
                             Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
                             malesuada pretium faucibus odio quis
                             congue.</p>
-                        <a class="button hollow">Propose a sprint</a>
+                        <nuxt-link class="button hollow" to="/sprint/">Propose a sprint</nuxt-link>
                     </div>
                 </div>
             </div>
