@@ -7,13 +7,8 @@
         <div class="overlay">
             <div class="content clearfix">
                 <slot>
-                    <div class="main-text participate-text float-left">
-                        <h2>Participate</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
-                            Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
-                            malesuada pretium faucibus odio quis
-                            congue.</p>
-                        <nuxt-link class="button hollow" to="/about/">Learn More</nuxt-link>
+                    <div class="main-text main-content float-left">
+                        <h2>BlockGreyOrange</h2>
                     </div>
                     <img src="~assets/images/speed-network.jpg" class="float-left"></img>
                 </slot>
@@ -110,7 +105,7 @@
                     color: white;
                     border-color: white;
                 }
-                .participate-text {
+                .main-content {
                     width: 50%;
                     padding-right: 50px;
                     padding-left: 50px;
