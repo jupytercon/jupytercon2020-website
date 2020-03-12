@@ -113,4 +113,8 @@
             }
         }
     }
+    .button.hollow:hover {
+        color: $figma-orange;
+        border-color: $figma-orange;
+    }
 </style>
