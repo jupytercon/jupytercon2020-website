@@ -1,6 +1,4 @@
-# JupyterCon2020b
-
-> My splendid Nuxt.js project
+# JupyterCon 2020 Website
 
 ## Build Setup
 
@@ -21,5 +19,7 @@ $ npm run generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
-# Preview
-https://heuristic-mclean-df145e.netlify.com/
+# Previews
+
+- https://heuristic-mclean-df145e.netlify.com/
+- https://jupytercon.github.io/jupytercon2020-website/
