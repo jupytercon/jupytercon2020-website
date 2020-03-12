@@ -31,14 +31,14 @@
                     <hr>
                     <h3>Regular</h3>
                     <p>Open through July 26th</p>
-                    <a class="button" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
+                    <a class="button disabled" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
                 </div>
                 <div class="cell small-12 medium-4 grayscale">
                     <h3 class="ticket-number">Aug 10th</h3>
                     <hr>
                     <h3>Last Call</h3>
                     <p>From July 27th</p>
-                    <a class="button" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
+                    <a class="button disabled" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
                 </div>
             </div>
         </div>
@@ -119,7 +119,11 @@
         width: 212px !important;
     }
 
-    .grayscale { 
+    .grayscale {
         opacity: 0.4;
+    }
+
+    .disabled {
+        pointer-events: none;
     }
 </style>
