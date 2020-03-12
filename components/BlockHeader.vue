@@ -21,8 +21,8 @@
             <div :class="tall ? 'content-tall' : 'content'">
                 <slot name="content">
                     <div class="tickets" v-if="buttons">
-                        <nuxt-link class="button hollow" to="/participate/#Register / Tickets">Buy tickets</nuxt-link>
-                        <nuxt-link class="button hollow" to="/participate/#Call for proposals">Submit a talk</nuxt-link>
+                        <nuxt-link class="button hollow" :to="{path: '/participate/', hash: '#Register / Tickets'}">Buy tickets</nuxt-link>
+                        <nuxt-link class="button hollow" :to="{path: '/participate/', hash: '#Call for proposals'}">Submit a talk</nuxt-link>
                     </div>
                 </slot>
             </div>
