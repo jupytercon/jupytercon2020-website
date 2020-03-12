@@ -92,7 +92,7 @@
             </ul>
         </div>
 
-        <div class="hotel-local-info white-background" id="Hotels info">
+        <div class="hotel-local-info white-background" id="Hotel and local info">
             <h1>Hotels and local info</h1>
 
                 <h2>Hotels</h2>
