@@ -30,7 +30,7 @@
             <div class="movie">
                 <slot name="media">
                     <video class="autoplay" id="autoplay-video" autoplay="false" muted="true" loop="" style="height: 516px;">
-                        <source src="https://ak8.picdn.net/shutterstock/videos/7925128/preview/stock-footage-berlin-nov-timelpase-view-of-the-berlin-tv-tower-and-skyline-one-of-the-citys-main-tourist.mp4"
+                        <source src="~assets/videos/berlin-timelapse.mp4"
                             type="video/mp4"/>
                     </video>
                 </slot>
