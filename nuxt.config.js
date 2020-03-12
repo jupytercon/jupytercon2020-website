@@ -1,11 +1,10 @@
 const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
-  router: {
     base: '/jupytercon2020-website/'
-  }
 } : {}
 
+console.log('routerbase', routerBase)
+
 export default {
-  ...routerBase,
   mode: 'universal',
   /*
   ** Headers of the page
@@ -24,7 +23,8 @@ export default {
   },
   pageTransition: "page",
   router: {
-    trailingSlash: true
+    trailingSlash: true,
+    ...routerBase,
   },
   server: {
     // host: '0.0.0.0'
