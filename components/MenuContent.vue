@@ -63,7 +63,7 @@
                     items: [
                         'Conference center',
                         'Getting there',
-                        'Hotel and local info [*]',
+                        'Hotel and local info',
                         'Child care',
                         'Things to do'
                     ]

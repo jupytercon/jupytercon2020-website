@@ -5,7 +5,7 @@
                 <div>bcc Berlin Congress Center</div>
                 <div class="location-name">
                 <p>
-                Alexanderstr. 11, 10178 Berlin
+                Alexanderstraße 11, 10178 Berlin
                 </p>
                 </div>
             </template>
@@ -26,6 +26,7 @@
                 </div>
             </template>
         </BlockHeader>
+
         <div class="getting-there white-background" id="Getting there">
             <h1>Getting there</h1>
             <p>To make your journey to and from the bcc quick and comfortable.</p>
@@ -91,6 +92,74 @@
             </ul>
         </div>
 
+        <div class="hotel-local-info white-background" id="Hotels info">
+            <h1>Hotels and local info</h1>
+
+                <h2>Hotels</h2>
+
+                    <h3><a href="https://www.radissonhotels.com/en-us/brand/park-inn">Park Inn</a></h3>
+
+                    <p>Alexanderplatz 7, 10178 Berlin</p>
+
+                    <p>
+                    Price: 114€ per single room, 124€ per double room<br>
+                    Distance from venue: 0.3km<br>
+                    Release date: May 17th, 2020<br>
+                    Phone: +49 (0)30 / 2389 4333<br>
+                    E-Mail: reservations@parkinn-berlin.com<br>
+                    Keyword: JupyterCon2020
+                    </p>
+
+                    <h3><a href="https://www.motel-one.com/en/hotels/berlin/hotel-berlin-alexanderplatz/">Motel One Berlin-Alexanderplatz</a></h3>
+
+                    <p>Grunerstraße 11, 10179 Berlin</p>
+
+                    <p>
+                    Price: 79€ per single room, 94€ per double room<br>
+                    Distance from venue: 0.35km<br>
+                    Release date: May 31, 2020<br>
+                    E-Mail: berlin-alexanderplatz@motel-one.com
+                    </p>
+
+                    <h3><a href="https://www.hilton.com/en/hotels/berhxhx-hampton-berlin-city-centre-alexanderplatz/">Hampton Berlin City Centre Alexanderplatz</a></h3>
+
+                    <p>Otto-Braun-Straße 69, 10178 Berlin</p>
+
+                    <p>
+                    Price: 89€ per single room, 99€ per double or twin room<br>
+                    Distance from venue: 0.6km<br>
+                    Release date: June 14th, 2020<br>
+                    Phone: +49 (0) 30 2130 85 933<br>
+                    Group Reference: JupyterCon2020
+                    </p>
+
+                <h2>General Information</h2>
+
+                    <h3>Tipping</h3>
+
+                        <p>Tips are officially included in all prices - but it's standard practice to add a tip if you were happy with the service provided.</p>
+
+                        <ul>
+                            <li>Taxi: 10%</li>
+                            <li>Restaurant: 10-15%</li>
+                            <li>Chambermaid: 2-3 €</li>
+                            <li>Hairdresser: 10%</li>
+                        </ul>
+
+                    <h3>Electricity</h3>
+
+                        <p>230V - remember to pack adapters and only bring electrical equipment with a voltage change facility!</p>
+
+                    <h3>Public spaces etiquette</h3>
+
+                        <ul>
+                            <li>When in an escalator, stay on the right if you are not in a hurry, and use the left side otherwise.</li>
+                            <li>Be aware of the bike lanes! Usually they will have a different color.</li>
+                            <li>Leave people exit the trains before going in.</li>
+                            <li>It’s allowed to drink on the streets but not inside the public transportation (gray-area with S-bahns and Regional trains).</li>
+                        </ul>
+        </div>
+
         <BlockGreyOrange :right="false" id="Child care">
             <img src="~assets/images/venue-berlin-roads.jpg" class="float-left"></img>
             <div class="main-text main-content float-left">
@@ -103,6 +172,7 @@
                 <nuxt-link class="button hollow" to="/about/">Learn More</nuxt-link>
             </div>
         </BlockGreyOrange>
+
         <div class="things-todo  white-background " id="Things to do">
             <h1>Things to do</h1>
             <p>Located at the heart of Europe, Berlin is one of the most vibrant and cultural cities in Europe. It features top-notch European universities and research facilities and a cultural landscape full of art treasures and international collections. Excellent public transport and a vibrant nightlife make Berlin one of the top spots to be!</p>
@@ -280,32 +350,6 @@ Daily 9.00 a.m. to midnight.</p>
                 <h4><a href="https://www.google.com/maps/place/Transit/@52.5291155,13.4033113,17.75z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x47a851e473c07501:0x1a18bdadb06f54d0!8m2!3d52.5286717!4d13.4022877">Transit</a></h4>
 
                     <p>Asian mediterranean fusion restaurant that serves many small dishes in its menu. The main concept here is to order many of them and share them on a table.</p>
-
-        <h2>General Information</h2>
-
-            <h3>Tipping</h3>
-
-                <p>Tips are officially included in all prices - but it's standard practice to add a tip if you were happy with the service provided.</p>
-
-                <ul>
-                    <li>Taxi: 10%</li>
-                    <li>Restaurant: 10-15%</li>
-                    <li>Chambermaid: 2-3 €</li>
-                    <li>Hairdresser: 10%</li>
-                </ul>
-
-            <h3>Electricity</h3>
-
-                <p>230V - remember to pack adapters and only bring electrical equipment with a voltage change facility!</p>
-
-            <h3>Public spaces etiquette</h3>
-
-                <ul>
-                    <li>When in an escalator, stay on the right if you are not in a hurry, and use the left side otherwise.</li>
-                    <li>Be aware of the bike lanes! Usually they will have a different color.</li>
-                    <li>Leave people exit the trains before going in.</li>
-                    <li>It’s allowed to drink on the streets but not inside the public transportation (gray-area with S-bahns and Regional trains).</li>
-                </ul>
         </div>
         <DesktopFooter />
     </div>
@@ -340,7 +384,11 @@ Daily 9.00 a.m. to midnight.</p>
             font-size: 30px;
         }
     }
-    .getting-there, .things-todo {
+    .getting-there, .things-todo, .hotel-local-info {
         padding: 100px 120px;
+    }
+
+    .hotel-local-info {
+        background: $figma-grey3;
     }
 </style>
