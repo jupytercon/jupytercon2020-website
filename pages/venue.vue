@@ -181,6 +181,40 @@
 
             <p>If you are staying extra days in Berlin, for example during the weekend, you might be interested in checking out some of the popular activities and sights!</p>
 
+            <h3>Restaurants and Bars close to the bcc</h3>
+
+                <h4><a href="https://www.google.com/maps/place/Hofbr%C3%A4u+Wirtshaus+Berlin/@52.5232845,13.4105376,17.75z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x0:0xdb4940eb3fc10d1d!8m2!3d52.5245624!4d13.413846">Hofbräu Wirtshaus Berlin</a></h4>
+
+                    <p>One of the largest bavarian-like restaurants in Berlin, which is also really touristic, so better to make a reservation beforehand. Since it’s a large open space, it’s usually a bit noisy.</p>
+
+                <h4><a href="https://www.google.com/maps/place/Madami+-+Mom's+vietnamese+kitchen/@52.525119,13.4086387,17.25z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x47a84e1fd1e33e39:0x3e26c82b22aa020d!8m2!3d52.5233653!4d13.4089456">Madami - Mom's vietnamese kitchen</a></h4>
+
+                    <p>One of the best vietnamese restaurants in this are of Berlin, and there are two of them really close by. The map points to the one in Rosa-Luxemburg-Str but around the corner in Dircksenstr there is also another one.</p>
+
+                <h4><a href="https://www.google.com/maps/place/Dolores/@52.525119,13.4086387,17.25z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x0:0x361f48f2cb931ba4!8m2!3d52.5238598!4d13.4091997">Dolores</a></h4>
+
+                    <p>Mexican restaurants that specialize in Burritos, Bowls and Nachos. You can buy yours as a take away, due to the popularity there is always some queue, but it’s worth the wait.</p>
+
+                <h4><a href="https://www.google.com/maps/place/Belushi's+Berlin/@52.5277427,13.4080072,17.25z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x47a84e1df02f9389:0xcc322c3368ec8722!8m2!3d52.52686!4d13.4105824">Belushi's Berlin</a></h4>
+
+                    <p>US-style sport bar that sells some local beers but also imported ones. They serve finger food, burgers and more. Since it’s also a Hostel, there is always people from all over the globe.</p>
+
+                <h4><a href="https://www.google.com/maps/place/Kaschk/@52.5286153,13.4057608,17.25z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x0:0x29195df9db2b738d!8m2!3d52.5284058!4d13.4099025">Kaschk</a></h4>
+
+                    <p>Small Beer and Coffee place that sells a varied selection of local beers, but also coffee and some cakes.</p>
+
+                <h4><a href="https://www.google.com/maps/place/Zeit+f%C3%BCr+Brot/@52.5277535,13.4072568,18.25z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x0:0x1231990246d7414!8m2!3d52.5280121!4d13.4086033">Zeit für Brot</a></h4>
+
+                    <p>Bakery that sells one of the best cinnamon rolls in Berlin. They have a large variety of other bread and cakes, so it’s worth it if you are close by and want to have a coffee and something sweet.</p>
+
+                <h4><a href="https://www.google.com/maps/place/Brauhaus+Georgbr%C3%A6u/@52.5170946,13.4067599,17.5z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x0:0x48223ec25814cecd!8m2!3d52.5165318!4d13.4054989">Brauhaus Georgbræu</a></h4>
+
+                    <p>Located inside the Nikolaiviertel this is a brewery and a restaurant that serves typical south German food. Due to the location it can become really full of tourist, since it’s close to the Museum Island.</p>
+
+                <h4><a href="https://www.google.com/maps/place/Transit/@52.5291155,13.4033113,17.75z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x47a851e473c07501:0x1a18bdadb06f54d0!8m2!3d52.5286717!4d13.4022877">Transit</a></h4>
+
+                    <p>Asian mediterranean fusion restaurant that serves many small dishes in its menu. The main concept here is to order many of them and share them on a table.</p>
+
             <h3>Science & Technology</h3>
 
                 <h4><a href="http://www.naturkundemuseum-berlin.de/en/">Museum for Natural History</a></h4>
@@ -285,7 +319,7 @@ Daily 9.00 a.m. to midnight.</p>
                     <p>
                     Free admission 24/7<br>
                     Stations: Bernauer Strasse (U8), Nordbahnhof (S1, S2, S25)
-                    </p>                    
+                    </p>
 
                 <h4><a href="http://berliner-unterwelten.de/home.1.1.html">Berlin Underground</a></h4>
 
@@ -316,40 +350,6 @@ Daily 9.00 a.m. to midnight.</p>
                 <h4><a href="http://www.visitberlin.de/en/article/museum-pass-berlin">Museum Pass Berlin</a></h4>
 
                     <p>The 3-day Berlin Museum Pass gives free admission to many of the big museums . €24,00 (reduced €12)/</p>
-
-            <h3>Restaurants and Bars close to the bcc</h3>
-
-                <h4><a href="https://www.google.com/maps/place/Hofbr%C3%A4u+Wirtshaus+Berlin/@52.5232845,13.4105376,17.75z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x0:0xdb4940eb3fc10d1d!8m2!3d52.5245624!4d13.413846">Hofbräu Wirtshaus Berlin</a></h4>
-
-                    <p>One of the largest bavarian-like restaurants in Berlin, which is also really touristic, so better to make a reservation beforehand. Since it’s a large open space, it’s usually a bit noisy.</p>
-
-                <h4><a href="https://www.google.com/maps/place/Madami+-+Mom's+vietnamese+kitchen/@52.525119,13.4086387,17.25z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x47a84e1fd1e33e39:0x3e26c82b22aa020d!8m2!3d52.5233653!4d13.4089456">Madami - Mom's vietnamese kitchen</a></h4>
-
-                    <p>One of the best vietnamese restaurants in this are of Berlin, and there are two of them really close by. The map points to the one in Rosa-Luxemburg-Str but around the corner in Dircksenstr there is also another one.</p>
-
-                <h4><a href="https://www.google.com/maps/place/Dolores/@52.525119,13.4086387,17.25z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x0:0x361f48f2cb931ba4!8m2!3d52.5238598!4d13.4091997">Dolores</a></h4>
-
-                    <p>Mexican restaurants that specialize in Burritos, Bowls and Nachos. You can buy yours as a take away, due to the popularity there is always some queue, but it’s worth the wait.</p>
-
-                <h4><a href="https://www.google.com/maps/place/Belushi's+Berlin/@52.5277427,13.4080072,17.25z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x47a84e1df02f9389:0xcc322c3368ec8722!8m2!3d52.52686!4d13.4105824">Belushi's Berlin</a></h4>
-
-                    <p>US-style sport bar that sells some local beers but also imported ones. They serve finger food, burgers and more. Since it’s also a Hostel, there is always people from all over the globe.</p>
-
-                <h4><a href="https://www.google.com/maps/place/Kaschk/@52.5286153,13.4057608,17.25z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x0:0x29195df9db2b738d!8m2!3d52.5284058!4d13.4099025">Kaschk</a></h4>
-
-                    <p>Small Beer and Coffee place that sells a varied selection of local beers, but also coffee and some cakes.</p>
-
-                <h4><a href="https://www.google.com/maps/place/Zeit+f%C3%BCr+Brot/@52.5277535,13.4072568,18.25z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x0:0x1231990246d7414!8m2!3d52.5280121!4d13.4086033">Zeit für Brot</a></h4>
-
-                    <p>Bakery that sells one of the best cinnamon rolls in Berlin. They have a large variety of other bread and cakes, so it’s worth it if you are close by and want to have a coffee and something sweet.</p>
-
-                <h4><a href="https://www.google.com/maps/place/Brauhaus+Georgbr%C3%A6u/@52.5170946,13.4067599,17.5z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x0:0x48223ec25814cecd!8m2!3d52.5165318!4d13.4054989">Brauhaus Georgbræu</a></h4>
-
-                    <p>Located inside the Nikolaiviertel this is a brewery and a restaurant that serves typical south German food. Due to the location it can become really full of tourist, since it’s close to the Museum Island.</p>
-
-                <h4><a href="https://www.google.com/maps/place/Transit/@52.5291155,13.4033113,17.75z/data=!4m12!1m6!3m5!1s0x47a84e1898c0bf43:0xd2a15220241f2080!2sbcc+Berlin+Congress+Center+GmbH!8m2!3d52.5206375!4d13.4159899!3m4!1s0x47a851e473c07501:0x1a18bdadb06f54d0!8m2!3d52.5286717!4d13.4022877">Transit</a></h4>
-
-                    <p>Asian mediterranean fusion restaurant that serves many small dishes in its menu. The main concept here is to order many of them and share them on a table.</p>
         </div>
         <DesktopFooter />
     </div>
