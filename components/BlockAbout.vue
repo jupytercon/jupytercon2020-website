@@ -5,11 +5,11 @@
             <div class="block2"/>
             <div class="circle"/>
         </div>
-        <div class="overlay">
+        <div class="overlay white-background">
             <div class="content clearfix">
                 <img :src="img" class="float-left"></img>
                 <div class="main-text about-text float-left">
-                    <h2>{{title}}</h2>
+                    <h1>{{title}}</h1>
                     <slot>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
                         Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
@@ -50,6 +50,7 @@
 
 <style scoped lang="scss">
     @import 'assets/scss/settings';
+    @import 'assets/scss/common';
 
     .about {
         position: relative;
@@ -85,6 +86,7 @@
         }
         .overlay {
             position: absolute;
+            background-color: transparent;
 
             left: 0;
             top: 0;
@@ -101,26 +103,14 @@
                     padding-left: 50px;
                     padding-right: 50px;
                     margin-top: -25px;
-                    h2 {
-                        color: $figma-orange;
-                    }
                 }
                 img {
-                    // float: left;
-                    // left: 140px;
                     width: 50%;
                     height: 420px;
                     object-fit: cover;
-                    // left: 30%;
-                    // margin-left: 140px;
-                    // margin-top: 221px;
-                    // margin-top: 100px;
-                    // width: 500px;
                     background-color: transparent;
                 }
             }
         }
     }
-
-
 </style>
