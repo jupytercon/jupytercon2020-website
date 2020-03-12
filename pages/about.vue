@@ -5,14 +5,14 @@
                 <img src="~assets/images/speed-network.jpg"/>
             </template>
         </BlockHeader>
-        <BlockAbout title="What is JupyterCon?" :img="require('~/assets/images/explain.jpg')"/>
-        <BlockGreyOrange>
+        <BlockAbout id="What is it?" title="What is JupyterCon?" :img="require('~/assets/images/explain.jpg')"/>
+        <BlockGreyOrange id="Past Events">
             <h1>Past events</h1>
         </BlockGreyOrange>
-        <div class="comittee">
+        <div id="Organizing Committee" class="comittee">
             <h1>Comittee</h1>
         </div>
-        <BlockGreyOrange :right="false">
+        <BlockGreyOrange id="conduct-diversity-eco" :right="false">
             <div>
                 <h1>Conduct - diversity - eco friendly</h1>
             </div>

@@ -14,7 +14,7 @@
             </div>
 
             <div class="menu-wrapper" ref="menuWrapper">
-                <div class="menu-overlay" :class="menuOpen?'opened':'closed'" ref="menuOverlay">
+                <div class="menu-overlay" :class="menuOpen?'opened':'closed'" ref="menuOverlay"  @click="toggleMenu()">
                     <div class="social-icons">
                         <a href="https://twitter.com/JupyterCon"><div class="social-icon twitter-icon"></div></a>
                         <!-- <a href="#"><div class="social-icon youtube-icon"></div></a> -->

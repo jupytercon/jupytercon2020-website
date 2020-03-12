@@ -17,7 +17,8 @@
 
             </template>
         </BlockHeader>
-        <div class="tickets white-background">
+
+        <div class="tickets white-background" id="Register / Tickets">
             <h1>Tickets</h1>
             <div class="grid-x grid-padding-x">
                 <div class="cell small-12 medium-4">
@@ -53,7 +54,7 @@
             </div>
         </div>
 
-        <BlockGreyOrange>
+        <BlockGreyOrange id="Call for proposals">
             <div class="proposals">
                 <h1>Proposals</h1>
                 <div class="grid-x grid-padding-x">
