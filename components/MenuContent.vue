@@ -47,7 +47,7 @@
                         'Call for proposals',
                         { label: 'Propose a talk', anchor: "Call for proposals" },
                         { label: 'Propose a tutorial', anchor: "Call for proposals" },
-                        { label: 'Propose a sprint', to: "/sprint/" },
+                        { label: 'Attend sprints', to: "/sprint/" },
                     ]
                 }, {
                     label: 'Program',
