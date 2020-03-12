@@ -4,7 +4,7 @@
         <div class="footer-links">
             <MenuContent></MenuContent>
         </div>
-        <div class="terms">Privacy Policy | Terms & Conditions</div>
+        <nuxt-link to="/privacy/"><div class="terms">Privacy Policy | Terms & Conditions</div></nuxt-link>
     </div>
 </template>
 

@@ -19,8 +19,7 @@
                         <a href="https://twitter.com/JupyterCon"><div class="social-icon twitter-icon"></div></a>
                         <a href="https://www.youtube.com/user/PyDataTV"><div class="social-icon youtube-icon"></div></a>
                     </div>
-                    <div class="terms">Privacy Policy | Terms & Conditions
-                    </div>
+                    <nuxt-link to="/privacy/"><div class="terms">Privacy Policy | Terms & Conditions</div></nuxt-link>
                     <div class="menu-columns">
                         <MenuContent></MenuContent>
                     </div>
