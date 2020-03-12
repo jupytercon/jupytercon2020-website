@@ -22,21 +22,21 @@
                 <div class="cell small-12 medium-4">
                     <h3 class="ticket-number">May 24th</h3>
                     <hr>
-                    <h3>Early Bird tickets</h3>
+                    <h3>Early Bird</h3>
                     <p>Open through May 24th</p>
                     <a class="button" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
                 </div>
                 <div class="cell small-12 medium-4 grayscale">
                     <h3 class="ticket-number">July 2th</h3>
                     <hr>
-                    <h3>Regular tickets</h3>
+                    <h3>Regular</h3>
                     <p>Open through July 26th</p>
                     <a class="button" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
                 </div>
                 <div class="cell small-12 medium-4 grayscale">
                     <h3 class="ticket-number">Aug 10th</h3>
                     <hr>
-                    <h3>Last Call tickets</h3>
+                    <h3>Last Call</h3>
                     <p>From July 27th</p>
                     <a class="button" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
                 </div>
