@@ -68,13 +68,12 @@
                         'Things to do'
                     ]
                 }, {
-                    label: 'Sponsors [*]',
+                    label: 'Sponsors',
+                    to: '/sponsors/',
                     items: [
-                        'JupyterCon sponsors [*]',
-                        'Prospectus [*]',
-                        'Exhibits [*]',
-                        'Community Sponsors [*]',
-                        'Media partners [*]'
+                        'Sponsoring',
+                        'Sponsors',
+                        'Community Sponsors'
                     ]
                 }]
             }
