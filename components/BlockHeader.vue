@@ -21,7 +21,11 @@
             <div :class="tall ? 'content-tall' : 'content'">
                 <slot name="content">
                     <div class="tickets" v-if="buttons">
-                        <nuxt-link class="button hollow" :to="{path: '/participate/', hash: '#Register / Tickets'}">Buy tickets</nuxt-link>
+                        <a
+                                class="button hollow"
+                                href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">
+                            Buy tickets
+                        </a>
                         <nuxt-link class="button hollow" :to="{path: '/participate/', hash: '#Call for proposals'}">Submit a talk</nuxt-link>
                     </div>
                 </slot>
