@@ -16,7 +16,9 @@
                         malesuada pretium faucibus odio quis
                         congue.</p>
                     </slot>
-                    <nuxt-link class="button hollow" to="/about/">Learn More</nuxt-link>
+                    <slot name="button">
+                        <nuxt-link class="button hollow" to="/about/">Learn More</nuxt-link>
+                    </slot>
                 </div>
             </div>
         </div>
