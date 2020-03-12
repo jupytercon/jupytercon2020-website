@@ -5,19 +5,11 @@
                 <div class="float-left">
                     <h2>Sponsors</h2>
                 </div>
-                <div class="float-right"><a class="button hollow">View all</a></div>
+                <div class="float-right"><nuxt-link class="button hollow" to="/sponsors/">View all</nuxt-link></div>
             </div>
             <div class="grid-x logos">
-                <div class="cell large-4">
-                    <img class="sponsor" src="~assets/images/sponsors/WIA-Secondary-RGB.png"/>
-                </div>
-                <div class="cell large-4">
-                    <img class="sponsor" src="~assets/images/sponsors/wwcode_Final Logo.svg"/>
-                </div>
-                <div class="cell large-4">
-                    <div class="sponsor">
-                        Sponsor 3
-                    </div>
+                <div class="cell">
+                    <img class="sponsor" src="~assets/images/sponsors/NumFocus.png"/>
                 </div>
             </div>
         </div>
