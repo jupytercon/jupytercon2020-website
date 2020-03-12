@@ -1,6 +1,6 @@
 <template>
     <div>
-        <BlockHeaderPlain title="JUPYTERCON 2020 SPRINT DAY">
+        <BlockHeaderPlain title="Sprints">
             <template  v-slot:side-content>
                 <div>
                     <span class="grey">Date: 14th of August, 2020<br/></span>
