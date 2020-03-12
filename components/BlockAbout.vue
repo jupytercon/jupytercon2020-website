@@ -6,7 +6,8 @@
             <div class="circle"/>
         </div>
         <div class="overlay white-background">
-            <div class="content clearfix">
+            <!-- <div class="content clearfix {{ hide_image ? 'test_class' : null }}"> -->
+            <div :class="'content clearfix ' + (hide_image ? 'no_image' : '')">
                 <img :src="img" class="float-left"></img>
                 <div class="main-text about-text float-left">
                     <h1>{{title}}</h1>
@@ -16,8 +17,7 @@
                         malesuada pretium faucibus odio quis
                         congue.</p>
                     </slot>
-                    <slot name="button">
-                        <nuxt-link class="button hollow" to="/about/">Learn More</nuxt-link>
+                    <nuxt-link v-if="has_button" class="button hollow" to="/about/">Learn More</nuxt-link>
                     </slot>
                 </div>
             </div>
@@ -46,6 +46,15 @@
                 type: Boolean,
                 default: true,
             },
+            hide_image: {
+                type: Boolean,
+                default: false
+            },
+            has_button: {
+                type: Boolean,
+                default: true
+            }
+
         },
   }
 </script>
@@ -94,11 +103,24 @@
             top: 0;
             bottom: 0;
             right: 0;
+            .content.no_image {
+                img {
+                    display: none;
+                }
+                .about-text {
+                    margin-left: 340px;
+                    padding-left: 50px;
+                    padding-right: 50px;
+                    width: 800px;
+                    margin-top: -25px;
+                }
+            }
+
             .content {
                 margin-left: 225px;
                 margin-top: 200px;
                 .text {
-                    width: 400px;
+                    // width: 400px;
                 }
                 .about-text {
                     width: 50%;
