@@ -15,38 +15,38 @@
         <div class="main grey-background">
             <h1>Sprint with the Jupyter community!</h1>
             <hr/>
-            <h2>What is the Sprint Day?</h2>
+            <h3>What is the Sprint Day?</h3>
             <p>The JupyterCon 2020 Sprint Day is a day-long event following the conference. Attendees will
                 have the opportunity to meet active contributors and maintainers of their favorite open source
                 projects, exchange ideas, collaborate in real time, and create lasting connections.</p>
 
-            <h2>Why should I join a sprint?</h2>
+            <h3>Why should I join a sprint?</h3>
             <p>The best part of tech conferences is the people - and sprints are all about people. During the
                 Sprint Day, you will have an opportunity to meet, learn and collaborate with peers from the
                 Jupyter community. Not only will you be able to leave with a contributor badge, but you’ll also
                 make new friends and contacts in the industry, public services, and academia.</p>
 
-            <h2>How can I lead a project sprint?</h2>
+            <h3>How can I lead a project sprint?</h3>
             <p>If you’d like to represent a project from the Jupyter ecosystem at the Sprint Day, please
                 complete this form by 17th of April, 2020.</p>
 
-            <h2>How can I join the Sprint Day?</h2>
+            <h3>How can I join the Sprint Day?</h3>
             <p>The Sprint Day is limited to 100 participants. We encourage and prioritize the participation of
                 members from underrepresented groups within the tech community. Registration for the Sprint
                 Day will open on 24th of April, 2020. Check back on this page or follow @JupyterCon on Twitter
                 for updates.</p>
 
-            <h2>What is the venue for the sprints?</h2>
+            <h3>What is the venue for the sprints?</h3>
             <p>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.1371948589067!2d13.382089915807857!3d52.53095187981627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ec58a9dc71%3A0xf9cfe716cbe1ea43!2sInvalidenstra%C3%9Fe%20116%2C%2010115%20Berlin%2C%20Germany!5e0!3m2!1sen!2sus!4v1583205258608!5m2!1sen!2sus" width="100%" height="480" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
             </p>
 
-            <h2>How can I get to the venue?</h2>
+            <h3>How can I get to the venue?</h3>
             <p>
                 The venue is located right in the center of the city, not far from the conference venue (bcc Berlin Congress Center), and the central station, and is well connected to the public transport network.
                 Here is some information to help you find your way.
             </p>
-            <h3>From the central station (Hauptbahnhof)</h3>
+            <h4>From the central station (Hauptbahnhof)</h4>
             <p>
                 At the central station reach the ground floor and follow the signs to the Europaplatz exit. Cross the street and take one of the following trams (all ca. 3 minutes):
             </p>
@@ -58,7 +58,7 @@
             <p>
                 Get off after two stops at Naturkundemuseum, and walk two minutes to Invalidenstr. 116, ca. 100 meters.
             </p>
-            <h3>From the conference venue</h3>
+            <h4>From the conference venue</h4>
             <p>
                 The two closest stops next to the sprint venue are Nordbahnhof and Naturkundemusem. The shortest connection from Alexanderplatz is the M5 to Naturkundemuseum:
             </p>
