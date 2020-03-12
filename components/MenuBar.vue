@@ -15,7 +15,10 @@
 
             <div class="menu-wrapper" ref="menuWrapper">
                 <div class="menu-overlay" :class="menuOpen?'opened':'closed'" ref="menuOverlay">
-                    <div class="social-icons"></div>
+                    <div class="social-icons">
+                        <a href="https://twitter.com/JupyterCon"><div class="social-icon twitter-icon"></div></a>
+                        <!-- <a href="#"><div class="social-icon youtube-icon"></div></a> -->
+                    </div>
                     <div class="terms">Privacy Policy | Terms & Conditions
                     </div>
                     <div class="menu-columns">
