@@ -33,7 +33,7 @@
             <h3>How can I join the Sprint Day?</h3>
             <p>The Sprint Day is limited to 100 participants. We encourage and prioritize the participation of
                 members from underrepresented groups within the tech community. Registration for the Sprint
-                Day will open on 24th of April, 2020. Check back on this page or follow @JupyterCon on Twitter
+                Day will open on 24th of April, 2020. Check back on this page or follow <a href="https://twitter.com/jupytercon">@JupyterCon</a> on Twitter
                 for updates.</p>
 
             <h3>What is the venue for the sprints?</h3>
