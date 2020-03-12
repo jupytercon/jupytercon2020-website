@@ -5,7 +5,7 @@
             </template>
         </BlockHeaderPlain>
         <div class="main">
-            <h1>Sponsoring</h1>
+            <h1 id="Sponsoring">Sponsoring</h1>
             <p>
                 JupyterCon provides many unique opportunities for sponsors. On the one hand, the conference
                 is certainly the best in-person event in the world in which to engage the community that sustains
@@ -35,7 +35,7 @@
                 If you are interested in sponsoring JupyterCon, email us at <a href="">jupytercon-sponsor@numfocus.org</a>
                 to receive a prospectus.
             </p>
-            <h1 class="sponsors-title">Sponsors</h1>
+            <h1 id="Sponsors" class="sponsors-title">Sponsors</h1>
             <div class="grid-container sponsors">
                 <div class="grid-y">
                     <div class="cell sponsor-row" v-for="sponsor in sponsors">
@@ -53,7 +53,7 @@
                     </div>
                 </div>
             </div>
-            <h1 class="sponsors-title">Community sponsors</h1>
+            <h1 id="Community Sponsors" class="sponsors-title">Community Sponsors</h1>
             <div class="grid-container sponsors">
                 <div class="grid-y">
                     <div class="cell sponsor-row" v-for="sponsor in community_sponsors">
