@@ -44,6 +44,10 @@
             padding-left: 122px;
             padding-top: 122px;
         }
+        .subtitle {
+            margin-top: -30px;
+            color: $figma-grey2;
+        }
         .extra {
             padding-left: 122px;
             padding-top: 122px;

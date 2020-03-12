@@ -13,8 +13,22 @@
             <h1>Comittee</h1>
         </div>
         <BlockGreyOrange id="conduct-diversity-eco" :right="false">
-            <div>
-                <h1>Conduct - diversity - eco friendly</h1>
+            <div class="grid-x grid-padding-x">
+                <div class="cell small-12 medium-4">
+                    <h2 class="ticket-number">Conduct</h2>
+                    <p>Code of conduct</p>
+                    <nuxt-link class="button hollow" to="/codeofconduct/">Code of conduct</nuxt-link>
+                </div>
+                <div class="cell small-12 medium-4">
+                    <h2 class="ticket-number">Diversity</h2>
+                    <p>TBD</p>
+                    <a class="button hollow">Diversity</a>
+                </div>
+                <div class="cell small-12 medium-4">
+                    <h2 class="ticket-number">Eco friendly</h2>
+                    <p>TDB</p>
+                    <nuxt-link class="button hollow" to="/sustainability/">Sustainability</nuxt-link>
+                </div>
             </div>
         </BlockGreyOrange>
         <DesktopFooter />
