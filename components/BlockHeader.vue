@@ -21,8 +21,8 @@
             <div :class="tall ? 'content-tall' : 'content'">
                 <slot name="content">
                     <div class="tickets" v-if="buttons">
-                        <div><a class="button hollow">Buy tickets</a></div>
-                        <div><a class="button hollow">Submit a talk</a></div>
+                        <nuxt-link class="button hollow" to="/participate/#Register / Tickets">Buy tickets</nuxt-link>
+                        <nuxt-link class="button hollow" to="/participate/#Call for proposals">Submit a talk</nuxt-link>
                     </div>
                 </slot>
             </div>
@@ -36,7 +36,7 @@
                 </slot>
             </div>
         </div>
-    </div>        
+    </div>
 </template>
 
 
