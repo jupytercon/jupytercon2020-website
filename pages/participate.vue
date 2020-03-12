@@ -43,19 +43,6 @@
             </div>
         </div>
 
-        <BlockAbout id="Register / Tickets" title="Tickets" :img="require('~/assets/images/flickr/jupyter-desk.jpg')">
-            <template v-slot:button>
-                <a
-                        class="button hollow"
-                        href=""
-                >Learn more</a>
-            </template>
-            <p> [TBD] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
-                Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
-                malesuada pretium faucibus odio quis
-                congue.</p>
-        </BlockAbout>
-
         <BlockGreyOrange id="Call for proposals">
             <div class="proposals">
                 <h1>Proposals</h1>
