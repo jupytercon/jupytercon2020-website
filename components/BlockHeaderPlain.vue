@@ -43,9 +43,6 @@
             color: $figma-orange;
             padding-left: 122px;
             padding-top: 122px;
-            h1 {
-                font-size: 48px;
-            }
         }
         .extra {
             padding-left: 122px;

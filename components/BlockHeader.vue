@@ -92,6 +92,7 @@
                 color: $figma-orange;
                 h1 {
                     line-height: 100%;
+                    font-size: 96px;
                 }
                 .subtitle {
                     margin-top: -30px;

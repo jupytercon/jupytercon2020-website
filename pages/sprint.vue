@@ -12,7 +12,7 @@
                 </div>
             </template>
         </BlockHeaderPlain>
-        <div class="main">
+        <div class="main grey-background">
             <h1>Sprint with the Jupyter community!</h1>
             <hr/>
             <h2>What is the Sprint Day?</h2>
@@ -42,7 +42,38 @@
             </p>
 
             <h2>How can I get to the venue?</h2>
-            <p>[TO BE FILLED BY LOCAL TEAM]</p>
+            <p>
+                The venue is located right in the center of the city, not far from the conference venue (bcc Berlin Congress Center), and the central station, and is well connected to the public transport network.
+                Here is some information to help you find your way.
+            </p>
+            <h3>From the central station (Hauptbahnhof)</h3>
+            <p>
+                At the central station reach the ground floor and follow the signs to the Europaplatz exit. Cross the street and take one of the following trams (all ca. 3 minutes):
+            </p>
+            <ul>
+                <li>M5 (direction Hohenschönhausen, Zingster Str.)</li>
+                <li>M8 (direction Ahrensfelde/Stadtgrenze)</li>
+                <li>M10 (direction S+U Warschauer Str.)</li>
+            </ul>
+            <p>
+                Get off after two stops at Naturkundemuseum, and walk two minutes to Invalidenstr. 116, ca. 100 meters.
+            </p>
+            <h3>From the conference venue</h3>
+            <p>
+                The two closest stops next to the sprint venue are Nordbahnhof and Naturkundemusem. The shortest connection from Alexanderplatz is the M5 to Naturkundemuseum:
+            </p>
+            <ul>
+                <li>M5 (direction S+U Hauptbahnhof) – 11 minutes, 6 stops.
+                <a href="https://wego.here.com/directions/publicTransport/BCC-Berlin-Congress-Center,-Alexanderstra%C3%9Fe,-Mitte,-10179-Berlin:276u33dc-49a0e6d2d9a84f7c96ef7a97d688de53/HERE-Berlin,-Invalidenstra%C3%9Fe-116,-Mitte,-10115-Berlin:276u33db-19451d85dbbe41b4a45ddcf4983e9c10?map=52.52543,13.39976,15,grey">
+                    (Directions)
+                </a>
+                </li>
+            </ul>
+            <h3>Leaving Berlin after the sprint</h3>
+            <p>
+                After the sprint the central station is ideal to take your train back or take an airport shuttle to Berlin Tegel airport (TXL).
+                If you take off from Berlin Schönefeld airport (SXF) you can reach a train from the central station there first.
+            </p>
         </div>
         <DesktopFooter />
     </div>
@@ -60,21 +91,12 @@
 
 <style scoped lang="scss">
     @import 'assets/scss/settings';
+    @import 'assets/scss/common';
     .menubar {
         position: relative;
         z-index: 1;
     }
-    h1 {
-        font-size: 36px;
-    }
-    h2 {
-        font-size: 24px;
-    }
-    h1, h2 {
-        color: $figma-orange;
-    }
     .main {
-        background-color: $figma-grey3;
         padding: 100px;
     }
 </style>
