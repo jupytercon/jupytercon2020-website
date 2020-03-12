@@ -17,7 +17,7 @@
 
             </template>
         </BlockHeader>
-        <div class="tickets">
+        <div class="tickets white-background">
             <h1>Tickets</h1>
             <div class="grid-x grid-padding-x">
                 <div class="cell small-12 medium-4">
@@ -99,6 +99,7 @@
 
 <style lang="scss" scoped>
     @import 'assets/scss/settings';
+    @import 'assets/scss/common';
     .location-name {
         color: $figma-orange;
     }
@@ -110,15 +111,7 @@
         }
     }
     .tickets {
-        h3 {
-            color: $figma-orange;
-        }
-
         padding: 100px 120px;
-        background-color: white;
-        h1 {
-            color: $figma-orange;
-        }
     }
     .proposals {
          margin-top: -100px; // correct default margin
