@@ -12,7 +12,7 @@
                 </div>
             </template>
         </BlockHeaderPlain>
-        <div class="main">
+        <div class="main grey-background">
             <h1>Sprint with the Jupyter community!</h1>
             <hr/>
             <h2>What is the Sprint Day?</h2>
@@ -91,24 +91,12 @@
 
 <style scoped lang="scss">
     @import 'assets/scss/settings';
+    @import 'assets/scss/common';
     .menubar {
         position: relative;
         z-index: 1;
     }
-    h1 {
-        font-size: 36px;
-    }
-    h2 {
-        font-size: 24px;
-    }
-    h3 {
-        font-size: 16px;
-    }
-    h1, h2, h3 {
-        color: $figma-orange;
-    }
     .main {
-        background-color: $figma-grey3;
         padding: 100px;
     }
 </style>

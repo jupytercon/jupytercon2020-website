@@ -5,12 +5,11 @@
     }
 }
 
-h1 {
-    font-size: 72px;
-}
-
-h2 {
-    font-size: 48px;
+.grey-background {
+    background-color: $figma-grey3;
+    h1, h2, h3, h4 {
+        color: $figma-orange;
+    }
 }
 
 .jp-orange {
