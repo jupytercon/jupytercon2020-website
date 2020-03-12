@@ -73,11 +73,10 @@
                     </div>
                     <div class="cell small-12 medium-4">
                         <h2>Sprints</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
-                            Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
-                            malesuada pretium faucibus odio quis
-                            congue.</p>
-                        <nuxt-link class="button hollow" to="/sprint/">Propose a sprint</nuxt-link>
+                        <p>The JupyterCon 2020 Sprint Day is a day-long event following the conference. Attendees will
+                            have the opportunity to meet active contributors and maintainers of their favorite open source
+                            projects, exchange ideas, collaborate in real time, and create lasting connections.</p>
+                        <nuxt-link class="button hollow" to="/sprint/">Attend sprints</nuxt-link>
                     </div>
                 </div>
             </div>
