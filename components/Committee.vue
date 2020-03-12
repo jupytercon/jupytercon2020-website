@@ -57,7 +57,7 @@
                 },
                 {
                     name: "Sylvain Corlay",
-                    bio: "Sylvain Corlay is the founder and CEO of QuantStack, an open-source scientific software development team in Paris and Berlin. As an open source developer, Sylvain contributes to Project Jupyter in the areas of interactive widgets, language kernels, and the Voilà dashboarding system. He was honored with the rest of the Jupyter Steering Council with the 2017 ACM Software System Award for Jupyter.<br/>Besides Jupyter, Sylvain contributes to a number of scientific computing open-source projects such as xtensor, bqplot, and ipyleaflet.",
+                    bio: "Sylvain Corlay is the founder and CEO of QuantStack, an open-source scientific software development team in Paris and Berlin. As an open source developer, Sylvain contributes to Project Jupyter in the areas of interactive widgets, language kernels, and the Voilà dashboarding system.",
                     image: require("~/assets/images/commitee/sylvain.jpg")
                 },
                 {
