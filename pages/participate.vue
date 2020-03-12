@@ -9,10 +9,7 @@
                 <div class="header-content">
                     <h2>Get involved</h2>
                     <slot>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
-                        Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
-                        malesuada pretium faucibus odio quis
-                        congue.</p>
+                    <p>What do you wish you would have known when starting to use Jupyter or interacting in the Jupyter community? What has been the slowest or most frustrating thing you've had to learn about using Jupyter that you could share with others to make their experience better? Propose a talk or poster at the JupyterCon 2020! </p>
                     </slot>
                 </div>
 
@@ -60,17 +57,13 @@
                 <div class="grid-x grid-padding-x">
                     <div class="cell small-12 medium-4">
                         <h2>Talks</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
-                            Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
-                            malesuada pretium faucibus odio quis
-                            congue.</p>
+                        <p>JupyterCon talks are 30 minutes long (plan for 25 minutes of presentation and 5 minutes of questions).</p>
+                        <!-- <a class="button hollow" href="">Apply (TDB)</a> -->
                     </div>
                     <div class="cell small-12 medium-4">
                         <h2>Tutorials</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis risus fames dolor volutpat risus vitae.
-                            Malesuada elit nec nibh elementum at faucibus nisl. Scelerisque elit, vel cursus scelerisque. Sed ut
-                            malesuada pretium faucibus odio quis
-                            congue.</p>
+                        <p>JupyterCon tutorials are 3 hours long session, for beginner, intermediate or experienced users.</p>
+                        <!-- <a class="button hollow" href="">Apply (TDB)</a> -->
                     </div>
                     <div class="cell small-12 medium-4">
                         <h2>Sprints</h2>
