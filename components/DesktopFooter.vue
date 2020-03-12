@@ -1,6 +1,6 @@
 <template>
     <div class="jc-footer">
-        <div class="logo"></div>
+        <nuxt-link to="/"><div class="logo"></div></nuxt-link>
         <div class="footer-links">
             <MenuContent></MenuContent>
         </div>
