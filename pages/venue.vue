@@ -13,7 +13,7 @@
                 <img src="~assets/images/bcc_photo_exterior_view_4708_x_2648_pixel_350_dpi.webp"/>
             </template>
             <template v-slot:content>
-                <div class="header-content">
+                <div class="header-content" id="Conference center">
                     <h2>The conference hall</h2>
                     <slot>
                     <p>
@@ -26,7 +26,7 @@
                 </div>
             </template>
         </BlockHeader>
-        <div class="getting-there white-background">
+        <div class="getting-there white-background" id="Getting there">
             <h1>Getting there</h1>
             <p>To make your journey to and from the bcc quick and comfortable.</p>
             <iframe width="100%" height="480" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1213.855686908161!2d13.416141100470513!3d52.520562242410854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e1898c0bf43%3A0xd2a15220241f2080!2sbcc%20Berlin%20Congress%20Center%20GmbH!5e0!3m2!1sde!2sde!4v1574775063564!5m2!1sde!2sde"></iframe>
@@ -91,7 +91,7 @@
             </ul>
         </div>
 
-        <BlockGreyOrange :right="false">
+        <BlockGreyOrange :right="false" id="Child care">
             <img src="~assets/images/venue-berlin-roads.jpg" class="float-left"></img>
             <div class="main-text main-content float-left">
                 <h2>Child Care</h2>
@@ -103,7 +103,7 @@
                 <nuxt-link class="button hollow" to="/about/">Learn More</nuxt-link>
             </div>
         </BlockGreyOrange>
-        <div class="things-todo white-background ">
+        <div class="things-todo  white-background " id="Things to do">
             <h1>Things to do</h1>
             <p>Located at the heart of Europe, Berlin is one of the most vibrant and cultural cities in Europe. It features top-notch European universities and research facilities and a cultural landscape full of art treasures and international collections. Excellent public transport and a vibrant nightlife make Berlin one of the top spots to be!</p>
 

@@ -2,12 +2,21 @@
     <div class="clearfix">
         <nav>
             <ul class="menu">
-                <li class="menu-block float-left" v-for="block in menuData">
+                <li class="menu-block float-left" v-for="block in menuData" v-if="!block.disabled">
                     <h3>
                         <nuxt-link v-if="block.to" :to="block.to">{{ block.label }}</nuxt-link>
                         <div class="no-title" v-else="">{{ block.label }}</div>
                     </h3>
-                    <div v-for="item in block.items">- {{ item }}</div>
+                        <div v-for="item in block.items" class="anchor-link">
+                            <nuxt-link
+                                    v-if="typeof item === 'string'"
+                                    :to="{ path: block.to, hash: item }"
+                            >- {{ item }}</nuxt-link>
+                            <nuxt-link
+                                    v-if="typeof item === 'object'"
+                                    :to="{ path: (item.to || block.to), hash: item.anchor }"
+                            >- {{ item.label }}</nuxt-link>
+                        </div>
                 </li>
             </ul>
         </nav>
@@ -26,9 +35,9 @@
                         'What is it?',
                         'Past Events',
                         'Organizing Committee',
-                        'Code of Conduct',
-                        'Diversity',
-                        'Eco-friendly efforts'
+                        { label: 'Code of Conduct', to: '/codeofconduct/' },
+                        { label: 'Diversity', anchor: "conduct-diversity-eco" },
+                        { label: 'Eco-friendly efforts', anchor: "conduct-diversity-eco" }
                     ]
                 }, {
                     label: 'Participate',
@@ -36,12 +45,13 @@
                     items: [
                         'Register / Tickets',
                         'Call for proposals',
-                        'Propose a talk',
-                        'Propose a tutorial',
-                        'Propose a sprint',
+                        { label: 'Propose a talk', anchor: "Call for proposals" },
+                        { label: 'Propose a tutorial', anchor: "Call for proposals" },
+                        { label: 'Propose a sprint', to: "/sprint/" },
                     ]
                 }, {
                     label: 'Program',
+                    disabled: true,
                     items: [
                         'Schedule',
                         'Social events',
@@ -52,18 +62,19 @@
                     to: '/venue/',
                     items: [
                         'Conference center',
-                        'Hotel and local info',
+                        'Getting there',
+                        'Hotel and local info [*]',
                         'Child care',
                         'Things to do'
                     ]
                 }, {
-                    label: 'Sponsors',
+                    label: 'Sponsors [*]',
                     items: [
-                        'JupyterCon sponsors',
-                        'Prospectus',
-                        'Exhibits',
-                        'Community Sponsors',
-                        'Media partners'
+                        'JupyterCon sponsors [*]',
+                        'Prospectus [*]',
+                        'Exhibits [*]',
+                        'Community Sponsors [*]',
+                        'Media partners [*]'
                     ]
                 }]
             }
