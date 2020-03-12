@@ -3,6 +3,7 @@
         <BlockHeader :buttons="false" title="Participate" tall>
             <template v-slot:media>
                 <img src="~assets/images/participate.jpg"/>
+                <img class="overlay-circle" src="~assets/svg/circle-dashed-white-facing-left.svg">
             </template>
             <template v-slot:content>
                 <div class="header-content">
@@ -124,5 +125,12 @@
         -webkit-text-fill-color: white; /* Will override color (regardless of order) */
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: black;
+    }
+    img.overlay-circle {
+        position: absolute;
+        top: (516px - 424px)/2;
+        right: 0;
+        height: 424px !important;
+        width: 212px !important;
     }
 </style>
