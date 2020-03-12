@@ -17,7 +17,7 @@
                 <div class="menu-overlay" :class="menuOpen?'opened':'closed'" ref="menuOverlay"  @click="toggleMenu()">
                     <div class="social-icons">
                         <a href="https://twitter.com/JupyterCon"><div class="social-icon twitter-icon"></div></a>
-                        <!-- <a href="#"><div class="social-icon youtube-icon"></div></a> -->
+                        <a href="https://www.youtube.com/user/PyDataTV"><div class="social-icon youtube-icon"></div></a>
                     </div>
                     <div class="terms">Privacy Policy | Terms & Conditions
                     </div>
