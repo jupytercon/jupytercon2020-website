@@ -9,7 +9,9 @@
             </div>
             <div class="grid-x logos">
                 <div class="cell">
-                    <img class="sponsor" src="~assets/images/sponsors/NumFocus.png"/>
+                    <a href="https://numfocus.org/">
+                        <img class="sponsor" src="~assets/images/sponsors/NumFocus.png"/>
+                    </a>
                 </div>
             </div>
         </div>
