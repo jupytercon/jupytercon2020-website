@@ -9,7 +9,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Generate
-        run: npm run generate
+        run: npm install && npm run generate
       - name: Build and Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
