@@ -10,6 +10,7 @@
             networking events, and practical talks exploring the Project Jupyter
             platform.
             </p>
+            <nuxt-link class="button hollow" to="/about/">Learn More</nuxt-link>
         </BlockAbout>
         <BlockGreyOrange>
             <div class="main-text main-content float-left">
