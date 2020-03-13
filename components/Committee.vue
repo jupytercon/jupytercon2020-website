@@ -22,6 +22,12 @@
 
                 members: [
                 {
+                    name: "Lorena Barba",
+                    role: "General Chair",
+                    bio: ""
+                    image: require("~/assets/images/commitee/lorena.png")
+                },
+                {
                     name: "Jeremy Tuloup",
                     role: "Local Organizing Committee Chair",
                     bio: "Scientific Software Developer at QuantStack. Contributor to JupyterLab, the Debugger extension, Voilà and various other projects within the Jupyter ecosystem.",
