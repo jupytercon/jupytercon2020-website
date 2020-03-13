@@ -19,7 +19,8 @@
                 }
 
                 if (to.startsWith('/')) {
-                    return `https://heuristic-mclean-df145e.netlify.com${to}`;
+                    // return `https://heuristic-mclean-df145e.netlify.com${to}`;
+                    return `${this.jupyterConBaseUrl}${to}`;
                 } else {
                     return this.to;
                 }
