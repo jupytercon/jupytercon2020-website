@@ -25,7 +25,7 @@
 </script>
 
 <style scoped lang="scss">
-    @import 'assets/scss/settings';
+    @import '~assets/scss/settings';
     .menubar {
         position: absolute;
         left: 0;

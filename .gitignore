@@ -1,3 +1,9 @@
 dist
 .nuxt
 node_modules
+
+menu-footer/src/assets
+menu-footer/src/components/BlockHeaderPlain.vue
+menu-footer/src/components/DesktopFooter.vue
+menu-footer/src/components/MenuBar.vue
+menu-footer/src/components/MenuContent.vue
