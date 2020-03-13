@@ -28,10 +28,29 @@
                     image: require("~/assets/images/commitee/lorena.png")
                 },
                 {
+<<<<<<< HEAD
                     name: "Sylvain Corlay",
                     role: "Vice Chair",
                     bio: "Sylvain Corlay is the founder and CEO of QuantStack, an open-source scientific software development team in Paris and Berlin. As an open source developer, Sylvain contributes to Project Jupyter in the areas of interactive widgets, language kernels, and the Voilà dashboarding system.",
                     image: require("~/assets/images/commitee/sylvain.jpg")
+=======
+                    name: "Jeremy Tuloup",
+                    role: "Local Organizing Committee Chair",
+                    bio: "Scientific Software Developer at QuantStack. Contributor to JupyterLab, the Debugger extension, Voilà and various other projects within the Jupyter ecosystem.",
+                    image: require("~/assets/images/commitee/jeremy.jpg")
+                },
+                {
+                    name: "Laura Norén",
+                    role: "Eco-friendly Event Chair",
+                    bio: "Laura Norén is VP of Privacy and Trust at Obsidian Security, a cybersecurity startup based in Newport Beach where she runs privacy operations. Norén is a frequent speaker on data ethics, privacy legislation, and the social impact of data-driven technologies. She continues to publish in academic journals as well as popular press locations. She holds undergraduate degrees from MIT and a PhD from NYU where she completed a Moore-Sloan postdoc at the Center for Data Science.",
+                    image: require("~/assets/images/commitee/laura.jpg")
+                },
+                {
+                    name: "Jim Weiss",
+                    role: "Logistics Chair",
+                    bio: "Jim Weiss is the Events Manager for NumFOCUS, and Logistics Chair for JupyterCon 2020. Jim joined NumFOCUS in 2017, and has been supporting the open source scientific programing community through organizing programs like PyData. Prior to joining NumFOCUS, Jim worked in Washington, D.C., coordinating congressional hearings for the U.S. House of Representatives and managing events for the U.S. Air Force.",
+                    image: require("~/assets/images/commitee/jim.jpg")
+>>>>>>> laura-noren-bio
                 },
                 {
                     name: "Jason Grout",
@@ -92,12 +111,6 @@
                     role: "Local Sponsorships Liaison",
                     bio: "Wolf is a robotics engineer from Germany, working on Open Source projects QuantStack. He lives in Berlin, works on jupyter-ros and other jupyterlab extensions and hopes to help organize a really nice JupyterCon 2020!",
                     image: require("~/assets/images/commitee/wolf.jpg")
-                },
-                {
-                    name: "Laura Noren",
-                    role: "Eco-friendly Event Chair",
-                    bio: "Laura Noren is VP of Privacy and Trust at Obsidian Security, a cybersecurity startup based in Newport Beach where she runs privacy operations. Norén is a frequent speaker on data ethics, privacy legislation, and the social impact of data-driven technologies. She continues to publish in academic journals as well as popular press locations. She holds undergraduate degrees from MIT and a PhD from NYU where she completed a Moore-Sloan postdoc at the Center for Data Science.",
-                    image: require("~/assets/images/commitee/laura.jpg")
                 },
                 {
                     name: "Jim Weiss",
