@@ -14,6 +14,7 @@
             <p>
                 The tutorials will be held on 10th and 11th of August, 2020 at the Berlin Conference Center in Berlin, Germany.
             </p>
+            <a class="button" :href="pyDataBaseUrl + 'proposals/submit/tutorial'">Submit</a>
 
             <h2>Dates to remember</h2>
 
