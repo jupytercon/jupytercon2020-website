@@ -22,6 +22,8 @@
             Authors upload talks by September 11, 2020<br/>
             </p>
 
+            <a class="button" :href="pyDataBaseUrl + 'proposals/submit/talk'">Submit</a>
+
             <h2>Talks at JupyterCon 2020</h2>
 
                 <p>

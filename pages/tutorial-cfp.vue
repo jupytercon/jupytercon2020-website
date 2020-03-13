@@ -14,6 +14,7 @@
             <p>
                 The tutorials will be open October 5-9, 2020.
             </p>
+            <a class="button" :href="pyDataBaseUrl + 'proposals/submit/tutorial'">Submit</a>
 
             <h2>Guidelines for proposal submission</h2>
 
