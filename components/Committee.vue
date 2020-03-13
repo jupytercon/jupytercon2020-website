@@ -42,7 +42,7 @@
                 {
                     name: "Paco Nathan",
                     role: "Sponsorships Chair",
-                    bio: "Known as a \"player-coach\", with core expertise in data science, natural language processing, machine learning, and cloud computing. 35+ years tech industry experience, ranging from Bell Labs to early-stage start-ups. Co-chair of Rev. Lead committer on PyTextRank, richcontext.scholapi. Advisor for NYU Coleridge Initiative, IBM Data Science Community, Amplify Partners, Recognai, Primer. Formerly Director of Community Evangelism at Databricks and Apache Spark. Cited in 2015 as one of the Top 30 People in Big Data and Analytics by Innovation Enterprise.", 
+                    bio: "Known as a \"player-coach\", with core expertise in data science, natural language processing, machine learning, and cloud computing. 35+ years tech industry experience, ranging from Bell Labs to early-stage start-ups. Formerly Director of Community Evangelism at Databricks and Apache Spark. Cited in 2015 as one of the Top 30 People in Big Data and Analytics by Innovation Enterprise.", 
                     image: require("~/assets/images/commitee/paco.jpg")
                 },
                 {
