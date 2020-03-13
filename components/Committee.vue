@@ -46,6 +46,12 @@
                     image: require("~/assets/images/commitee/kirstie.jpg")
                 },
                 {
+                    name: "Safia Abdalla",
+                    role: "Sprints Co-Chair",
+                    bio: "Safia is a maintainer in the nteract open source organization and a software engineer. She is passionate about bringing people together to build great things.",
+                    image: require("~/assets/images/commitee/safia.jpg")
+                },
+                {
                     name: "Paco Nathan",
                     role: "Sponsorships Chair",
                     bio: "Known as a \"player-coach\", with core expertise in data science, natural language processing, machine learning, and cloud computing. 35+ years tech industry experience, ranging from Bell Labs to early-stage start-ups. Formerly Director of Community Evangelism at Databricks and Apache Spark. Cited in 2015 as one of the Top 30 People in Big Data and Analytics by Innovation Enterprise.", 
