@@ -45,9 +45,9 @@
                     items: [
                         'Register / Tickets',
                         'Call for proposals',
-                        { label: 'Propose a talk', anchor: "Call for proposals" },
-                        { label: 'Propose a tutorial', anchor: "Call for proposals" },
-                        { label: 'Attend sprints', to: "/sprint/" },
+                        { label: 'Propose a talk', to: "/talk-poster-cfp/" },
+                        { label: 'Propose a tutorial', to: "/tutorial-cfp/" },
+                        { label: 'Propose a sprint', to: "/sprint/" },
                     ]
                 }, {
                     label: 'Program',

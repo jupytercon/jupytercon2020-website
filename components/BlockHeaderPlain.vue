@@ -35,6 +35,9 @@
     .header-plain {
         height: 298px;
         .title {
+            h1 {
+                line-height: 1;
+            }
             background-color: white;
             width: 60%;
             height: 100%;
