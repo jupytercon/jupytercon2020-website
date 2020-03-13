@@ -64,6 +64,12 @@
                     image: require("~/assets/images/commitee/reshama.jpg")
                 },
                 {
+                    name: "Joshua Patterson",
+                    role: "Exhibits Chair",
+                    bio: "Joshua Patterson is Director of Engineering for RAPIDS at NVIDIA. Previously, he spent four years as a Data Science Principal at Accenture Technology Labs and a year in government as a White House Presidential Innovation Fellow.",
+                    image: require("~/assets/images/commitee/joshua.jpg")
+                },
+                {
                     name: "Wolf Vollprecht",
                     role: "Local Sponsorships Liaison",
                     bio: "Wolf is a robotics engineer from Germany, working on Open Source projects QuantStack. He lives in Berlin, works on jupyter-ros and other jupyterlab extensions and hopes to help organize a really nice JupyterCon 2020!",
