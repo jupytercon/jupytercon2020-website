@@ -47,22 +47,26 @@
             <div class="proposals">
                 <h1>Proposals</h1>
                 <div class="grid-x grid-padding-x">
-                    <div class="cell small-12 medium-4">
+                    <div class="cell small-12 medium-4 proposal-type">
                         <h2>Talks</h2>
-                        <p>JupyterCon talks are 30 minutes long (plan for 25 minutes of presentation and 5 minutes of questions).</p>
-                        <!-- <a class="button hollow" href="">Apply (TDB)</a> -->
+                        <div class="proposal-caption">
+                           JupyterCon talks are 30 minutes long (plan for 25 minutes of presentation and 5 minutes of questions).
+                        </div>
+                        <nuxt-link class="cfp-button button hollow" to="/talk-poster-cfp/">Submit a Talk or Poster</nuxt-link>
                     </div>
-                    <div class="cell small-12 medium-4">
+                    <div class="cell small-12 medium-4 proposal-type">
                         <h2>Tutorials</h2>
-                        <p>JupyterCon tutorials are 3 hours long session, for beginner, intermediate or experienced users.</p>
-                        <!-- <a class="button hollow" href="">Apply (TDB)</a> -->
+                        <div class="proposal-caption">
+                            JupyterCon tutorials are 3 hours long session, for beginner, intermediate or experienced users.
+                        </div>
+                        <nuxt-link class="cfp-button button hollow" to="/tutorial-cfp/">Submit a Tutorial</nuxt-link>
                     </div>
-                    <div class="cell small-12 medium-4">
+                    <div class="cell small-12 medium-4 proposal-type">
                         <h2>Sprints</h2>
-                        <p>The JupyterCon 2020 Sprint Day is a day-long event following the conference. Attendees will
-                            have the opportunity to meet active contributors and maintainers of their favorite open source
-                            projects, exchange ideas, collaborate in real time, and create lasting connections.</p>
-                        <nuxt-link class="button hollow" to="/sprint/">Attend sprints</nuxt-link>
+                        <div class="proposal-caption">
+                            The JupyterCon 2020 Sprint Day is a day-long event following the conference. Attendees will have the opportunity to meet active contributors and maintainers of their favorite open source projects, exchange ideas, collaborate in real time, and create lasting connections.
+                        </div>
+                        <nuxt-link class="cfp-button button hollow" to="/sprint/">Propose a Sprint</nuxt-link>
                     </div>
                 </div>
             </div>
@@ -125,5 +129,19 @@
 
     .disabled {
         pointer-events: none;
+    }
+
+    .proposal-type {
+       display: flex;
+       flex-direction: column;
+       justify-content: flex-start; 
+    }
+
+    .proposal-caption {
+       margin-bottom: 16px; 
+    }
+
+    .cfp-button {
+        margin-top:auto;
     }
 </style>
