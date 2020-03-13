@@ -86,6 +86,12 @@
                     role: "Finance Chair",
                     bio: "Engineer by training, full stack marketer by practice. Launched over 50 products and companies. Currently lead Technical Go-to-Market for Data Science and AI at IBM, formerly Pivotal, Salesforce, VMWare (Thinstall), CollabNet. Google Android Challenge winner. Underwater photographer, pilot, citizen scientist. Carnegie Mellon BSEE.",
                     image: require("~/assets/images/commitee/rosie.jpg")
+                },
+                {
+                    name: "Dinu Gherman",
+                    role: "Local Organizing Team",
+                    bio: "Dinu Gherman works at HERE Technologies, has translated early Python books by O’Reilly and others into German, worked some time for ReportLab, and contributes to and advocates Open Source, Python and Jupyter in the local Python community he founded in Berlin and at work.",
+                    image: require("~/assets/images/commitee/dinu.jpg")
                 }]
             }
         }
