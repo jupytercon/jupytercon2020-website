@@ -4,9 +4,10 @@
             <template v-slot:side-content>
                 <div>bcc Berlin Congress Center</div>
                 <div class="location-name">
-                <p>
-                Alexanderstraße 11, 10178 Berlin
-                </p>
+                    <p>
+                        Alexanderstraße 11<br>
+                        10178 Berlin, Germany
+                    </p>
                 </div>
             </template>
             <template v-slot:media>
