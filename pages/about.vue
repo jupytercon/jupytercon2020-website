@@ -52,20 +52,26 @@
         </Committee>
         <BlockGreyOrange id="conduct-diversity-eco" :right="false">
             <div class="grid-x grid-padding-x">
-                <div class="cell small-12 medium-4">
+                <div class="coc cell small-12 medium-4">
                     <h2 class="ticket-number">Conduct</h2>
-                    <p>Code of conduct</p>
-                    <nuxt-link class="button hollow" to="/codeofconduct/">Code of conduct</nuxt-link>
+                    <div class="coc-caption">
+                        Project Jupyter is an engaged and respectful community made up of people from all over the world.  We are committed to fostering a productive, professional and inclusive environment for everyone. All community members are expected to show respect and courtesy to other attendees throughout the conference, all conference events and online forums.  Our code of conduct is strictly enforced.
+                    </div>
+                    <nuxt-link class="coc-button button hollow" to="/codeofconduct/">Code of conduct</nuxt-link>
                 </div>
-                <div class="cell small-12 medium-4">
+                <div class="coc cell small-12 medium-4">
                     <h2 class="ticket-number">Diversity</h2>
-                    <p>TBD</p>
-                    <a class="button hollow">Diversity</a>
+                    <div class="coc-caption">
+                        Our commitment to the JupyterCon community is to create an inclusive and respectful conference environment that invites participation of people from all backgrounds, including, but not limited to gender, age, ethnicity, religion, accessibility and sexual orientation. Any inquiries can be sent to <a href="mailto:jupytercon-diversity@numfocus.org">jupytercon-diversity@numfocus.org</a>.
+                    </div>
+                    <a class="coc-button button hollow">Diversity</a>
                 </div>
-                <div class="cell small-12 medium-4">
+                <div class="coc cell small-12 medium-4">
                     <h2 class="ticket-number">Eco friendly</h2>
-                    <p>TDB</p>
-                    <nuxt-link class="button hollow" to="/sustainability/">Sustainability</nuxt-link>
+                    <div class="coc-caption">
+                        JupyterCon 2020 is working towards having a limited impact on the environment through careful consumption of energy and resources. This includes, among others, electronically circulating meeting materials (online file sharing), not producing unnecessary conference material and products, choosing environmentally-friendly and socially-friendly products, as well as providing healthy food and hosting meetings and social events in central locations.
+                    </div>
+                    <nuxt-link class="coc-button button hollow" to="/sustainability/">Sustainability</nuxt-link>
                 </div>
             </div>
         </BlockGreyOrange>
@@ -95,5 +101,16 @@
         h1 {
             color: $figma-orange;
         }
+    }
+    .coc {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start; 
+    }
+    .coc-caption {
+        margin-bottom: 16px; 
+    }
+    .coc-button {
+        margin-top: auto;
     }
 </style>
