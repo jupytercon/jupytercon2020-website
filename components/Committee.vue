@@ -60,7 +60,7 @@
                 {
                     name: "Tania Allard",
                     role: "Tutorials Co-Chair",
-                    bio: "Research engineer at Hello Soda with vast experience in academic research and industrial environments. The main areas of expertise are within data-intensive applications, scientific computing, and machine learning with the focus on the improvement of processes, reproducibility and transparency in research, data science and artificial intelligence. Trained hundreds of people on scientific computing reproducible workflows and ML models testing, monitoring and scaling and delivered talks on the topic worldwide. Passionate about mentoring, open source, and its community and is involved in a number of initiatives aimed to build more diverse and inclusive communities. Contributor, maintainer, and developer of a number of open source projects and the founder of Pyladies NorthWest UK.",
+                    bio: "Research engineer at Hello Soda with vast experience in academic research and industrial environments. Passionate about mentoring, open source, and its community. Contributor, maintainer, and developer of a number of open source projects and the founder of Pyladies NorthWest UK.",
                     image: require("~/assets/images/commitee/tania.jpg")
                 },
                 {
