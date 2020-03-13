@@ -5,7 +5,7 @@
             <div class="page-title float-left">
                 <h1><span>{{title}}</span><br/><span class="subtitle">{{subtitle}}</span></h1>
             </div>
-            <div class="side-content float-left">
+            <div class="side-content float-left hide-for-medium-only">
                 <slot name="side-content">
                 <div>
                     <span class="grey">Berlin, Germany <br/></span>
