@@ -24,7 +24,7 @@
                 {
                     name: "Lorena Barba",
                     role: "General Chair",
-                    bio: "",
+                    bio: "Lorena is a computational scientist and professor of mechanical and aerospace engineering at the George Washington University. She is a long-time advocate of open-source software for research, and has adopted and promoted Jupyter for teaching since the project's beginnings. For the past five years, Lorena has been a member of the NumFOCUS Board of Director, and is now co-chairperson.",
                     image: require("~/assets/images/commitee/lorena.png")
                 },
                 {
