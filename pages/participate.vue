@@ -132,13 +132,13 @@
     }
 
     .proposal-type {
-       display: flex;
-       flex-direction: column;
-       justify-content: flex-start; 
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start; 
     }
 
     .proposal-caption {
-       margin-bottom: 16px; 
+        margin-bottom: 16px; 
     }
 
     .cfp-button {
