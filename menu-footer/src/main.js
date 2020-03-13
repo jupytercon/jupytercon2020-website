@@ -5,6 +5,16 @@ import NuxtLink from "./components/NuxtLink";
 
 Vue.config.productionTip = false
 
+Vue.mixin({
+  data: function() {
+    return {
+      get jupyterConBaseUrl() {
+        return 'http://localhost:3000';
+      }
+    }
+  }
+})
+
 Vue.component('nuxt-link', NuxtLink)
 
 new Vue({
