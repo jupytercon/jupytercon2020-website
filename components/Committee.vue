@@ -24,7 +24,7 @@
                 {
                     name: "Lorena Barba",
                     role: "General Chair",
-                    bio: ""
+                    bio: "",
                     image: require("~/assets/images/commitee/lorena.png")
                 },
                 {
