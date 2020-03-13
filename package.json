@@ -1,7 +1,7 @@
 {
-  "name": "JupyterCon2020b",
+  "name": "JupyterCon2020",
   "version": "1.0.0",
-  "description": "My splendid Nuxt.js project",
+  "description": "JupyterCon 2020",
   "author": "Mario Buikhuizen",
   "private": true,
   "scripts": {
