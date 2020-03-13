@@ -52,14 +52,14 @@
                         <div class="proposal-caption">
                            JupyterCon talks are 30 minutes long (plan for 25 minutes of presentation and 5 minutes of questions).
                         </div>
-                        <nuxt-link class="cfp-button button hollow" to="/talk-poster-cfp/">Submit a Talk or Poster</nuxt-link>
+                        <nuxt-link class="cfp-button button hollow" to="/talk-poster-cfp/">Propose a Talk or Poster</nuxt-link>
                     </div>
                     <div class="cell small-12 medium-4 proposal-type">
                         <h2>Tutorials</h2>
                         <div class="proposal-caption">
                             JupyterCon tutorials are 3 hours long session, for beginner, intermediate or experienced users.
                         </div>
-                        <nuxt-link class="cfp-button button hollow" to="/tutorial-cfp/">Submit a Tutorial</nuxt-link>
+                        <nuxt-link class="cfp-button button hollow" to="/tutorial-cfp/">Propose a Tutorial</nuxt-link>
                     </div>
                     <div class="cell small-12 medium-4 proposal-type">
                         <h2>Sprints</h2>
