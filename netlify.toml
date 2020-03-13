@@ -1,6 +1,6 @@
 [build]
   publish = "dist"
-  command = "npm run generate && npm run export"
+  command = "npx yarn --cwd menu-footer copy && npm run generate && npm run export"
 
 [[headers]]
   for = "/_nuxt/*"
