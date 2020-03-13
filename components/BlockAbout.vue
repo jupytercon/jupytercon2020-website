@@ -17,8 +17,6 @@
                         malesuada pretium faucibus odio quis
                         congue.</p>
                     </slot>
-                    <nuxt-link v-if="has_button" class="button hollow" to="/about/">Learn More</nuxt-link>
-                    </slot>
                 </div>
             </div>
         </div>
