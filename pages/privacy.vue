@@ -256,7 +256,7 @@
         <p>
           <span >
             You can do the following at any time by contacting us via email at
-            <span id="eeb-637045-813417">privacy@numfocus.org</span>
+            <span id="eeb-637045-813417"><a href="mailto:privacy@numfocus.org">privacy@numfocus.org</a></span>
             <script type="text/javascript">
   (function() {
     var ml = "pav%.c4isgm0urfyno",
@@ -505,7 +505,7 @@
         </p>
         <p>
           For the purposes of GDPR, our NumFOCUS representative in the EU is Sylvain Corlay, member of the NumFOCUS Board of Directors,
-          <span id="eeb-911143-356811">sylvain.corlay@gmail.com</span>
+          <span id="eeb-911143-356811"><a href="mailto:sylvain.corlay@quantstack.net">sylvain.corlay@quantstack.bet</a></span>
           <script type="text/javascript">
   document.getElementById("eeb-911143-356811").innerHTML = eval(
     decodeURIComponent(

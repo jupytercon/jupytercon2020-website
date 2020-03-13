@@ -82,7 +82,7 @@
                 <p>
                     <strong>You can make a personal report by:</strong>
                     <ul>
-                        <li><strong>Phone:</strong> Call 617-499-7500 (TODO need a local number); this phone number will be monitored for the duration of the event.</li>
+                        <li><strong>Phone:</strong> A local phone number will be provided and monitored for the duration of the event.</li>
                         <li><strong>In person:</strong> Contact a JupyterCon staff member or visit the customer service desk at
                             conference registration.
                             When taking a personal report, event staff will ensure you are safe and cannot be
@@ -90,7 +90,7 @@
                             properly. This can be uncomfortable, but we'll handle it respectfully and you can bring
                             someone to support you.
                         </li>
-                        <li><strong>Email:</strong> Send a message to <a href="">conduct@numfocus.org</a>. Event organizers will respond promptly.</li>
+                        <li><strong>By Email:</strong> Send a message to <a href="mailto:conduct@numfocus.org">conduct@numfocus.org</a>. Event organizers will respond promptly.</li>
                         <li><strong>Online Form:</strong> <a href="">TODO Missing link</a> (your name and contact information are not required)
                             Our team will help you contact hotel/venue security, local law enforcement, local support
                             (which could include services and transportation as available), or otherwise respectfully
