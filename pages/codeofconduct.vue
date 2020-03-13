@@ -91,7 +91,7 @@
                             someone to support you.
                         </li>
                         <li><strong>By Email:</strong> Send a message to <a href="mailto:conduct@numfocus.org">conduct@numfocus.org</a>. Event organizers will respond promptly.</li>
-                        <li><strong>Online Form:</strong> <a href="">TODO Missing link</a> (your name and contact information are not required)
+                        <li><strong>Online Form:</strong> <a href="https://numfocus.typeform.com/to/ynjGdT">NumFOCUS Code of Conduct Report</a> (your name and contact information are not required).
                             Our team will help you contact hotel/venue security, local law enforcement, local support
                             (which could include services and transportation as available), or otherwise respectfully
                             assist you to feel safe for the duration of the event.
@@ -119,8 +119,7 @@
             </p>
 
             <h2>Enforcement</h2>
-            <p>For more information about enforcement and what happens after a report is filed, see: <a href="https://numfocus.org/code-of-conduct">https://numfocus.org/code-of-conduct</a></p>
-
+            <p>For more information about enforcement and what happens after a report is filed, see <a href="https://numfocus.org/code-of-conduct">https://numfocus.org/code-of-conduct</a>.</p>
             <h2>Issue Log</h2>
             <p>A summary of reported incidents will be provided after the event.</p>
 
