@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "copy": "cp ../components/BlockHeaderPlain.vue src/components && cp -r ../assets src/",
+    "copy": "cp ../components/BlockHeaderPlain.vue src/components; cp ../components/DesktopFooter.vue src/components; cp ../components/MenuBar.vue src/components; cp ../components/MenuContent.vue src/components && cp -r ../assets src/",
     "export": "vue-cli-service build --target lib --formats \"umd\" --dest ../dist/export --name component src/components.js --mode production"
   },
   "dependencies": {
