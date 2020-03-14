@@ -32,10 +32,9 @@
 
 <script>
     import MenuContent from "./MenuContent";
-    import DesktopBackground from "./DesktopBackground";
     export default {
         name: "MenuBar",
-        components: {DesktopBackground, MenuContent},
+        components: {MenuContent},
         mounted() {
             this.$refs.menuOverlay.addEventListener('transitionend', (e) => {
                 if (e.target.classList.contains('closed')) {
@@ -58,3 +57,7 @@
         }
     }
 </script>
+
+<style lang="scss">
+    @import '~assets/scss/menubar';
+</style>

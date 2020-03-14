@@ -2,22 +2,24 @@
     <div class="clearfix">
         <nav>
             <ul class="menu">
-                <li class="menu-block float-left" v-for="block in menuData" v-if="!block.disabled">
-                    <h3>
-                        <nuxt-link v-if="block.to" :to="block.to">{{ block.label }}</nuxt-link>
-                        <div class="no-title" v-else="">{{ block.label }}</div>
-                    </h3>
-                        <div v-for="item in block.items" class="anchor-link">
-                            <nuxt-link
-                                    v-if="typeof item === 'string'"
-                                    :to="{ path: block.to, hash: item }"
-                            >- {{ item }}</nuxt-link>
-                            <nuxt-link
-                                    v-if="typeof item === 'object'"
-                                    :to="{ path: (item.to || block.to), hash: item.anchor }"
-                            >- {{ item.label }}</nuxt-link>
-                        </div>
-                </li>
+                <template v-for="block in menuData">
+                    <li class="menu-block float-left" v-if="!block.disabled" :key="block.label">
+                        <h3>
+                            <nuxt-link v-if="block.to" :to="block.to">{{ block.label }}</nuxt-link>
+                            <div class="no-title" v-else="">{{ block.label }}</div>
+                        </h3>
+                            <div v-for="item in block.items" :key="typeof item === 'string' ? item : item.label" class="anchor-link">
+                                <nuxt-link
+                                        v-if="typeof item === 'string'"
+                                        :to="{ path: block.to, hash: item }"
+                                >- {{ item }}</nuxt-link>
+                                <nuxt-link
+                                        v-if="typeof item === 'object'"
+                                        :to="{ path: (item.to || block.to), hash: item.anchor }"
+                                >- {{ item.label }}</nuxt-link>
+                            </div>
+                    </li>
+                </template>
             </ul>
         </nav>
     </div>
