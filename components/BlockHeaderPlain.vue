@@ -1,6 +1,6 @@
 <template>
     <div class="header-plain">
-        <MenuBar class='menubar'/>
+        <MenuBar class="menubar"/>
         <div class="title float-left">
             <slot name="title">
                 <h1>{{ title }}</h1>

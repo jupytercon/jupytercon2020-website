@@ -33,7 +33,7 @@
             </iframe>
             </div>
         </BlockGreyOrange>
-        <BlockAbout title="Experience" :hide_image=true :has_button=false>
+        <BlockAbout title="Experience" :hide_image="true" :has_button="false">
             <p>JupyterCon will educate and motivate by offering:</p>
             <ul>
                 <li>Sessions that apply to the full range of Jupyter's languages and platforms</li>
