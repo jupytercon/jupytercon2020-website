@@ -71,6 +71,35 @@
                 </div>
             </div>
         </BlockGreyOrange>
+
+        <div class="tickets white-background" id="Diversity">
+
+            <h1>Financial Aid and Diversity Scholarships</h1>
+
+                <p>NumFOCUS and the JupyterCon team believe that diversity is the strength of our community and essential for success. To help foster this inclusive environment, we are offering scholarships and financial aid to create an event that brings together many different perspectives.  We want to include participants that represent all ethnicities, sexual orientations, religions, ages, and genders. We’d also like to introduce geo-diversity as a goal to bring attendees from around the globe since JupyterCon has been previously held in the US and now Europe.</p>
+
+                <h2>How to apply</h2>
+
+                    <p>Submit an application <a href="https://docs.google.com/forms/d/e/1FAIpQLScBy-7hNFDWLsejqNM0wS2qE4Q5APeXO8rlYW3kzgltq-bIZg/viewform">here</a>.</p>
+ 
+                    <p>Key dates:</p>
+
+                    <ul>
+                        <li>April 20:  deadline to submit application</li>
+                        <li>May 4:  applicants notified; speakers notified of CFP acceptance</li>
+                    </ul>
+ 
+                <h2>What’s included</h2>
+
+                    <ul>
+                        <li>Full conference pass that includes all talks, tutorials, social events.</li>
+                        <li>A 500  Euro gift card or digital fund transfer (Venmo, PayPal) will be provided to the recipient onsite at the conference to offset costs such as travel, lodging, and meals.</li>
+                    </ul>
+  
+                    <p>
+                        We encourage you to take photos and share on Twitter, LinkedIn, and other social media platforms.  Sharing about the event brings visibility to Jupyter, NumFOCUS, and open source.  And importantly, it helps us to get sponsors for future events, who often support financial aid.
+                    </p>
+
         <DesktopFooter />
     </div>
 </template>
