@@ -100,6 +100,12 @@
                     image: require("~/assets/images/commitee/laura.jpg")
                 },
                 {
+                    name: "Amanda Casari",
+                    role: "Speaker Management",
+                    bio: "Engineering Manager at Google where she leads research and engineering to better understand open source systems.<br>Endlessly fascinated by the difference between the systems we aim to create and the ones that emerge.",
+                    image: require("~/assets/images/commitee/amanda.png")
+                },
+                {
                     name: "Jim Weiss",
                     role: "Logistics Chair",
                     bio: "Jim Weiss is the Events Manager for NumFOCUS, and Logistics Chair for JupyterCon 2020. Jim joined NumFOCUS in 2017, and has been supporting the open source scientific programing community through organizing programs like PyData. Prior to joining NumFOCUS, Jim worked in Washington, D.C., coordinating congressional hearings for the U.S. House of Representatives and managing events for the U.S. Air Force.",
