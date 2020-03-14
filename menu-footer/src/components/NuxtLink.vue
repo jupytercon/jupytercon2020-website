@@ -8,9 +8,6 @@
     export default {
         name: "NuxtLink",
         props: ['to'],
-        mounted() {
-            console.log(this.to)
-        },
         computed: {
             link() {
                 let to = this.to;
@@ -19,7 +16,6 @@
                 }
 
                 if (to.startsWith('/')) {
-                    // return `https://heuristic-mclean-df145e.netlify.com${to}`;
                     return `${this.jupyterConBaseUrl}${to}`;
                 } else {
                     return this.to;
