@@ -3,7 +3,7 @@
         <div class="main-text">
             <div class="clearfix head">
                 <div class="float-left">
-                    <h2>Sponsors</h2>
+                    <h1>Sponsors</h1>
                 </div>
                 <div class="float-right"><nuxt-link class="button hollow" to="/sponsors/">View all</nuxt-link></div>
             </div>
