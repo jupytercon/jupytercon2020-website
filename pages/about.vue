@@ -5,13 +5,13 @@
                 <img src="~assets/images/speed-network.jpg"/>
             </template>
         </BlockHeader>
-        <BlockAbout title="What is JupyterCon?" :img="require('~/assets/images/explain.jpg')">
+        <BlockAbout title="What is JupyterCon?" :img="require('~/assets/images/explain.jpg')" id="What is it?">
             <p>
                 JupyterCon brings together data scientists, business analysts, researchers, educators, developers, and core Project contributors and tool creators for in-depth training, insightful keynotes, networking events, and practical talks exploring the Project Jupyter platform. JupyterCon focuses on real-world practices and how to successfully implement interactive computation in your workflow and projects. In just four days you’ll discover the best practices for collaborative and reproducible data science; new use cases, and the expertise you need to transform your workflow with Jupyter.
             </p>
 
         </BlockAbout>
-        <BlockGreyOrange>
+        <BlockGreyOrange id="Past Events">
             <div style="margin-top: -100px">
             <table style="margin-bottom: 10px;">
                 <tr>
@@ -33,7 +33,7 @@
             </iframe>
             </div>
         </BlockGreyOrange>
-        <BlockAbout title="Experience" :hide_image=true :has_button=false>
+        <BlockAbout title="Experience" :hide_image="true" :has_button="false" id="Experience">
             <p>JupyterCon will educate and motivate by offering:</p>
             <ul>
                 <li>Sessions that apply to the full range of Jupyter's languages and platforms</li>
@@ -48,7 +48,7 @@
                 <li>Fun evening events and plenty of informal networking</li>
             </ul>
         </BlockAbout>
-        <Committee>
+        <Committee id="Organizing Committee">
         </Committee>
         <BlockGreyOrange id="conduct-diversity-eco" :right="false">
             <div class="grid-x grid-padding-x">

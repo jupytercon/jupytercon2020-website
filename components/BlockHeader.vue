@@ -1,6 +1,6 @@
 <template>
     <div class="main">
-        <MenuBar class='menubar'/>
+        <MenuBar class="menubar"/>
         <div class="top">
             <div class="page-title float-left">
                 <h1><span>{{title}}</span><br/><span class="subtitle">{{subtitle}}</span></h1>
