@@ -70,6 +70,12 @@
                     image: require("~/assets/images/commitee/tania.jpg?resize&size=508")
                 },
                 {
+                    name: "Gerard Gorman",
+                    role: "Tutorials Co-Chair",
+                    bio: "Gerard is in the faculty of Imperial College London, teaching programming and statistics to geoscientists. He leads the Devito open source project, a domain-specific language for finite difference solutions of inverse problems. Gerard is also Research engagement consultant with Microsoft.",
+                    image: require("~/assets/images/commitee/gerard.jpg?resize&size=508")
+                },
+                {
                     name: "Safia Abdalla",
                     role: "Sprints Co-Chair",
                     bio: "Safia is a maintainer in the nteract open source organization and a software engineer. She is passionate about bringing people together to build great things.",
