@@ -36,6 +36,7 @@
                     items: [
                         'What is it?',
                         'Past Events',
+                        'Experience',
                         'Organizing Committee',
                         { label: 'Code of Conduct', to: '/codeofconduct/' },
                         { label: 'Diversity', anchor: "conduct-diversity-eco" },
