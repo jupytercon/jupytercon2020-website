@@ -21,5 +21,5 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 # Previews
 
-- https://heuristic-mclean-df145e.netlify.com/
+- https://master.jupytercon.com
 - https://jupytercon.github.io/jupytercon2020-website/
