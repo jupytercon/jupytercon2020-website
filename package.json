@@ -12,15 +12,20 @@
     "export": "npx yarn --cwd menu-footer && npx yarn --cwd menu-footer copy && npx yarn --cwd menu-footer export"
   },
   "dependencies": {
+    "@bazzite/nuxt-optimized-images": "^0.3.0",
     "nuxt": "^2.0.0",
-    "nuxt-lazy-load": "^1.1.3"
+    "nuxt-lazy-load": "^1.1.3",
+    "sharp": "^0.25.1"
   },
   "devDependencies": {
     "@vue/cli": "^4.2.3",
     "extract-css-chunks-webpack-plugin": "^4.7.4",
     "foundation-sites": "^6.6.1",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^8.0.0",
     "motion-ui": "^2.0.3",
     "node-sass": "^4.13.1",
+    "responsive-loader": "^1.2.0",
     "sass-loader": "^8.0.2",
     "yarn": "^1.22.4"
   }
