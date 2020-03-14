@@ -94,9 +94,9 @@
                     image: require("~/assets/images/commitee/wolf.jpg")
                 },
                 {
-                    name: "Laura Noren",
+                    name: "Laura Norén",
                     role: "Eco-friendly Event Chair",
-                    bio: "Laura Noren is VP of Privacy and Trust at Obsidian Security, a cybersecurity startup based in Newport Beach where she runs privacy operations. Norén is a frequent speaker on data ethics, privacy legislation, and the social impact of data-driven technologies. She continues to publish in academic journals as well as popular press locations. She holds undergraduate degrees from MIT and a PhD from NYU where she completed a Moore-Sloan postdoc at the Center for Data Science.",
+                    bio: "Laura Nor&eacuten is VP of Privacy and Trust at Obsidian Security, a cybersecurity startup based in Newport Beach where she runs privacy operations. Norén is a frequent speaker on data ethics, privacy legislation, and the social impact of data-driven technologies. She continues to publish in academic journals as well as popular press locations. She holds undergraduate degrees from MIT and a PhD from NYU where she completed a Moore-Sloan postdoc at the Center for Data Science.",
                     image: require("~/assets/images/commitee/laura.jpg")
                 },
                 {
