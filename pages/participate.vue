@@ -76,16 +76,17 @@
 
             <h1>Financial Aid and Diversity Scholarships</h1>
 
-                <p>NumFOCUS and the JupyterCon team believe that diversity is the strength of our community and essential for success. To help foster this inclusive environment, we are offering scholarships and financial aid to create an event that brings together many different perspectives.  We want to include participants that represent all ethnicities, sexual orientations, religions, ages, and genders. We’d also like to introduce geo-diversity as a goal to bring attendees from around the globe since JupyterCon has been previously held in the US and now Europe.</p>
+                <p>
+                    NumFOCUS and the JupyterCon team believe that diversity is the strength of our community and essential for success. To help foster this inclusive environment, we are offering scholarships and financial aid to create an event that brings together many different perspectives.  We want to include participants that represent all ethnicities, sexual orientations, religions, ages, and genders. We’d also like to introduce geo-diversity as a goal to bring attendees from around the globe since JupyterCon has been previously held in the US and now Europe.
+                </p>
 
                 <h2>How to apply</h2>
 
-                    <!--<p>Submit an application <a href="https://docs.google.com/forms/d/e/1FAIpQLScBy-7hNFDWLsejqNM0wS2qE4Q5APeXO8rlYW3kzgltq-bIZg/viewform">here</a>.</p>-->
+                    <p>We will soon open online applications to the diversity scholarship.</p>                    
  
                     <p>Key dates:</p>
 
                     <ul>
-                        <li>March 16th: applications start</li>
                         <li>April 20th: deadline to submit application</li>
                         <li>May 4th: applicants notified; speakers notified of CFP acceptance</li>
                     </ul>
