@@ -42,7 +42,7 @@
                             <div class="cell small-4"><img class="sponsor-image" :src="sponsor.image"></div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
-                                    <a :href=sponsor.link>{{ sponsor.link }}</a>
+                                    <a :href="sponsor.link">{{ sponsor.link }}</a>
                                 </p>
                                 <p>
                                     {{ sponsor.description }}
@@ -60,7 +60,7 @@
                             <div class="cell small-4"><img class="sponsor-image" :src="sponsor.image"></div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
-                                    <a :href=sponsor.link>{{ sponsor.link }}</a>
+                                    <a :href="sponsor.link">{{ sponsor.link }}</a>
                                 </p>
                                 <p>
                                     {{ sponsor.description }}
