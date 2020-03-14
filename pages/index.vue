@@ -14,7 +14,7 @@
         </BlockAbout>
         <BlockGreyOrange>
             <div class="main-text main-content float-left">
-                <h2>Participate</h2>
+                <h1>Participate</h1>
                 <p>Do you have a great idea or tool for the Jupyter community you would like to share? Do you have a really interesting application where you've used Jupyter heavily and have developed good workflows for using Jupyter software that are broadly applicable? What lessons do you have for others using or deploying Jupyter?</p>
                 <nuxt-link class="button hollow" to="/participate/">Learn More</nuxt-link>
             </div>
