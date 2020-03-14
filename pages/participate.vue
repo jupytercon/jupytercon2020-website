@@ -80,13 +80,14 @@
 
                 <h2>How to apply</h2>
 
-                    <p>Submit an application <a href="https://docs.google.com/forms/d/e/1FAIpQLScBy-7hNFDWLsejqNM0wS2qE4Q5APeXO8rlYW3kzgltq-bIZg/viewform">here</a>.</p>
+                    <!--<p>Submit an application <a href="https://docs.google.com/forms/d/e/1FAIpQLScBy-7hNFDWLsejqNM0wS2qE4Q5APeXO8rlYW3kzgltq-bIZg/viewform">here</a>.</p>-->
  
                     <p>Key dates:</p>
 
                     <ul>
-                        <li>April 20:  deadline to submit application</li>
-                        <li>May 4:  applicants notified; speakers notified of CFP acceptance</li>
+                        <li>March 16th: applications start</li>
+                        <li>April 20th: deadline to submit application</li>
+                        <li>May 4th: applicants notified; speakers notified of CFP acceptance</li>
                     </ul>
  
                 <h2>What’s included</h2>
