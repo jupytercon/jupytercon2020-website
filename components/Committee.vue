@@ -110,6 +110,12 @@
                     role: "Local Organizing Team",
                     bio: "Dinu Gherman works at HERE Technologies, has translated early Python books by O’Reilly and others into German, worked some time for ReportLab, and contributes to and advocates Open Source, Python and Jupyter in the local Python community he founded in Berlin and at work.",
                     image: require("~/assets/images/commitee/dinu.jpg")
+                },
+                {
+                    name: "Cristián Maureira-Fredes",
+                    role: "Local Organizing Team",
+                    bio: "Open Source enthusiast currently based in Berlin. Qt for Python maintainer, R&D Manager at The Qt Company, and former Astrophysicist at the Max-Planck-Institut für Gravitationsphysik.",
+                    image: require("~/assets/images/commitee/cristian.jpg")
                 }]
             }
         }
