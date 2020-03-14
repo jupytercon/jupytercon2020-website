@@ -99,7 +99,7 @@
                     <p>
                         We encourage you to take photos and share on Twitter, LinkedIn, and other social media platforms.  Sharing about the event brings visibility to Jupyter, NumFOCUS, and open source.  And importantly, it helps us to get sponsors for future events, who often support financial aid.
                     </p>
-
+        </div>
         <DesktopFooter />
     </div>
 </template>
