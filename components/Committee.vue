@@ -122,6 +122,13 @@
                     role: "Local Organizing Team",
                     bio: "Open Source enthusiast currently based in Berlin. Qt for Python maintainer, R&D Manager at The Qt Company, and former Astrophysicist at the Max-Planck-Institut für Gravitationsphysik.",
                     image: require("~/assets/images/commitee/cristian.jpg")
+                },
+                {
+                    name: "Carol Willing",
+                    role: "Special Advisor to the General Chair",
+                    bio: "Carol Naslund Willing serves on Project Jupyter’s Steering Council and works as a Core Developer on JupyterHub and mybinder.org. She serves as a co-editor of The Journal of Open Source Education (JOSE) and co-authored an open source book, Teaching and Learning with Jupyter.<br> She is a member of Python’s Steering Council and a core developer of CPython.",
+                    image: require("~/assets/images/commitee/carol.jpg")
+                    
                 }]
             }
         }
