@@ -4,8 +4,6 @@
       <template v-slot:side-content></template>
     </BlockHeaderPlain>
     <div class="main grey-background">
-      <h2>JupyterCon Covid-19 Statement</h2>
-
       <div class="et_pb_text_inner">
         <p>Our first priority will always be the safety and well-being of our community members. We are closely monitoring the developments of the Covid-19 pandemic, and how it may affect not only the conference, but the lives of our speakers, attendees, and organizers.</p>
 
