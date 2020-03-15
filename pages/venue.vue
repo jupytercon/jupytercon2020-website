@@ -11,7 +11,7 @@
                 </div>
             </template>
             <template v-slot:media>
-                <img src="~assets/images/bcc_photo_exterior_view_4708_x_2648_pixel_350_dpi.webp"/>
+                <img src="~assets/images/bcc.jpg"/>
             </template>
             <template v-slot:content>
                 <div class="header-content" id="Conference center">
