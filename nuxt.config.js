@@ -5,6 +5,16 @@ const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
 console.log('routerbase', routerBase)
 
 export default {
+  render: {
+    csp: {
+      hashArgorithm: 'sha256',
+      policies: {
+        'script-src': [
+            "'unsafe-inline'"
+        ]
+      }
+    }
+  },
   mode: 'universal',
   /*
   ** Headers of the page
