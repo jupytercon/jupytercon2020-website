@@ -118,7 +118,6 @@
 
                     .grey {
                         color: $figma-grey;
-                        font-family: $figma-font-ibm;
                         position: relative;
                         top: 2px;
                     }
