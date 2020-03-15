@@ -40,7 +40,8 @@
                         'Organizing Committee',
                         { label: 'Code of Conduct', to: '/codeofconduct/' },
                         { label: 'Diversity', anchor: "conduct-diversity-eco" },
-                        { label: 'Eco-friendly efforts', to: '/sustainability/' }
+                        { label: 'Eco-friendly efforts', to: '/sustainability/' },
+                        { label: 'COVID-19 Statement', to: '/covid-19-statement/' }
                     ]
                 }, {
                     label: 'Participate',
