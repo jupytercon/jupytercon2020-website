@@ -11,6 +11,7 @@
                             Buy tickets
                         </a>
                         <nuxt-link class="button hollow" :to="{path: '/participate/', hash: '#Call for proposals'}">Submit a talk</nuxt-link>
+                        <nuxt-link class="button hollow" :to="{path: '/covid-19-statement/', hash: '#Call for proposals'}">COVID-19 Statement</nuxt-link>
                     </div>
                 </slot>
             </div>
@@ -146,7 +147,7 @@
                 .tickets {
                     color: white;
                     margin-left: 250px;
-                    margin-top: 50px;
+                    margin-top: 30px;
                     .button {
                         color: white;
                         border-color: white;
