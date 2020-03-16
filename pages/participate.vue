@@ -75,7 +75,7 @@
             </div>
         </BlockGreyOrange>
 
-        <div class="tickets white-background" id="Diversity">
+        <div class="tickets white-background" id="Financial Aid">
 
             <h1>Financial Aid and Diversity Scholarships</h1>
 
