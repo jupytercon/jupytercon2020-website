@@ -167,7 +167,7 @@
                 <h2>Child Care</h2>
                 <p>
                     Welcome JupyterCon parents! We are planning to offer childcare during JupyterCon 2020 in Berlin, Germany.
-                    Quality childcare will be offered by licensed and pre-screened providers. Childcare is offered during the conference hours only. We will post more details soon about how to sign up for this service. If you have any questions, email us at <a href="mailto:events@numfocus.org">events@numfocus.org</a>.
+                    Quality childcare will be offered by licensed and pre-screened providers. Childcare is offered during the conference hours only. We will post more details soon about how to sign up for this service. If you have any questions, email us at <a href="mailto:events@numfocus.org" class="link-dark">events@numfocus.org</a>.
                 </p>
                 <nuxt-link class="button hollow" to="/about/">Learn More</nuxt-link>
             </div>

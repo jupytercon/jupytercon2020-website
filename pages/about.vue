@@ -62,7 +62,7 @@
                 <div class="coc cell small-12 medium-4">
                     <h2 class="ticket-number">Diversity</h2>
                     <div class="coc-caption">
-                        Our commitment to the JupyterCon community is to create an inclusive and respectful conference environment that invites participation of people from all backgrounds, including, but not limited to gender, age, ethnicity, religion, accessibility and sexual orientation. Any inquiries can be sent to <a href="mailto:jupytercon-diversity@numfocus.org">jupytercon-diversity@numfocus.org</a>.
+                        Our commitment to the JupyterCon community is to create an inclusive and respectful conference environment that invites participation of people from all backgrounds, including, but not limited to gender, age, ethnicity, religion, accessibility and sexual orientation. Any inquiries can be sent to <a href="mailto:jupytercon-diversity@numfocus.org" class="link-dark">jupytercon-diversity@numfocus.org</a>.
                     </div>
                     <nuxt-link class="coc-button button hollow" to="/diversity/">Diversity</nuxt-link>
                 </div>
