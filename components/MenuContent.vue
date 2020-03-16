@@ -49,9 +49,10 @@
                     items: [
                         'Register / Tickets',
                         'Call for proposals',
-                        { label: 'Propose a talk', to: "/talk-poster-cfp/" },
+                        { label: 'Propose a talk or poster', to: "/talk-poster-cfp/" },
                         { label: 'Propose a tutorial', to: "/tutorial-cfp/" },
                         { label: 'Propose a sprint', to: "/sprint/" },
+                        'Financial Aid'
                     ]
                 }, {
                     label: 'Program',
