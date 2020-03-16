@@ -28,7 +28,8 @@
 
             <h3>How can I lead a project sprint?</h3>
             <p>If you’d like to represent a project from the Jupyter ecosystem at the Sprint Day, please
-                complete this form by 17th of April, 2020.</p>
+                complete <a href="https://forms.gle/Dzy1A1x9N8SHHu6r7" title="JupyterCon Sprint Lead Form">this form</a> 
+                by 17th of April, 2020.</p>
 
             <h3>How can I join the Sprint Day?</h3>
             <p>The Sprint Day is limited to 100 participants. We encourage and prioritize the participation of
