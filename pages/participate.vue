@@ -27,7 +27,7 @@
                     <a class="button" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
                 </div>
                 <div class="cell small-12 medium-4 grayscale">
-                    <h3 class="ticket-number">July 2th</h3>
+                    <h3 class="ticket-number">July 26th</h3>
                     <hr>
                     <h3>Regular</h3>
                     <p>Open through July 26th</p>
