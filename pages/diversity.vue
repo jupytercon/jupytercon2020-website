@@ -2,7 +2,6 @@
     <div>
         <BlockHeader :buttons="false" title="Diversity" tall>
             <template v-slot:side-content>
-                <div>Diversity</div>
             </template>
             <template v-slot:media>
                 <img src="~assets/images/diversity-group.jpg?resize&size=899"/>
