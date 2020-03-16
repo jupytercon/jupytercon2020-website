@@ -48,16 +48,19 @@
                 <h1>Proposals</h1>
                 <div class="grid-x grid-padding-x">
                     <div class="cell small-12 medium-4 proposal-type">
-                        <h2>Talks</h2>
+                        <h2>Talks & Posters</h2>
                         <div class="proposal-caption">
-                           JupyterCon talks are 30 minutes long (plan for 25 minutes of presentation and 5 minutes of questions).
+                           JupyterCon talks are 30 minutes long and share insights about Jupyter and its applications.
+                        </div>
+                        <div class="proposal-caption">
+                           JupyterCon posters present a topic and engage community members in individual discussion at the poster session.
                         </div>
                         <nuxt-link class="cfp-button button hollow" to="/talk-poster-cfp/">Propose a Talk or Poster</nuxt-link>
                     </div>
                     <div class="cell small-12 medium-4 proposal-type">
                         <h2>Tutorials</h2>
                         <div class="proposal-caption">
-                            JupyterCon tutorials are 3 hours long session, for beginner, intermediate or experienced users.
+                            JupyterCon tutorials are 3 hours long and are for beginner, intermediate, or experienced users.
                         </div>
                         <nuxt-link class="cfp-button button hollow" to="/tutorial-cfp/">Propose a Tutorial</nuxt-link>
                     </div>
