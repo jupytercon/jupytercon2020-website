@@ -5,7 +5,7 @@
 
         <BlockAbout :img="require('~/assets/images/flickr/people_smiling_sitting.jpg')" title="About">
             <p>JupyterCon brings together data scientists, business analysts,
-            researchers, educators, developers, and core Project contributors
+            researchers, educators, developers, core Project contributors,
             and tool creators for in-depth training, insightful keynotes,
             networking events, and practical talks exploring the Project Jupyter
             platform.
