@@ -11,6 +11,10 @@
                 Do you have a great idea or tool for the Jupyter community you would like to share? Do you have an interesting application where you've used Jupyter heavily and have developed workflows for using Jupyter that are broadly applicable? What lessons do you have for others using or deploying Jupyter? What do you wish you would have known when starting to use Jupyter or interacting in the Jupyter community? What has been the slowest or most frustrating thing you've had to learn about using Jupyter that you could share with others to make their experience better? Propose a talk or poster at the JupyterCon 2020!
             </p>
 
+            <p>
+             Talks will be held on August 12-13, 2020 at the Berlin Conference Center in Berlin, Germany. 
+             </p>
+
             <h2>Talks at JupyterCon 2020</h2>
 
                 <p>
