@@ -66,7 +66,7 @@
                 {
                     name: "Tania Allard",
                     role: "Tutorials Co-Chair",
-                    bio: "Research engineer at Hello Soda with vast experience in academic research and industrial environments. Passionate about mentoring, open source, and its community. Contributor, maintainer, and developer of a number of open source projects and the founder of Pyladies NorthWest UK.",
+                    bio: "Developer advocate at Microsoft with vast experience in academic research and industrial environments. Passionate about mentoring, open source, and its community. Contributor, maintainer, and developer of a number of open source projects and the founder of Pyladies NorthWest UK.",
                     image: require("~/assets/images/commitee/tania.jpg?resize&size=508")
                 },
                 {
