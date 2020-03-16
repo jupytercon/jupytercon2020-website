@@ -156,7 +156,7 @@
                         <ul>
                             <li>When in an escalator, stay on the right if you are not in a hurry, and use the left side otherwise.</li>
                             <li>Be aware of the bike lanes! Usually they will have a different color.</li>
-                            <li>Leave people exit the trains before going in.</li>
+                            <li>Let people exit the trains before going in.</li>
                             <li>It’s allowed to drink on the streets but not inside the public transportation (gray-area with S-bahns and Regional trains).</li>
                         </ul>
         </div>
@@ -346,11 +346,11 @@ Daily 9.00 a.m. to midnight.</p>
 
                 <h4><a href="http://www.visitberlin.de/en/article/berlin-welcomecard-0">Berlin WelcomeCard</a></h4>
 
-                    <p>The Berlin WelcomeCard provides discounts between 25 and 50% at more than 160 partners.</p>
+                    <p>The Berlin WelcomeCard provides discounts between 25% and 50% at more than 160 partners.</p>
 
                 <h4><a href="http://www.visitberlin.de/en/article/museum-pass-berlin">Museum Pass Berlin</a></h4>
 
-                    <p>The 3-day Berlin Museum Pass gives free admission to many of the big museums . €24,00 (reduced €12)/</p>
+                    <p>The 3-day Berlin Museum Pass gives free admission to many of the big museums. €29,00 (reduced €14,50 for certain people)/</p>
         </div>
         <DesktopFooter />
     </div>

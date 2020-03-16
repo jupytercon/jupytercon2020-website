@@ -85,12 +85,12 @@
                   </tr>
                 </table>
 
-            <h2>Guidelines for submitting a talk or poster</h2>
+            <h2>Guidelines for proposing a talk or poster</h2>
 
                 <h3>Speaker Profile</h3>
 
                     <p>
-                        To submit a talk, you will first need to create a speaker profile. This includes information such as your name (as you would like it to appear in the conference program), and the following optional information, which will be published as a part of the conference program if your talk is accepted:
+                        To propose a talk, you will first need to create a speaker profile. This includes information such as your name (as you would like it to appear in the conference program), and the following optional information, which will be published as a part of the conference program if your talk is accepted:
                     </p>
 
                     <ul>
