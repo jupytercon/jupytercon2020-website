@@ -7,7 +7,7 @@
         </BlockHeader>
         <BlockAbout title="What is JupyterCon?" :img="require('~/assets/images/explain.jpg')" id="What is it?">
             <p>
-                JupyterCon brings together data scientists, business analysts, researchers, educators, developers, core Project contributors, and tool creators for in-depth training, insightful keynotes, networking events, and practical talks exploring the Project Jupyter platform. JupyterCon focuses on real-world practices and how to successfully implement interactive computation in your workflow and projects. In just four days you’ll discover the best practices for collaborative and reproducible data science; new use cases, and the expertise you need to transform your workflow with Jupyter.
+                JupyterCon brings together data scientists, business analysts, researchers, educators, developers, core Project contributors, and tool creators for in-depth training, insightful keynotes, networking events, and practical talks exploring the Project Jupyter platform. JupyterCon focuses on real-world practices and how to successfully implement interactive computation in your workflow and projects. In just four days, you’ll discover the best practices for collaborative and reproducible data science, new use cases, and the expertise you need to transform your workflow with Jupyter.
             </p>
 
         </BlockAbout>
@@ -39,8 +39,8 @@
                 <li>Sessions that apply to the full range of Jupyter's languages and platforms</li>
                 <li>Practical tutorials that go deep into technical skills, new features and applications, and best practices</li>
                 <li>Visionary keynote presentations</li>
-                <li>Immersive, hands-on training courses</li>
-                <li>Unparalleled access to core Project contributors and tool creators</li>
+                <li>Immersive hands-on training courses</li>
+                <li>Unparalleled access to core Project Jupyter contributors and tool creators</li>
                 <li>A Sponsor Pavilion packed with related projects and products</li>
                 <li>Community focused events, such as sprints, user testing, and birds-of-a-feather gatherings</li>
                 <li>An evening Poster session featuring dozens of innovative Jupyter projects</li>
