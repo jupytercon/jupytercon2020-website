@@ -53,6 +53,12 @@
                 </div>
             </div>
             <h1 id="Community Sponsors" class="sponsors-title">Community Sponsors</h1>
+                <p>If your affinity group would like to partner with us:  
+                    <ul>   
+                        <li>complete the <a href="https://forms.gle/3kQSGcChimkwuyhM8">Community Partner Form</a></li>  
+                        <li>email us with any questions:  diversity-jupytercon@numfocus.org</li>
+                    </ul>
+                </p>
             <div class="grid-container sponsors">
                 <div class="grid-y">
                     <div class="cell sponsor-row" v-for="sponsor in community_sponsors">
