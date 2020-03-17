@@ -56,7 +56,7 @@
                 <p>If your affinity group would like to partner with us:  
                     <ul>   
                         <li>complete the <a href="https://forms.gle/3kQSGcChimkwuyhM8">Community Partner Form</a></li>  
-                        <li>email us with any questions:  diversity-jupytercon@numfocus.org</li>
+                        <li>email us with any questions: <a href="mailto:jupytercon-diversity@numfocus.org">jupytercon-diversity@numfocus.org</a></li>
                     </ul>
                 </p>
             <div class="grid-container sponsors">
