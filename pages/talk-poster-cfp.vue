@@ -21,31 +21,31 @@
                     JupyterCon talks are 30 minutes long (plan for 25 minutes of presentation and 5 minutes of questions). Talks are organized into the following tracks:
                 </p>
 
-                <h3>Enterprise Jupyter Infrastructure</h3>
+                <h4>Enterprise Jupyter Infrastructure</h4>
 
                     <p>
                         Talks that address deploying Jupyter and JupyterHub at scale in industry, government, high-performance computing, science, education, and other settings. Topics include DevOps, scaling services, security concerns, regulation compliance, and more.
                     </p>
 
-                <h3>Jupyter in Education</h3>
+                <h4>Jupyter in Education</h4>
 
                     <p>
                         Talks that address how to teach and learn using Jupyter in a variety of settings.
                     </p>
 
-                <h3>Jupyter in scientific research</h3>
+                <h4>Jupyter in scientific research</h4>
 
                     <p>
                         Talks that address how Jupyter is used in specific scientific research fields, such as climate change, physics, astronomy, meteorology, and more.
                     </p>
 
-                <h3>Data science applications</h3>
+                <h4>Data science applications</h4>
 
                     <p>
                         Talks that address how Jupyter is used by data science practitioners in industry, government, and elsewhere.
                     </p>
 
-                <h3>Jupyter community: tools and practices</h3>
+                <h4>Jupyter community: tools and practices</h4>
 
                     <p>Talks that address the community tooling and best practices in the Jupyter ecosystem. Community tools include frontends, kernels, extensions, and other tools in the Jupyter ecosystem. Community practices include how Jupyter is used in a workflow and how the Jupyter community itself works.</p>
 
