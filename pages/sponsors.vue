@@ -56,7 +56,7 @@
                 <p>If your affinity group would like to partner with us:  
                     <ul>   
                         <li>complete the <a href="https://forms.gle/3kQSGcChimkwuyhM8">Community Partner Form</a></li>  
-                        <li>email us with any questions:  diversity-jupytercon@numfocus.org</li>
+                        <li>email us with any questions: <a href="mailto:jupytercon-diversity@numfocus.org">jupytercon-diversity@numfocus.org</a></li>
                     </ul>
                 </p>
             <div class="grid-container sponsors">
@@ -118,6 +118,17 @@
                         description: "Women Who Code is the largest and most active community of engineers dedicated to inspiring women to excel in technology careers. We provide an avenue into tech, empower women with skills needed for professional advancement, and provide environments where networking and mentorship are valued.",
                         image: require("~/assets/images/sponsors/wwcode_Final Logo.svg")
                     },
+                    {
+                        link: "https://twitter.com/PyLadiesBer",
+                        description: "We are the Berlin chapter of PyLadies, an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
+                        image: require("~/assets/images/sponsors/pyladies_berlin.jpg")
+                    },
+                    {
+                        link: "https://twitter.com/PyLadiesHH",
+                        description: "Hamburg Chapter of PyLadies. We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
+                        image: require("~/assets/images/sponsors/pyladies_hamburg.png")
+                    },
+                    
                 ]
             }
         },
