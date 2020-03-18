@@ -20,10 +20,10 @@
             <h1>Tickets</h1>
             <div class="grid-x grid-padding-x">
                 <div class="cell small-12 medium-4">
-                    <h3 class="ticket-number">May 24th</h3>
+                    <h3 class="ticket-number">June 1st</h3>
                     <hr>
                     <h3>Early Bird</h3>
-                    <p>Open through May 24th</p>
+                    <p>Open through June 1st</p>
                     <a class="button" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
                 </div>
                 <div class="cell small-12 medium-4 grayscale">
