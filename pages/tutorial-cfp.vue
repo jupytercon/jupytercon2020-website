@@ -19,28 +19,28 @@
 
                 <table style="width:100%">
                   <tr>
-                    <td>March 16th, 2020</td>
+                    <td>March 16, 2020</td>
                     <td>Call for proposals opens</td>
                   </tr>
                   <tr>
-                    <td>April 13th, 2020</td>
+                    <td>April 20, 2020</td>
                     <td>Call for proposals closes</td>
                   </tr>
                   <tr>
-                    <td>April 14th - May 3rd, 2020</td>
+                    <td>April 21 - May 10, 2020</td>
                     <td>Review period</td>
                   </tr>
                   <tr>
-                    <td>May 4th, 2020</td>
+                    <td>May 11-31, 2020</td>
                     <td>Acceptance/rejection notifications are sent</td>
                   </tr>
                   <tr>
-                    <td>May 25th, 2020</td>
-                    <td>Schedule announcement</td>
+                    <td>June 1, 2020</td>
+                    <td>Conference schedule announced</td>
                   </tr>
                   <tr>
-                    <td>August 12-13th, 2020</td>
-                    <td>Talks and posters are presented at JupyterCon 2020</td>
+                    <td>August 10-11, 2020</td>
+                    <td>Tutorials are presented at JupyterCon 2020</td>
                   </tr>
                 </table>
 
