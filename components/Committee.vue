@@ -72,7 +72,7 @@
                 {
                     name: "Gerard Gorman",
                     role: "Tutorials Co-Chair",
-                    bio: "Gerard is in the faculty of Imperial College London, teaching programming and statistics to geoscientists. He leads the Devito open source project, a domain-specific language for finite difference solutions of inverse problems. Gerard is also Research engagement consultant with Microsoft.",
+                    bio: "Reader (Associate Professor) in Computational Science and Director of the Applied Computational Science and Engineering MSc at Imperial College London. Director the Devito open source project, a domain-specific language for finite difference solutions of inverse problems. Gerard is also Research engagement consultant with Microsoft.",
                     image: require("~/assets/images/commitee/gerard.jpg?resize&size=508")
                 },
                 {
