@@ -20,10 +20,10 @@
             <h1>Tickets</h1>
             <div class="grid-x grid-padding-x">
                 <div class="cell small-12 medium-4">
-                    <h3 class="ticket-number">June 1st</h3>
+                    <h3 class="ticket-number">May 31st</h3>
                     <hr>
                     <h3>Early Bird</h3>
-                    <p>Open through June 1st</p>
+                    <p>Open through May 31st</p>
                     <a class="button" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
                 </div>
                 <div class="cell small-12 medium-4 grayscale">
@@ -90,15 +90,15 @@
                     <p>Key dates:</p>
 
                     <ul>
-                        <li>April 20th: deadline to submit application</li>
-                        <li>May 4th: applicants notified; speakers notified of CFP acceptance</li>
+                        <li>April 27th: deadline to submit application</li>
+                        <li>May 11th: applicants notified</li>
                     </ul>
  
                 <h2>What’s included</h2>
 
                     <ul>
                         <li>Full conference pass that includes all talks, tutorials, social events.</li>
-                        <li>A 500  Euro gift card or digital fund transfer (Venmo, PayPal) will be provided to the recipient onsite at the conference to offset costs such as travel, lodging, and meals.</li>
+                        <li>A 500 Euro gift card or digital fund transfer (Venmo, PayPal) will be provided to the recipient onsite at the conference to offset costs such as travel, lodging, and meals.</li>
                     </ul>
   
                     <p>
