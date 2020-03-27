@@ -84,16 +84,21 @@
                 </p>
 
                 <h2>How to apply</h2>
-
-                    <p>We will soon open online applications to the diversity scholarship.</p>                    
+<p>Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLScBy-7hNFDWLsejqNM0wS2qE4Q5APeXO8rlYW3kzgltq-bIZg/viewform) to apply for Diversity and Financial Aid scholarships.
+</p>                    
  
-                    <p>Key dates:</p>
+                    <h2>Dates to remember</h2>
+                      <table style="width:100%">
+                  <tr>
+                    <td>April 27th, 2020</td>
+                    <td>Deadline to submit applications</td>
+                  </tr>
+                  <tr>
+                    <td>May 11th, 2020</td>
+                    <td>Acceptance/rejection notifications are sent</td>
+                  </tr>
+                  </table>
 
-                    <ul>
-                        <li>April 27th: deadline to submit application</li>
-                        <li>May 11th: applicants notified</li>
-                    </ul>
- 
                 <h2>What’s included</h2>
 
                     <ul>
