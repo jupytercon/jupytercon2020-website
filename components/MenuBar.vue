@@ -17,7 +17,7 @@
                 <div class="menu-overlay" :class="menuOpen?'opened':'closed'" ref="menuOverlay"  @click="toggleMenu()">
                     <div class="social-icons">
                         <a href="https://twitter.com/JupyterCon"><div class="social-icon twitter-icon"></div></a>
-                        <a href="https://www.youtube.com/user/PyDataTV"><div class="social-icon youtube-icon"></div></a>
+                        <a href="https://www.youtube.com/channel/UCk4mxleDfaMqdm5kHISD3qA/about"><div class="social-icon youtube-icon"></div></a>
                     </div>
                     <nuxt-link to="/privacy/"><div class="terms">Privacy Policy</div></nuxt-link>
                     <div class="menu-columns">
