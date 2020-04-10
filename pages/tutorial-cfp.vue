@@ -15,35 +15,6 @@
                 The tutorials will be held on 10th and 11th of August, 2020 at the Berlin Conference Center in Berlin, Germany.
             </p>
 
-            <h2>Dates to remember</h2>
-
-                <table style="width:100%">
-                  <tr>
-                    <td>March 16, 2020</td>
-                    <td>Call for proposals opens</td>
-                  </tr>
-                  <tr>
-                    <td>April 20, 2020</td>
-                    <td>Call for proposals closes</td>
-                  </tr>
-                  <tr>
-                    <td>April 21 - May 10, 2020</td>
-                    <td>Review period</td>
-                  </tr>
-                  <tr>
-                    <td>May 11-31, 2020</td>
-                    <td>Acceptance/rejection notifications are sent</td>
-                  </tr>
-                  <tr>
-                    <td>June 1, 2020</td>
-                    <td>Conference schedule announced</td>
-                  </tr>
-                  <tr>
-                    <td>August 10-11, 2020</td>
-                    <td>Tutorials are presented at JupyterCon 2020</td>
-                  </tr>
-                </table>
-
             <h2>Guidelines for proposal submission</h2>
 
                 <p>
