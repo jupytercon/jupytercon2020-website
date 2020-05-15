@@ -12,7 +12,7 @@
             </p>
 
             <p>
-             Talks will be held on August 12-13, 2020 at the Berlin Conference Center in Berlin, Germany. 
+             Talks will be broadcast during October 12-16, 2020 and will be available to watch after the conference.
              </p>
 
 
@@ -21,7 +21,11 @@
             <h2>Talks at JupyterCon 2020</h2>
 
                 <p>
-                    JupyterCon talks are 30 minutes long (plan for 25 minutes of presentation and 5 minutes of questions). Talks are organized into the following tracks:
+                    JupyterCon talks are 30 minutes long. Talks will be pre-recorded and posted online throughout the week. "Watch parties" will be organized throughout the week to view selected talks with live chat. Some time after the talks are posted, join a live speaker panel for a Q&A with several speakers.
+                </p>
+
+                <p>
+                    Talks are organized into the following tracks:
                 </p>
 
                 <h4>Enterprise Jupyter Infrastructure</h4>
@@ -39,7 +43,7 @@
                 <h4>Jupyter in scientific research</h4>
 
                     <p>
-                        Talks that address how Jupyter is used in specific scientific research fields, such as climate change, physics, astronomy, meteorology, and more.
+                        Talks that address how Jupyter is used in specific scientific research fields, such as medical research, astronomy, physics, climate change, meteorology, and more.
                     </p>
 
                 <h4>Data science applications</h4>
@@ -55,19 +59,25 @@
             <h2>Posters at JupyterCon 2020</h2>
 
                 <p>
-                    If your work is in progress, this is the place to share and get feedback. More suited for topics relevant to a narrow subset of the Jupyter community, poster presentations encourage one-on-one discussions between presenters and attendees that continue far beyond conference halls. 
+                    Posters is a forum for ideas to be presented in a concise, visually appealing way. More suited for topics relevant to a narrow subset of the Jupyter community, poster presentations encourage one-on-one discussions between presenters and attendees that continue far beyond the conference. Anyone is welcome to submit a poster: researchers, practitioners, enthusiasts, and students.
                 </p>
 
                 <p>
-                    Posters is a forum for ideas to be presented in a concise, visually appealing way. Anyone is welcome to submit to the Posters program: researchers, practitioners, enthusiasts, and students. The strongest posters focus on clear communication and consideration of all audiences. Posters should be A0 size or at most 36 inches by 48 inches.
+                    A poster consists of:
                 </p>
+
+                <ul>
+                    <li> A small thumbnail image (JPG or PNG) for our poster gallery</li>
+                    <li> A poster pdf file</li>
+                    <li> Optionally a short video (at most 2 minutes) introducing your project</li>
+                </ul>
 
             <h2>Guidelines for proposing a talk or poster</h2>
 
                 <h3>Speaker Profile</h3>
 
                     <p>
-                        To propose a talk, you will first need to create a speaker profile. This includes information such as your name (as you would like it to appear in the conference program), and the following optional information, which will be published as a part of the conference program if your talk is accepted:
+                        To propose a talk or poster, you will first need to create a speaker profile. This includes information such as your name (as you would like it to appear in the conference program), and the following optional information, which will be published as a part of the conference program if your talk is accepted:
                     </p>
 
                     <ul>
@@ -76,7 +86,9 @@
                         <li>a GitHub and/or Twitter handles to connect with you</li>
                     </ul>
 
-                    <p>The primary presenter should submit the proposal, and afterwards the proposal can be edited to add other authors.</p>
+                    <p>
+                        The primary presenter should submit the proposal, and afterwards the proposal can be edited to add other authors.
+                    /p>
 
                 <h3>Proposal</h3>
 
@@ -91,7 +103,8 @@
                         <li>
                             <strong>Audience:</strong> Describe what level of programming/coding and other topic-specific knowledge, experience or expertise your talk is aiming for. Will the attendees need multiple skills or proficiency in tools other than Jupyter notebooks?<br>
                             ‘Advanced’, ‘Intermediate’, and ‘Beginner’ may mean different things to different people. Feel free to include any additional details regarding prerequisites for your talk, as well as what audience may benefit from it. 
-Brief summary: Submit a short paragraph describing the topic and key takeaways for attendees. The description will be included in the conference program announcements, should it be selected.
+                        <li>
+                            <strong>Brief summary:</strong> Submit a short paragraph describing the topic and key takeaways for attendees. The description will be included in the conference program announcements, should it be selected.
                         </li>
                         <li>
                             <strong>A detailed outline:</strong> This is a self-contained statement that summarises the objective of the talk or poster, its outline, central thesis, and key takeaways. After reading the description, the audience should have an idea of the overall presentation and know what to expect. The description should also make clear what background knowledge is expected from the attendees. Include links to relevant source code, articles, videos, or other information that add context to your proposal.
@@ -113,11 +126,10 @@ Brief summary: Submit a short paragraph describing the topic and key takeaways f
                         </p>
                         <ul>
                             <li>Submit early. Submissions can be modified up until the submission deadline.</li>
-                            <li>Ensure your talk or poster will appeal to a wider swatch of the Jupyter community. If your talk topic addresses a narrow segment of issues, users, or applications, consider shifting focus or highlighting best practices and themes that apply to a more general audience. People from many fields and backgrounds attend JupyterCon, which can lead to rich discussions among attendees that would not normally have a chance to interact with each other. What lessons have you learned that can benefit others in the Jupyter community that may not be from your specific field or application?</li>
+                            <li>Ensure your talk will appeal to the wider Jupyter community. If your talk topic addresses a narrow segment of issues, users, or applications, consider shifting focus or highlighting best practices and themes that apply to a more general audience, or consider submitting a more narrowly-focused poster. People from many fields and backgrounds attend JupyterCon, which can lead to rich discussions among attendees that would not normally have a chance to interact with each other. What lessons have you learned that can benefit others in the Jupyter community that may not be from your specific field or application?</li>
                             <li>Take a look at the <a href="https://conferences.oreilly.com/jupyter/jup-ny-2017/public/schedule/grid/public">JupyterCon 2017</a> and <a href="https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/full/public">JupyterCon 2018</a> conference schedules for previously accepted talks.</li>
                             <li>Clearly identify who your target audience is, what background is required for attendees to benefit from your presentation, and what the key takeaways are.</li>
                             <li>Get feedback, especially from those in your target audience.</li>
-                            <li>There is a limited amount of financial aid to attend the conference. The financial aid application deadlines coincide with the call for proposals deadlines, so if you apply for financial aid to attend, you should know the results before you will need to confirm acceptance.</li>
                         </ul>
                     </li>
                     <li>
@@ -136,6 +148,16 @@ Brief summary: Submit a short paragraph describing the topic and key takeaways f
                             <li><strong>Repeated Talk</strong> We have a strong preference for new material and fresh faces, and as such, if your talk is already available online it is unlikely to be accepted for the conference.</li>
                         </ul>
                     </li>
+                    <li>
+                        <p class="question">
+                            I don't have a good microphone/light/setup for recording a talk.
+                        </p>
+
+                        <p>
+                            We will be sending a speaker kit to accepted talk presenters that will include a light, microphone, and tips for how to record a good talk. We are happy to review an early iteration of your recording and give you feedback on the recording as well.
+                        </p>
+                    </li>
+
                 </ol>
 
                 <p>
@@ -178,6 +200,7 @@ Brief summary: Submit a short paragraph describing the topic and key takeaways f
         padding: 100px;
     }
     .question {
+        padding-top: 2em;
         font-weight: bold;
     }
 </style>

@@ -32,10 +32,10 @@
             <div class="side-content float-left">
                 <slot name="side-content">
                 <div>
-                    <span class="grey">Berlin, Germany <br/></span>
-                    <span class="orange">10-11 August: Tutorials <br/>
-                        12-13 August: Conference <br/>
-                        14 August: Sprints
+                    <span class="grey">Virtual Online Conference <br/></span>
+                    <span class="orange">5-9 October: Tutorials <br/>
+                        12-16 October: Conference <br/>
+                        10-11, 17-18 October: Sprints
                     </span>
                 </div>
                 </slot>

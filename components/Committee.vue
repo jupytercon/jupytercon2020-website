@@ -36,7 +36,7 @@
                 {
                     name: "Jason Grout",
                     role: "Technical Program Chair",
-                    bio: "Jason Grout is a Jupyter community leader and developer working at Bloomberg in San Francisco. Jason works primarily on JupyterLab and the interactive widget system and                     associated projects. Jason has also contributed to the open source Sage mathematical software system for many years. Previously, Jason was an assistant professor of mathematics at Drake University in Des Moines, Iowa.",
+                    bio: "Jason Grout is a Jupyter community leader and developer working at Bloomberg in San Francisco. Jason works primarily on JupyterLab and the interactive widget system and associated projects. Jason has also contributed to the open source Sage mathematical software system for many years.",
                     image: require("~/assets/images/commitee/jason.jpg?resize&size=508")
                 },
                 {
@@ -89,14 +89,14 @@
                 },
                 {
                     name: "Jeremy Tuloup",
-                    role: "Local Organizing Committee Chair",
+                    role: "Infrastructure Chair",
                     bio: "Scientific Software Developer at QuantStack. Contributor to JupyterLab, the Debugger extension, Voilà and various other projects within the Jupyter ecosystem.",
                     image: require("~/assets/images/commitee/jeremy.jpg?resize&size=508")
                 },
                 {
                     name: "Wolf Vollprecht",
-                    role: "Local Sponsorships Liaison",
-                    bio: "Wolf is a robotics engineer from Germany, working on Open Source projects QuantStack. He lives in Berlin, works on jupyter-ros and other jupyterlab extensions and hopes to help organize a really nice JupyterCon 2020!",
+                    role: "Infrastructure Team",
+                    bio: "Wolf is a robotics engineer from Germany, working on Open Source projects QuantStack. He lives in Berlin, works on jupyter-ros and other JupyterLab extensions and hopes to help organize a really nice JupyterCon 2020!",
                     image: require("~/assets/images/commitee/wolf.jpg?resize&size=508")
                 },
                 {
@@ -119,13 +119,13 @@
                 },
                 {
                     name: "Dinu Gherman",
-                    role: "Local Organizing Team",
+                    role: "Infrastructure Team",
                     bio: "Dinu Gherman works at HERE Technologies, has translated early Python books by O’Reilly and others into German, worked some time for ReportLab, and contributes to and advocates Open Source, Python and Jupyter in the local Python community he founded in Berlin and at work.",
                     image: require("~/assets/images/commitee/dinu.jpg?resize&size=508")
                 },
                 {
                     name: "Cristián Maureira-Fredes",
-                    role: "Local Organizing Team",
+                    role: "Infrastructure Team",
                     bio: "Open Source enthusiast currently based in Berlin. Qt for Python maintainer, R&D Manager at The Qt Company, and former Astrophysicist at the Max-Planck-Institut für Gravitationsphysik.",
                     image: require("~/assets/images/commitee/cristian.jpg?resize&size=508")
                 },

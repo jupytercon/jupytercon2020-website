@@ -12,7 +12,7 @@
             </p>
 
             <p>
-                The tutorials will be held on 10th and 11th of August, 2020 at the Berlin Conference Center in Berlin, Germany.
+                The tutorials will be open October 5-9, 2020.
             </p>
 
             <h2>Guidelines for proposal submission</h2>
@@ -22,7 +22,7 @@
                 </p>
 
                 <p>
-                    Please note Each presenter is limited to giving two tutorials only, either as the main lead or a co-lead/assistant.
+                    Please note: Each presenter is limited to giving two tutorials only, either as the main lead or a co-lead/assistant.
                 </p>
 
             <h2>Proposing a tutorial</h2>
@@ -175,6 +175,7 @@
         padding: 100px;
     }
     .question {
+        padding-top: 2em;
         font-weight: bold;
     }
 </style>

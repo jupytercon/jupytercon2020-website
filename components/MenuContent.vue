@@ -40,7 +40,6 @@
                         'Organizing Committee',
                         { label: 'Code of Conduct', to: '/codeofconduct/' },
                         { label: 'Diversity', to: "/diversity/" },
-                        { label: 'Eco-friendly efforts', to: '/sustainability/' },
                         { label: 'COVID-19 Statement', to: '/covid-19-statement/' }
                     ]
                 }, {
@@ -61,16 +60,6 @@
                         'Schedule',
                         'Social events',
                         'Tips for attendees'
-                    ]
-                }, {
-                    label: 'Venue',
-                    to: '/venue/',
-                    items: [
-                        'Conference center',
-                        'Getting there',
-                        'Hotel and local info',
-                        'Child care',
-                        'Things to do'
                     ]
                 }, {
                     label: 'Sponsors',

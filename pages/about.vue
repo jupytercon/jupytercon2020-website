@@ -7,7 +7,7 @@
         </BlockHeader>
         <BlockAbout title="What is JupyterCon?" :img="require('~/assets/images/explain.jpg')" id="What is it?">
             <p>
-                JupyterCon brings together data scientists, business analysts, researchers, educators, developers, core Project contributors, and tool creators for in-depth training, insightful keynotes, networking events, and practical talks exploring the Project Jupyter platform. JupyterCon focuses on real-world practices and how to successfully implement interactive computation in your workflow and projects. In just four days, you’ll discover the best practices for collaborative and reproducible data science, new use cases, and the expertise you need to transform your workflow with Jupyter.
+                JupyterCon virtually brings together data scientists, business analysts, researchers, educators, developers, core Project contributors, and tool creators for in-depth training, insightful keynotes, networking, and practical talks exploring the Project Jupyter platform. JupyterCon focuses on real-world practices and how to successfully implement interactive computation in your workflow and projects. In just two weeks, you’ll discover the best practices for collaborative and reproducible data science, new use cases, and the expertise you need to transform your workflow with Jupyter.
             </p>
 
         </BlockAbout>
@@ -41,11 +41,9 @@
                 <li>Visionary keynote presentations</li>
                 <li>Immersive hands-on training courses</li>
                 <li>Unparalleled access to core Project Jupyter contributors and tool creators</li>
-                <li>A Sponsor Pavilion packed with related projects and products</li>
-                <li>Community focused events, such as sprints, user testing, and birds-of-a-feather gatherings</li>
-                <li>An evening Poster session featuring dozens of innovative Jupyter projects</li>
-                <li>A vibrant "hallway track" where hundreds of programmers, data scientists, analysts, researchers, vendors, and users of all levels discuss important issues</li>
-                <li>Fun evening events and plenty of informal networking</li>
+                <li>A sponsor area packed with related projects and products</li>
+                <li>Community events, such as sprints and birds-of-a-feather gatherings</li>
+                <li>A poster session featuring dozens of innovative Jupyter projects</li>
             </ul>
         </BlockAbout>
         <Committee id="Organizing Committee">
@@ -65,13 +63,6 @@
                         Our commitment to the JupyterCon community is to create an inclusive and respectful conference environment that invites participation of people from all backgrounds, including, but not limited to gender, age, ethnicity, religion, accessibility and sexual orientation. Any inquiries can be sent to <a href="mailto:jupytercon-diversity@numfocus.org" class="link-dark">jupytercon-diversity@numfocus.org</a>.
                     </div>
                     <nuxt-link class="coc-button button hollow" to="/diversity/">Diversity</nuxt-link>
-                </div>
-                <div class="coc cell small-12 medium-4">
-                    <h2 class="ticket-number">Eco friendly</h2>
-                    <div class="coc-caption">
-                        JupyterCon 2020 is working towards having a limited impact on the environment through careful consumption of energy and resources. This includes, among others, electronically circulating meeting materials (online file sharing), not producing unnecessary conference material and products, choosing environmentally-friendly and socially-friendly products, as well as providing healthy food and hosting meetings and social events in central locations.
-                    </div>
-                    <nuxt-link class="coc-button button hollow" to="/sustainability/">Sustainability</nuxt-link>
                 </div>
             </div>
         </BlockGreyOrange>

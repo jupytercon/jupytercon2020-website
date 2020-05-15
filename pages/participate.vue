@@ -19,13 +19,6 @@
         <div class="tickets white-background" id="Register / Tickets">
             <h1>Tickets</h1>
             <div class="grid-x grid-padding-x">
-                <div class="cell small-12 medium-4">
-                    <h3 class="ticket-number">May 31st</h3>
-                    <hr>
-                    <h3>Early Bird</h3>
-                    <p>Open through May 31st</p>
-                    <a class="button" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
-                </div>
                 <div class="cell small-12 medium-4 grayscale">
                     <h3 class="ticket-number">July 26th</h3>
                     <hr>
@@ -80,12 +73,14 @@
             <h1>Financial Aid and Diversity Scholarships</h1>
 
                 <p>
-                    NumFOCUS and the JupyterCon team believe that diversity is the strength of our community and essential for success. To help foster this inclusive environment, we are offering scholarships and financial aid to create an event that brings together many different perspectives.  We want to include participants that represent all ethnicities, sexual orientations, religions, ages, and genders. We’d also like to introduce geo-diversity as a goal to bring attendees from around the globe since JupyterCon has been previously held in the US and now Europe.
+                    NumFOCUS and the JupyterCon team believe that diversity is the strength of our community and essential for success. To help foster this inclusive environment, we are offering scholarships for full conference passes (all talks, tutorials, social events) to create an event that brings together many different perspectives.  We want to include participants that represent all ethnicities, sexual orientations, religions, ages, genders, and geographical areas.
                 </p>
 
                 <h2>How to apply</h2>
-<p>Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLScBy-7hNFDWLsejqNM0wS2qE4Q5APeXO8rlYW3kzgltq-bIZg/viewform) to apply for Diversity and Financial Aid scholarships.
-</p>                    
+
+                <p>
+                    Please use <a href="https://docs.google.com/forms/d/e/1FAIpQLScBy-7hNFDWLsejqNM0wS2qE4Q5APeXO8rlYW3kzgltq-bIZg/viewform">this form</a> to apply for Diversity and Financial Aid scholarships.
+                </p>
  
                     <h2>Dates to remember</h2>
                       <table style="width:100%">
@@ -98,17 +93,7 @@
                     <td>Acceptance/rejection notifications are sent</td>
                   </tr>
                   </table>
-
-                <h2>What’s included</h2>
-
-                    <ul>
-                        <li>Full conference pass that includes all talks, tutorials, social events.</li>
-                        <li>A 500 Euro gift card or digital fund transfer (Venmo, PayPal) will be provided to the recipient onsite at the conference to offset costs such as travel, lodging, and meals.</li>
-                    </ul>
   
-                    <p>
-                        We encourage you to take photos and share on Twitter, LinkedIn, and other social media platforms.  Sharing about the event brings visibility to Jupyter, NumFOCUS, and open source.  And importantly, it helps us to get sponsors for future events, who often support financial aid.
-                    </p>
         </div>
         <DesktopFooter />
     </div>
