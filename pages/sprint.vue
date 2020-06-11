@@ -2,14 +2,6 @@
     <div>
         <BlockHeaderPlain title="Sprints">
             <template  v-slot:side-content>
-                <div>
-                    <span class="grey">Date: 14th of August, 2020<br/></span>
-                    <span class="grey">Location: HERE Technologies</br></span>
-                    <span class="orange">10-11 August: Tutorials <br/>
-                        12-13 August: Conference <br/>
-                        14 August: Sprints
-                    </span>
-                </div>
             </template>
         </BlockHeaderPlain>
         <div class="main grey-background">
