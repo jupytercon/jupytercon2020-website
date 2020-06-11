@@ -15,8 +15,12 @@
              Talks will be broadcast during October 12-16, 2020 and will be available to watch after the conference.
              </p>
 
-
-
+            <h2>Dates to remember</h2>
+            <p>
+            Authors submit proposals by July 15, 2020<br/>
+            Authors receive proposal accept/reject decision August 5-12, 2020<br/>
+            Authors upload talks by September 11, 2020<br/>
+            </p>
 
             <h2>Talks at JupyterCon 2020</h2>
 
@@ -54,7 +58,7 @@
 
                 <h4>Jupyter community: tools and practices</h4>
 
-                    <p>Talks that address the community tooling and best practices in the Jupyter ecosystem. Community tools include frontends, kernels, extensions, and other tools in the Jupyter ecosystem. Community practices include how Jupyter is used in a workflow and how the Jupyter community itself works.</p>
+                    <p>Talks that address the community tooling and best practices in the Jupyter ecosystem. Community tools include frontends, kernels, extensions, and other tools in the Jupyter ecosystem. Community practices include how Jupyter is used in a workflow and introspection into the Jupyter community itself.</p>
 
             <h2>Posters at JupyterCon 2020</h2>
 
