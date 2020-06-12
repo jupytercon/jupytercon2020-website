@@ -25,7 +25,7 @@
             <h2>Talks at JupyterCon 2020</h2>
 
                 <p>
-                    JupyterCon talks are 30 minutes long. Talks will be pre-recorded and posted online throughout the week. "Watch parties" will be organized throughout the week to view selected talks with live chat. Some time after the talks are posted, join a live speaker panel for a Q&A with several speakers.
+                    JupyterCon talks are 30 minutes long. Talks will be pre-recorded and posted online throughout the week. "Watch parties" will be organized throughout the week to view selected talks with live chat. Some time after a group of talks are posted, join a live speaker panel for a Q&A with several speakers.
                 </p>
 
                 <p>
