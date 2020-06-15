@@ -27,7 +27,7 @@
 
                 <ul>
                     <li>Code of Conduct: is strictly enforced.</li>
-                    <li>Community outreach: we are conducting outreach partnering with community groups to involve participants from all backgrounds.  If your group would like to partner, email us.</li>
+                    <li>Community outreach: we are conducting outreach with community groups to involve participants from all backgrounds. If your group would like to partner with us, email the JupyterCon Diversity Committee at [jupytercon-diversity@numfocus.org](jupytercon-diversity@numfocus.org).</li>
                     <li>Diversity scholarships.</li>
                     <!--<li>Resources for CFP Mentorship: TBD -->
                 </ul>

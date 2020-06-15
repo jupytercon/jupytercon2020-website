@@ -20,10 +20,10 @@
             <h1>Tickets</h1>
             <div class="grid-x grid-padding-x">
                 <div class="cell small-12 medium-4">
-                    <h3 class="ticket-number">May 24th</h3>
+                    <h3 class="ticket-number">May 31st</h3>
                     <hr>
                     <h3>Early Bird</h3>
-                    <p>Open through May 24th</p>
+                    <p>Open through May 31st</p>
                     <a class="button" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
                 </div>
                 <div class="cell small-12 medium-4 grayscale">
@@ -84,21 +84,26 @@
                 </p>
 
                 <h2>How to apply</h2>
-
-                    <p>We will soon open online applications to the diversity scholarship.</p>                    
+<p>Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLScBy-7hNFDWLsejqNM0wS2qE4Q5APeXO8rlYW3kzgltq-bIZg/viewform) to apply for Diversity and Financial Aid scholarships.
+</p>                    
  
-                    <p>Key dates:</p>
+                    <h2>Dates to remember</h2>
+                      <table style="width:100%">
+                  <tr>
+                    <td>April 27th, 2020</td>
+                    <td>Deadline to submit applications</td>
+                  </tr>
+                  <tr>
+                    <td>May 11th, 2020</td>
+                    <td>Acceptance/rejection notifications are sent</td>
+                  </tr>
+                  </table>
 
-                    <ul>
-                        <li>April 20th: deadline to submit application</li>
-                        <li>May 4th: applicants notified; speakers notified of CFP acceptance</li>
-                    </ul>
- 
                 <h2>What’s included</h2>
 
                     <ul>
                         <li>Full conference pass that includes all talks, tutorials, social events.</li>
-                        <li>A 500  Euro gift card or digital fund transfer (Venmo, PayPal) will be provided to the recipient onsite at the conference to offset costs such as travel, lodging, and meals.</li>
+                        <li>A 500 Euro gift card or digital fund transfer (Venmo, PayPal) will be provided to the recipient onsite at the conference to offset costs such as travel, lodging, and meals.</li>
                     </ul>
   
                     <p>

@@ -15,6 +15,9 @@
              Talks will be held on August 12-13, 2020 at the Berlin Conference Center in Berlin, Germany. 
              </p>
 
+
+
+
             <h2>Talks at JupyterCon 2020</h2>
 
                 <p>
@@ -58,36 +61,6 @@
                 <p>
                     Posters is a forum for ideas to be presented in a concise, visually appealing way. Anyone is welcome to submit to the Posters program: researchers, practitioners, enthusiasts, and students. The strongest posters focus on clear communication and consideration of all audiences. Posters should be A0 size or at most 36 inches by 48 inches.
                 </p>
-
-            <h2>Dates to remember</h2>
-
-                <table style="width:100%">
-                  <tr>
-                    <td>March 16th, 2020</td>
-                    <td>Call for proposals opens</td>
-                  </tr>
-                  <tr>
-                    <td>April 13th, 2020</td>
-                    <td>Call for proposals closes</td>
-                  </tr>
-                  <tr>
-                    <td>April 14th - May 3rd, 2020</td>
-                    <td>Review period</td>
-                  </tr>
-
-                  <tr>
-                    <td>May 4th, 2020</td>
-                    <td>Acceptance/rejection notifications are sent</td>
-                  </tr>
-                  <tr>
-                    <td>May 25th, 2020</td>
-                    <td>Schedule announcement</td>
-                  </tr>
-                  <tr>
-                    <td>August 12-13th, 2020</td>
-                    <td>Talks and posters are presented at JupyterCon 2020</td>
-                  </tr>
-                </table>
 
             <h2>Guidelines for proposing a talk or poster</h2>
 
