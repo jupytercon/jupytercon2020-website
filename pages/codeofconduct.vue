@@ -82,14 +82,7 @@
                 <p>
                     <strong>You can make a personal report by:</strong>
                     <ul>
-                        <li><strong>Phone:</strong> A local phone number will be provided and monitored for the duration of the event.</li>
-                        <li><strong>In person:</strong> Contact a JupyterCon staff member or visit the customer service desk at
-                            conference registration.
-                            When taking a personal report, event staff will ensure you are safe and cannot be
-                            overheard. They may involve other event staff member to ensure your report is managed
-                            properly. This can be uncomfortable, but we'll handle it respectfully and you can bring
-                            someone to support you.
-                        </li>
+                        <li><strong>Phone:</strong> A phone number will be provided and monitored for the duration of the event.</li>
                         <li><strong>By Email:</strong> Send a message to <a href="mailto:conduct@numfocus.org">conduct@numfocus.org</a>. Event organizers will respond promptly.</li>
                         <li><strong>Online Form:</strong> <a href="https://numfocus.typeform.com/to/ynjGdT">NumFOCUS Code of Conduct Report</a> (your name and contact information are not required).
                             Our team will help you contact hotel/venue security, local law enforcement, local support
@@ -104,19 +97,6 @@
                     (which could include services and transportation as available), or otherwise respectfully
                     assist you to feel safe for the duration of the event.
                 </p>
-
-                <p>
-                    Contact information for the following will be provided at the event:
-                    <ul>
-                        <li>Email</li>
-                        <li>Venue security</li>
-                        <li>Law enforcement</li>
-                        <li>Local sexual assault hot line</li>
-                        <li>Non-emergency medical (e.g., urgent care, day clinic)</li>
-                        <li>Taxi</li>
-                    </ul>
-                </p>
-            </p>
 
             <h2>Enforcement</h2>
             <p>For more information about enforcement and what happens after a report is filed, see <a href="https://numfocus.org/code-of-conduct">https://numfocus.org/code-of-conduct</a>.</p>
