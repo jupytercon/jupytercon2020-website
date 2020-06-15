@@ -26,9 +26,9 @@
                 <p>What <strong>we at JupyterCon</strong> are doing:</p>
 
                 <ul>
-                    <li>Code of Conduct: is strictly enforced.</li>
-                    <li>Community outreach: we are conducting outreach with community groups to involve participants from all backgrounds. If your group would like to partner with us, email the JupyterCon Diversity Committee at [jupytercon-diversity@numfocus.org](jupytercon-diversity@numfocus.org).</li>
-                    <li>Diversity scholarships.</li>
+                    <li>Code of Conduct: is strictly enforced</li>
+                    <li>Community outreach: we are conducting outreach with community groups to involve participants from all backgrounds. If your group would like to partner with us, email the JupyterCon Diversity Committee at <a href="jupytercon-diversity@numfocus.org">jupytercon-diversity@numfocus.org</a></li>
+                    <li>Diversity scholarships</li>
                     <!--<li>Resources for CFP Mentorship: TBD -->
                 </ul>
 
@@ -44,8 +44,8 @@
                 <p>What <strong>speakers</strong> can do:</p>
 
                 <ul>
-                     <li>use microphone when speaking <strong>at all times</strong></li>
-                     <li>repeat questions asked by an audience member</li>
+                     <li>set up space and headphones to that people can hear you <strong>at all times</strong></li>
+                     <li>repeat questions asked by an audience member in chat</li>
                      <li>use color-blind accessible palettes in proposals, presentations and posters (<a href="https://usabilla.com/blog/how-to-design-for-color-blindness/">How to Design for Color Blindness</a>)</li>
                 </ul>
 
@@ -55,7 +55,6 @@
                     <li>follow our code of conduct and communicate any issues issues</li>
                     <li>use inclusive language (<a href="https://www.recurse.com/social-rules">Inclusive language</a>, <a href="https://heyguys.cc/">Hey Guys</a>)</li>
                     <li><a href="https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/">PacMan Rule</a>:  include others in discussion, leave space open in circle for others to join</li>
-                    <li>use reduced perfume / cologne for asthmatic attendees</li>
                 </ul>
 
                 <p>We invite you to share any thoughts and suggestions related to diversity by writing to <a href="mailto:jupytercon-diversity@numfocus.org">jupytercon-diversity@numfocus.org</a>.</p>
