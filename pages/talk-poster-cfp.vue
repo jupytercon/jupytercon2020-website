@@ -63,17 +63,19 @@
             <h2>Posters at JupyterCon 2020</h2>
 
                 <p>
-                    Posters is a forum for ideas to be presented in a concise, visually appealing way. More suited for topics relevant to a narrow subset of the Jupyter community, poster presentations encourage one-on-one discussions between presenters and attendees that continue far beyond the conference. Anyone is welcome to submit a poster: researchers, practitioners, enthusiasts, and students.
+                    The poster session is a forum for ideas to be presented in a concise, visually appealing way. Posters can be work in progress or the highlights of a project you would like to share and discuss. Posters can be shared as a static pdf file. We also encourage you to consider submitting an ‘executable’ and ‘interactive’ poster, such as a <a href="https://voila.readthedocs.io/en/stable/">Voilà dashboard</a>. Show us how you tell stories with Jupyter.
                 </p>
 
+                <p>Anyone is welcome to submit a poster, including researchers, practitioners, enthusiasts, and students.</p>
+
                 <p>
-                    A poster consists of:
+                    A poster presentation consists of:
                 </p>
 
                 <ul>
                     <li> A small thumbnail image (JPG or PNG) for our poster gallery</li>
-                    <li> A poster pdf file</li>
-                    <li> Optionally a short video (at most 2 minutes) introducing your project</li>
+                    <li> A poster pdf file or link to interactive site, such as a Voilà dashboard</li>
+                    <li> A short video (at most 2 minutes) introducing your project</li>
                 </ul>
 
             <h2>Guidelines for proposing a talk or poster</h2>
