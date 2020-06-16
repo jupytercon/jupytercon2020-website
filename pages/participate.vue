@@ -9,32 +9,16 @@
                 <div class="header-content">
                     <h2>Get involved</h2>
                     <slot>
-                    <p>What do you wish you would have known when starting to use Jupyter or interacting in the Jupyter community? What has been the slowest or most frustrating thing you've had to learn about using Jupyter that you could share with others to make their experience better? Propose a talk or poster at the JupyterCon 2020! </p>
+                    <p>What do you wish you would have known when starting to use Jupyter or interacting in the Jupyter community? Propose a talk or poster at the JupyterCon 2020! </p>
+                    <p>
+                                <a class="button hollow" style="border-color: white; color: white" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Register</a>
+                    </p>
+
                     </slot>
                 </div>
 
             </template>
         </BlockHeader>
-
-        <div class="tickets white-background" id="Register / Tickets">
-            <h1>Tickets</h1>
-            <div class="grid-x grid-padding-x">
-                <div class="cell small-12 medium-4 grayscale">
-                    <h3 class="ticket-number">July 26th</h3>
-                    <hr>
-                    <h3>Regular</h3>
-                    <p>Open through July 26th</p>
-                    <a class="button disabled" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
-                </div>
-                <div class="cell small-12 medium-4 grayscale">
-                    <h3 class="ticket-number">Aug 10th</h3>
-                    <hr>
-                    <h3>Last Call</h3>
-                    <p>From July 27th</p>
-                    <a class="button disabled" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Purchase</a>
-                </div>
-            </div>
-        </div>
 
         <BlockGreyOrange id="Call for proposals">
             <div class="proposals">

@@ -13,8 +13,10 @@
                                         v-if="typeof item === 'string'"
                                         :to="{ path: block.to, hash: item }"
                                 >- {{ item }}</nuxt-link>
+                                <a v-if="typeof item === 'object' && item.url" :href="item.url"
+                                >- {{ item.label }}</a>
                                 <nuxt-link
-                                        v-if="typeof item === 'object'"
+                                        v-if="typeof item === 'object' && !item.url"
                                         :to="{ path: (item.to || block.to), hash: item.anchor }"
                                 >- {{ item.label }}</nuxt-link>
                             </div>
@@ -46,7 +48,7 @@
                     label: 'Participate',
                     to: '/participate/',
                     items: [
-                        'Register / Tickets',
+                        { label: 'Register / Tickets', url: "https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319" },
                         'Call for proposals',
                         { label: 'Propose a talk or poster', to: "/talk-poster-cfp/" },
                         { label: 'Propose a tutorial', to: "/tutorial-cfp/" },

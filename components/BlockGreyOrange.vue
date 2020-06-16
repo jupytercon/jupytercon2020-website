@@ -86,6 +86,10 @@
                 height: 800px;
                 width: 400px;
             }
+            .button {
+                color: white;
+                border-color: white;
+            }
         }
         .overlay {
             position: absolute;
