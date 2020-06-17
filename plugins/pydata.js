@@ -5,8 +5,7 @@ Vue.mixin({
     data: function() {
       return {
         get pyDataBaseUrl() {
-            //    return "http://localhost:8080/test/"; // for development
-            return 'https://this-is-a-secret.com/';
+            return 'https://cfp.jupytercon.com/2020';
         }
       }
     }
