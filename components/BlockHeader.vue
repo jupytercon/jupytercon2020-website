@@ -8,7 +8,7 @@
                         <a
                                 class="button hollow"
                                 href="https://www.eventbrite.com/e/jupytercon-2020-tickets-109183767588">
-                            Register
+                            Register / Tickets
                         </a>
                         <nuxt-link class="button hollow" :to="{path: '/participate/', hash: '#Call for proposals'}">Propose a talk or tutorial</nuxt-link>
                         <nuxt-link class="button hollow" :to="{path: '/covid-19-statement/'}">COVID-19 Statement</nuxt-link>
