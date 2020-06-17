@@ -11,7 +11,7 @@
                     <slot>
                     <p>What do you wish you would have known when starting to use Jupyter or interacting in the Jupyter community? Propose a talk or poster at the JupyterCon 2020! </p>
                     <p>
-                                <a class="button hollow" style="border-color: white; color: white" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">Register</a>
+                                <a class="button hollow" style="border-color: white; color: white" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-109183767588">Register</a>
                     </p>
 
                     </slot>

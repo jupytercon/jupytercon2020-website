@@ -7,7 +7,7 @@
                     <div class="tickets" v-if="buttons">
                         <a
                                 class="button hollow"
-                                href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">
+                                href="https://www.eventbrite.com/e/jupytercon-2020-tickets-109183767588">
                             Register
                         </a>
                         <nuxt-link class="button hollow" :to="{path: '/participate/', hash: '#Call for proposals'}">Propose a talk</nuxt-link>
