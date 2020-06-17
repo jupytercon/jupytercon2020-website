@@ -11,7 +11,7 @@
                             Register
                         </a>
                         <nuxt-link class="button hollow" :to="{path: '/participate/', hash: '#Call for proposals'}">Propose a talk or tutorial</nuxt-link>
-                        <nuxt-link class="button hollow" :to="{path: '/covid-19-statement/', hash: '#Call for proposals'}">COVID-19 Statement</nuxt-link>
+                        <nuxt-link class="button hollow" :to="{path: '/covid-19-statement/'}">COVID-19 Statement</nuxt-link>
                     </div>
                 </slot>
             </div>
