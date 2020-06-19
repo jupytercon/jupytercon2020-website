@@ -4,69 +4,24 @@
             <template  v-slot:side-content>
             </template>
         </BlockHeaderPlain>
+        <img src="~assets/images/sprint.jpg" class="float-right"/>
         <div class="main grey-background">
             <h1>Sprint with the Jupyter community!</h1>
             <hr/>
-            <h3>What is the Sprint Day?</h3>
-            <p>The JupyterCon 2020 Sprint Day is a day-long event following the conference. Attendees will
-                have the opportunity to meet active contributors and maintainers of their favorite open source
-                projects, exchange ideas, collaborate in real time, and create lasting connections.</p>
+            <h3>What is the Sprint Event?</h3>
+            <p>The JupyterCon 2020 Sprint Event is a 24-hour digital event following the conference. Attendees will have the opportunity to meet online active contributors and maintainers of their favorite open source projects, exchange ideas, collaborate in real time, and create lasting connections.</p>
 
             <h3>Why should I join a sprint?</h3>
-            <p>The best part of tech conferences is the people - and sprints are all about people. During the
-                Sprint Day, you will have an opportunity to meet, learn and collaborate with peers from the
-                Jupyter community. Not only will you be able to leave with a contributor badge, but you’ll also
-                make new friends and contacts in the industry, public services, and academia.</p>
+            <p>The best part of tech conferences is the people - and sprints are all about people. During the Sprint Event, you will have an opportunity to meet online, learn, and collaborate with peers from the Jupyter community. Not only will you be able to leave with a contributor badge, but you’ll also make new friends and contacts in the industry, public services, and academia.</p>
 
             <h3>How can I lead a project sprint?</h3>
-            <p>If you’d like to represent a project from the Jupyter ecosystem at the Sprint Day, please
-                complete <a href="https://forms.gle/Dzy1A1x9N8SHHu6r7" title="JupyterCon Sprint Lead Form">this form</a> 
-                by 17th of April, 2020.</p>
+            <p>If you’d like to represent a project from the Jupyter ecosystem at the Sprint Event, please complete <a href="https://forms.gle/Dzy1A1x9N8SHHu6r7">this form</a> by 15th of July, 2020. Projects will undergo a selection process to ensure that participating projects are prepared to provide an inclusive and engaging experience for sprint participants.</p>
 
-            <h3>How can I join the Sprint Day?</h3>
-            <p>The Sprint Day is limited to 100 participants. We encourage and prioritize the participation of
-                members from underrepresented groups within the tech community. Registration for the Sprint
-                Day will open on 24th of April, 2020. Check back on this page or follow <a href="https://twitter.com/jupytercon">@JupyterCon</a> on Twitter
-                for updates.</p>
+            <h3>How can I join the Sprint Event?</h3>
+            <p>Once we’ve selected projects that will be eligible to participate, we’ll open sign-ups for sprint participants. To receive an email notification when participation forms open, you can select to be notified when you purchase your ticket for the conference on Eventbrite.</p>
 
             <h3>What is the venue for the sprints?</h3>
-            <p>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.1371948589067!2d13.382089915807857!3d52.53095187981627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ec58a9dc71%3A0xf9cfe716cbe1ea43!2sInvalidenstra%C3%9Fe%20116%2C%2010115%20Berlin%2C%20Germany!5e0!3m2!1sen!2sus!4v1583205258608!5m2!1sen!2sus" width="100%" height="480" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-            </p>
-
-            <h3>How can I get to the venue?</h3>
-            <p>
-                The venue is located right in the center of the city, not far from the conference venue (bcc Berlin Congress Center), and the central station, and is well connected to the public transport network.
-                Here is some information to help you find your way.
-            </p>
-            <h4>From the central station (Hauptbahnhof)</h4>
-            <p>
-                At the central station reach the ground floor and follow the signs to the Europaplatz exit. Cross the street and take one of the following trams (all ca. 3 minutes):
-            </p>
-            <ul>
-                <li>M5 (direction Hohenschönhausen, Zingster Str.)</li>
-                <li>M8 (direction Ahrensfelde/Stadtgrenze)</li>
-                <li>M10 (direction S+U Warschauer Str.)</li>
-            </ul>
-            <p>
-                Get off after two stops at Naturkundemuseum, and walk two minutes to Invalidenstr. 116, ca. 100 meters.
-            </p>
-            <h4>From the conference venue</h4>
-            <p>
-                The two closest stops next to the sprint venue are Nordbahnhof and Naturkundemusem. The shortest connection from Alexanderplatz is the M5 to Naturkundemuseum:
-            </p>
-            <ul>
-                <li>M5 (direction S+U Hauptbahnhof) – 11 minutes, 6 stops.
-                <a href="https://wego.here.com/directions/publicTransport/BCC-Berlin-Congress-Center,-Alexanderstra%C3%9Fe,-Mitte,-10179-Berlin:276u33dc-49a0e6d2d9a84f7c96ef7a97d688de53/HERE-Berlin,-Invalidenstra%C3%9Fe-116,-Mitte,-10115-Berlin:276u33db-19451d85dbbe41b4a45ddcf4983e9c10?map=52.52543,13.39976,15,grey">
-                    (Directions)
-                </a>
-                </li>
-            </ul>
-            <h3>Leaving Berlin after the sprint</h3>
-            <p>
-                After the sprint the central station is ideal to take your train back or take an airport shuttle to Berlin Tegel airport (TXL).
-                If you take off from Berlin Schönefeld airport (SXF) you can reach a train from the central station there first.
-            </p>
+            <p>Sprints will be online, with the aim of connecting people from all over the world, so you will be able to join from anywhere!</p>
         </div>
         <DesktopFooter />
     </div>
