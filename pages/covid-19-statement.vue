@@ -9,7 +9,7 @@
 
         <p>Our first priority will always be the safety and well-being of our community members. We are closely monitoring the developments of the Covid-19 pandemic, and how it may affect not only the conference, but the lives of our speakers, attendees, and organizers.</p>
 
-        <p>We have therefore changed JupyterCon 2020 to be an online virtual conference in October to avoid a large in-person gathering.</p>
+        <p>We have therefore changed JupyterCon 2020 to be an online conference in October to avoid a large in-person gathering.</p>
 
         <p>-The JupyterCon Organizing Committee</p>
       </div>

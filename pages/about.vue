@@ -7,7 +7,7 @@
         </BlockHeader>
         <BlockAbout title="What is JupyterCon?" :img="require('~/assets/images/explain.jpg')" id="What is it?">
             <p>
-                JupyterCon virtually brings together data scientists, business analysts, researchers, educators, developers, core Project contributors, and tool creators for in-depth training, insightful keynotes, networking, and practical talks exploring the Project Jupyter platform. JupyterCon focuses on real-world practices and how to successfully implement interactive computation in your workflow and projects. In just two weeks, you’ll discover the best practices for collaborative and reproducible data science, new use cases, and the expertise you need to transform your workflow with Jupyter.
+                JupyterCon brings together data scientists, business analysts, researchers, educators, developers, core Project contributors, and tool creators for in-depth training, insightful keynotes, networking, and practical talks exploring the Project Jupyter platform. JupyterCon focuses on real-world practices and how to successfully implement interactive computation in your workflow and projects. In just two weeks, you’ll discover the best practices for collaborative and reproducible data science, new use cases, and the expertise you need to transform your workflow with Jupyter.
             </p>
 
         </BlockAbout>

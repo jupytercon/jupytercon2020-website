@@ -32,7 +32,7 @@
             <div class="side-content float-left">
                 <slot name="side-content">
                 <div>
-                    <span class="grey">Virtual Online Conference <br/></span>
+                    <span class="grey">Online Conference <br/></span>
                     <span class="orange">5-9 October: Tutorials <br/>
                         12-16 October: Conference <br/>
                         17th October: Sprints
