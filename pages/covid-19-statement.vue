@@ -5,11 +5,21 @@
     </BlockHeaderPlain>
     <div class="main grey-background">
       <div class="et_pb_text_inner">
-        <p>18 June 2020</p>
-
-        <p>Our first priority will always be the safety and well-being of our community members. We are closely monitoring the developments of the Covid-19 pandemic, and how it may affect not only the conference, but the lives of our speakers, attendees, and organizers.</p>
-
-        <p>We have therefore changed JupyterCon 2020 to be an online conference in October to avoid a large in-person gathering.</p>
+        <p>22 June 2020</p>
+        <p>Given the unabating COVID-19 pandemic, and prioritizing the safety and well-being of our community members, JupyterCon 2020 will be held online October 5-17. We're working to make it as exciting and valuable as the in-person event.</p>
+        
+        <p>For those interested in more context, we had anticipated at least
+        1,000 participants at the in-person conference scheduled in early
+        August in Berlin, Germany. On April 15, German Chancellor Angela
+        Merkel announced a gradual easing of lockdown measures in Germany, but
+        declared large public gatherings would remain banned through the end
+        of August (see the <a href="https://www.bbc.co.uk/news/world-europe-52299358">BBC notice</a>
+        in English). Following this announcement, the city of Berlin issued an
+        <a href="https://www.berlin.de/corona/en/measures/directive/large-events/">ordinance</a>
+        that specifically banned public gatherings of more than 1000 people.
+        After extensive negotiation with our contracted venue and planning
+        a platform for online conference content, we are excited to announce
+        the new online JupyterCon 2020.</p>
 
         <p>-The JupyterCon Organizing Committee</p>
       </div>
