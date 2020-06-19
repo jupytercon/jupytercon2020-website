@@ -125,7 +125,7 @@
                 },
                 {
                     name: "Cristián Maureira-Fredes",
-                    role: "Infrastructure Team",
+                    role: "Sprints Co-Chair",
                     bio: "Open Source enthusiast currently based in Berlin. Qt for Python maintainer, R&D Manager at The Qt Company, and former Astrophysicist at the Max-Planck-Institut für Gravitationsphysik.",
                     image: require("~/assets/images/commitee/cristian.jpg?resize&size=508")
                 },

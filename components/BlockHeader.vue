@@ -35,7 +35,7 @@
                     <span class="grey">Virtual Online Conference <br/></span>
                     <span class="orange">5-9 October: Tutorials <br/>
                         12-16 October: Conference <br/>
-                        10-11, 17-18 October: Sprints
+                        17th October: Sprints
                     </span>
                 </div>
                 </slot>
