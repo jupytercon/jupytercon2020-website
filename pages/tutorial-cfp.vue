@@ -1,8 +1,23 @@
+<!-- Other possible pics:
+
+https://www.flickr.com/photos/oreillyconf/35997076364/in/album-72157687931834596/
+https://www.flickr.com/photos/oreillyconf/36691643061/in/album-72157687931834596/
+https://www.flickr.com/photos/oreillyconf/36951297996/in/album-72157687931834596/
+https://www.flickr.com/photos/oreillyconf/30341560138/in/album-72157698903074851/
+https://www.flickr.com/photos/oreillyconf/30341563328/in/album-72157698903074851/
+https://www.flickr.com/photos/oreillyconf/29272808917/in/album-72157698903074851/
+https://www.flickr.com/photos/oreillyconf/29272824647/in/album-72157698903074851/
+https://www.flickr.com/photos/oreillyconf/44209104421/in/album-72157698903074851/
+https://www.flickr.com/photos/oreillyconf/42422716290/in/album-72157698903074851/
+https://www.flickr.com/photos/oreillyconf/44237793982/in/album-72157698903074851/
+https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851/
+-->
+
 <template>
     <div>
             <BlockHeader :buttons="false" title="Tutorials" tall>
             <template v-slot:media>
-                <img src="~assets/images/sprint.jpg"/>
+                <img src="~assets/images/tutorial.jpg"/>
                 <img class="overlay-circle" src="~assets/svg/circle-dashed-white-facing-left.svg">
             </template>
             <template v-slot:content>

@@ -1,3 +1,7 @@
+<!-- Possible other photos:
+https://www.flickr.com/photos/oreillyconf/29272832387/in/album-72157698903074851/
+https://www.flickr.com/photos/oreillyconf/30341563328/in/album-72157698903074851/ 
+-->
 <template>
     <div>
         <BlockHeader :buttons="false" title="Diversity" tall>
