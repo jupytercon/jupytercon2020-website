@@ -1,20 +1,26 @@
 <template>
     <div>
-        <BlockHeaderPlain title="Propose a talk or poster">
-            <template  v-slot:side-content>
+            <BlockHeader :buttons="false" title="Talks and Posters" tall>
+            <template v-slot:media>
+                <img src="~assets/images/talk.jpg"/>
+                <img class="overlay-circle" src="~assets/svg/circle-dashed-white-facing-left.svg">
             </template>
-        </BlockHeaderPlain>
+            <template v-slot:content>
+                <div class="header-content">
+                <h2>Propose a talk or poster</h2>
+                    <slot>What lessons do you have to share with the Jupyter community? Have you developed good workflows using Jupyter? Have you solved tricky Jupyter deployment challenges? Do you have a great tool for the Jupyter community? Do you have an interesting application using Jupyter? What do you wish you would have known when starting to use Jupyter?  Propose a talk or poster at the JupyterCon!
+                    </slot>
+                    <slot>
+                                <a class="button" style="border-color: white; color: white; margin-top: 20px"  :href="pyDataBaseUrl">Submit Talk or Poster Proposal</a>
+                                </slot>
+                </div>
 
-        <div class="main grey-background">
+            </template>
+        </BlockHeader>
 
-            <p>
-                Do you have a great idea or tool for the Jupyter community you would like to share? Do you have an interesting application where you've used Jupyter heavily and have developed workflows for using Jupyter that are broadly applicable? What lessons do you have for others using or deploying Jupyter? What do you wish you would have known when starting to use Jupyter or interacting in the Jupyter community? What has been the slowest or most frustrating thing you've had to learn about using Jupyter that you could share with others to make their experience better? Propose a talk or poster at the JupyterCon 2020!
-            </p>
 
-            <p>
-             Talks will be broadcast during October 12-16, 2020 and will be available to watch after the conference.
-             </p>
 
+        <div class="main maincontent grey-background">
             <h2>Dates to remember</h2>
             <p>
             Authors submit proposals by July 15, 2020<br/>
@@ -27,7 +33,7 @@
             <h2>Talks at JupyterCon 2020</h2>
 
                 <p>
-                    JupyterCon talks are 30 minutes long. Talks will be pre-recorded and posted online throughout the week. "Watch parties" may be organized throughout the week to view selected talks with live chat. Some time after a group of talks are posted, join a live speaker panel for a Q&A with several speakers.
+                    JupyterCon talks are 30 minutes long. Talks will be pre-recorded and posted online throughout the week of October 12-16. "Watch parties" may be organized throughout the week to view selected talks with live chat. Some time after a group of talks are posted, join a live speaker panel for a Q&A with several speakers. Talks will be available to watch after the conference.
                 </p>
 
                 <p>
@@ -63,9 +69,9 @@
                     <p>Talks that address the community tooling and best practices in the Jupyter ecosystem. Community tools include frontends, kernels, extensions, and other tools in the Jupyter ecosystem. Community practices include how Jupyter is used in a workflow and introspection into the Jupyter community itself.</p>
 
             <h2>Posters at JupyterCon 2020</h2>
-
+    <img src="~assets/images/poster.jpg" class="float-right" style="margin-left:30px;"/>
                 <p>
-                    The poster session is a forum for ideas to be presented in a concise, visually appealing way. Posters can be work in progress or the highlights of a project you would like to share and discuss. Posters can be shared as a static pdf file. We also encourage you to consider submitting an ‘executable’ and ‘interactive’ poster, such as a <a href="https://voila.readthedocs.io/en/stable/">Voilà dashboard</a>. Show us how you tell stories with Jupyter.
+                    The poster session is a forum for ideas to be presented in a concise, visually appealing way. Posters can be work in progress or the highlights of a project you would like to share and discuss. Posters are shared as a static pdf file. We also encourage you to consider linking to an ‘executable’ and ‘interactive’ poster, such as a <a href="https://voila.readthedocs.io/en/stable/">Voilà dashboard</a>. Show us how you tell stories with Jupyter.
                 </p>
 
                 <p>Anyone is welcome to submit a poster, including researchers, practitioners, enthusiasts, and students.</p>
@@ -76,7 +82,8 @@
 
                 <ul>
                     <li> A small thumbnail image (JPG or PNG) for our poster gallery</li>
-                    <li> A poster pdf file or link to interactive site, such as a Voilà dashboard</li>
+                    <li> A poster pdf file</li>
+                    <li> A short description, which may include a link to an interactive site, such as a Voilà dashboard</li>
                     <li> A short video (at most 2 minutes) introducing your project</li>
                 </ul>
 
@@ -188,23 +195,31 @@
 </template>
 
 <script>
-    import BlockHeaderPlain from "../components/BlockHeaderPlain";
+    import BlockHeader from "../components/BlockHeader";
     import DesktopFooter from "../components/DesktopFooter";
 
     export default {
         name: "proposals",
-        components: {DesktopFooter, BlockHeaderPlain},
+        components: {DesktopFooter, BlockHeader},
     }
 </script>
 
 <style scoped lang="scss">
     @import 'assets/scss/settings';
     @import 'assets/scss/common';
+            .header-content {
+        margin: 80px 100px;
+        color: white;
+        h2 {
+            font-size: 30px;
+        }
+    }
+
     .menubar {
         position: relative;
         z-index: 1;
     }
-    .main {
+    .maincontent {
         padding: 100px;
     }
     .question {

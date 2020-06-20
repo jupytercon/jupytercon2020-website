@@ -1,19 +1,34 @@
 <template>
     <div>
-        <BlockHeaderPlain title="Propose a tutorial">
-            <template  v-slot:side-content>
+            <BlockHeader :buttons="false" title="Tutorials" tall>
+            <template v-slot:media>
+                <img src="~assets/images/sprint.jpg"/>
+                <img class="overlay-circle" src="~assets/svg/circle-dashed-white-facing-left.svg">
             </template>
-        </BlockHeaderPlain>
+            <template v-slot:content>
+                <div class="header-content">
+                <h2>Propose a tutorial</h2>
+                    <slot>Do you think that you would be able to assemble 3 hours of material and lead a classroom full of JupyterCon attendees through learning a new skill, library, or technology? Then you might want to apply to be one of our tutorial instructors for JupyterCon 2020!
 
-        <div class="main grey-background">
+                    </slot>
+                    <slot>
+                                <a class="button" style="border-color: white; color: white; margin-top: 20px"  :href="pyDataBaseUrl">Submit Tutorial Proposal</a>
+                                </slot>
+                </div>
 
+            </template>
+        </BlockHeader>
+
+
+
+        <div class="main maincontent grey-background">
+            <h2>Dates to remember</h2>
             <p>
-                Do you think that you would be able to assemble 3 hours of material and lead a classroom full of JupyterCon attendees through learning a new skill, library, or technology? Then you might want to apply to be one of our tutorial instructors for JupyterCon 2020!
+            Authors submit proposals by July 15, 2020<br/>
+            Authors receive proposal accept/decline decision August 5-12, 2020<br/>
+            Authors upload talks by September 11, 2020<br/>
             </p>
 
-            <p>
-                The tutorials will be open October 5-9, 2020.
-            </p>
             <a class="button" :href="pyDataBaseUrl">Submit Tutorial Proposal</a>
 
             <h2>Guidelines for proposal submission</h2>
@@ -156,23 +171,32 @@
 </template>
 
 <script>
-    import BlockHeaderPlain from "../components/BlockHeaderPlain";
+    import BlockHeader from "../components/BlockHeader";
     import DesktopFooter from "../components/DesktopFooter";
 
     export default {
         name: "proposals",
-        components: {DesktopFooter, BlockHeaderPlain},
+        components: {DesktopFooter, BlockHeader},
     }
 </script>
 
 <style scoped lang="scss">
     @import 'assets/scss/settings';
     @import 'assets/scss/common';
+                .header-content {
+        margin: 80px 100px;
+        color: white;
+        h2 {
+            font-size: 30px;
+        }
+    }
+
+
     .menubar {
         position: relative;
         z-index: 1;
     }
-    .main {
+    .maincontent {
         padding: 100px;
     }
     .question {
