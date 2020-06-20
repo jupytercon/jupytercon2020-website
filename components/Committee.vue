@@ -82,10 +82,10 @@
                     image: require("~/assets/images/commitee/safia.jpg?resize&size=508")
                 },
                 {
-                    name: "Kirstie Whitaker",
+                    name: "Cristián Maureira-Fredes",
                     role: "Sprints Co-Chair",
-                    bio: "Research fellow at the Alan Turing Institute in London, UK and co-chair for the JupyterCon 2020 Sprint Day (14th of August 2020). Working on making data science “open for all” by centering inclusive and ethical decision making in software development and community management practices.",
-                    image: require("~/assets/images/commitee/kirstie.jpg?resize&size=508")
+                    bio: "Open Source enthusiast currently based in Berlin. Qt for Python maintainer, R&D Manager at The Qt Company, and former Astrophysicist at the Max-Planck-Institut für Gravitationsphysik.",
+                    image: require("~/assets/images/commitee/cristian.jpg?resize&size=508")
                 },
                 {
                     name: "Jeremy Tuloup",
@@ -100,8 +100,14 @@
                     image: require("~/assets/images/commitee/wolf.jpg?resize&size=508")
                 },
                 {
+                    name: "Dinu Gherman",
+                    role: "Infrastructure Team",
+                    bio: "Dinu Gherman works at HERE Technologies, has translated early Python books by O’Reilly and others into German, worked some time for ReportLab, and contributes to and advocates Open Source, Python and Jupyter in the local Python community he founded in Berlin and at work.",
+                    image: require("~/assets/images/commitee/dinu.jpg?resize&size=508")
+                },
+                {
                     name: "Laura Norén",
-                    role: "Eco-friendly Event Chair",
+                    role: "Community Chair",
                     bio: "Laura Nor&eacuten is VP of Privacy and Trust at Obsidian Security, a cybersecurity startup based in Newport Beach where she runs privacy operations. Norén is a frequent speaker on data ethics, privacy legislation, and the social impact of data-driven technologies. She continues to publish in academic journals as well as popular press locations. She holds undergraduate degrees from MIT and a PhD from NYU where she completed a Moore-Sloan postdoc at the Center for Data Science.",
                     image: require("~/assets/images/commitee/laura.jpg?resize&size=508")
                 },
@@ -116,18 +122,6 @@
                     role: "Logistics Chair",
                     bio: "Jim Weiss is the Events Manager for NumFOCUS, and Logistics Chair for JupyterCon 2020. Jim joined NumFOCUS in 2017, and has been supporting the open source scientific programing community through organizing programs like PyData. Prior to joining NumFOCUS, Jim worked in Washington, D.C., coordinating congressional hearings for the U.S. House of Representatives and managing events for the U.S. Air Force.",
                     image: require("~/assets/images/commitee/jim.jpg?resize&size=508")
-                },
-                {
-                    name: "Dinu Gherman",
-                    role: "Infrastructure Team",
-                    bio: "Dinu Gherman works at HERE Technologies, has translated early Python books by O’Reilly and others into German, worked some time for ReportLab, and contributes to and advocates Open Source, Python and Jupyter in the local Python community he founded in Berlin and at work.",
-                    image: require("~/assets/images/commitee/dinu.jpg?resize&size=508")
-                },
-                {
-                    name: "Cristián Maureira-Fredes",
-                    role: "Sprints Co-Chair",
-                    bio: "Open Source enthusiast currently based in Berlin. Qt for Python maintainer, R&D Manager at The Qt Company, and former Astrophysicist at the Max-Planck-Institut für Gravitationsphysik.",
-                    image: require("~/assets/images/commitee/cristian.jpg?resize&size=508")
                 },
                 {
                     name: "Carol Willing",
