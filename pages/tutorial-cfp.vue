@@ -23,8 +23,7 @@ https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851
             <template v-slot:content>
                 <div class="header-content">
                 <h2>Propose a tutorial</h2>
-                    <slot>Do you think that you would be able to assemble 3 hours of material and lead a classroom full of JupyterCon attendees through learning a new skill, library, or technology? Then you might want to apply to be one of our tutorial instructors for JupyterCon 2020!
-
+                    <slot> The JupyterCon organizing committee would like to invite all commmunity members to submit a tutorial for JupyterCon 2020. 
                     </slot>
                     <slot>
                                 <a class="button" style="border-color: white; color: white; margin-top: 20px"  :href="pyDataBaseUrl">Submit Tutorial Proposal</a>
@@ -49,7 +48,8 @@ https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851
             <h2>Guidelines for proposal submission</h2>
 
                 <p>
-                    As with the talks, we are looking for tutorials that will advance the Jupyter ecosystem, foster this community, and shape its future. Each tutorial session runs for 3 full hours plus a break for coffee or tea. There is both a morning tutorial session and an afternoon tutorial session on the 2 days  preceding the main conference. This year, the tutorial days are on Monday, 10th of August, 2020 and Tuesday, 11th of August, 2020 in the same venue that hosts the main conference days that follow.
+                    As with the talks, we are looking for tutorials that will advance the Jupyter ecosystem, foster this community, and shape its future. All the content will be streamed online and should cover 3 hours with a mixture of video presentation, hands-on exercises and knowledge checks/ self-assessment (e.g. using nbgrader). Conference attendees will be able to access the tutorial contents on-demand. 
+                    In addition, we will set a 1 hour office hour over the main conference days (day and time to be scheduled around tutorial leader availability). 
                 </p>
 
                 <p>
@@ -81,16 +81,13 @@ https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851
                         <strong>Outline:</strong> List the topics and activities you will guide the participants through during your 3-hour tutorial. Please err on the side of ‘too much detail’ rather than ‘not enough’. Include timing notes, estimating what portion of your tutorial you’ll dedicate to each major topic (usually there are 2-5 of those). The outline will not be shared with conference attendees but will provide the reviewers with greater insight on your tutorial content.
                     </li>
                     <li>
-                        <strong>Past experience:</strong> Please summarize your teaching or public speaking experience, your experience with the subject of the tutorial, and share anything else that would help us understand and gauge your abilities as an instructor. If available, include a link to a video and slides from the tutorial itself (if it’s been presented before), or your other professional presentations. This section is for the reviewers’ benefit only and will not be published on the JupyterCon website.
+                        <strong>Past experience:</strong> Please summarize your teaching or public speaking experience, your experience with the subject of the tutorial, and share anything else that would help us understand and gauge your abilities as an instructor. If available, include a link to a video and slides from the tutorial itself (if it’s been presented before), or your other professional presentations. This section is for the reviewers’ benefit only and will not be published on the JupyterCon website. We also would like to know if you have past experience creating recorded or video content. This will help us to better support tutorial leads and plan our speaker packs accordingly.
                     </li>
                     <li>
-                        <strong>Requests:</strong> Let us know if you have specific needs or special requests. We are prepared to accommodate requests that involve accessibility, audio, or restrictions on when your tutorial can be scheduled.
+                        <strong>Requests:</strong> Let us know if you have specific needs or special requests. We are prepared to accommodate requests that involve accessibility or restrictions on when your office hour can be scheduled. 
                     </li>
                     <li>
                         <strong>Accessibility:</strong> We will accommodate disability-related needs wherever possible. The merit of your tutorial will be judged independently from any request made here. This section will not be visible to attendees.
-                    </li>
-                    <li>
-                        <strong>Assistance</strong> We’re considering making tutorial assistants available to the JupyterCon 2020 instructors. This would be volunteers with Jupyter experience who will provide one-on-one help during the tutorial when participants are working on exercises. Would you prefer having assistants during your tutorial? If so, what participant-assistant ratio would be optimal?
                     </li>
                 </ol>
             <h2>Tutorial proposal submission FAQs</h2>
@@ -115,15 +112,11 @@ https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851
                                 </li>
 
                                 <li>
-                                    Readability counts. We like outlines that are easy to understand. Markdown is a great tool for giving your submission clear formatting, allowing us to distinguish, at first glance, between topics and sub-topics. (If you are new to Markdown, <a href="https://guides.github.com/features/mastering-markdown/">this tutorial</a> is great!) After submitting your proposal, please make sure your submission is rendered properly.
-                                </li>
-
-                                <li>
                                     Material that clearly should be presented as a tutorial (rather than a talk). Tutorial spaces are limited, and if the material can be presented more concisely, and to a bigger audience by turning it into a talk, we prefer that.
                                 </li>
 
                                 <li>
-                                    Thoughtfulness regarding time. We like to see that submitters have considered how much is reasonable to cover in a given time period and how the material might change based on the audience. To demonstrate this, you may choose to include what topics could run over, how you’ll provide buffer time (if you need it), and what topics you might adjust if things go unexpectedly fast or slow.
+                                    Thoughtfulness regarding time. We like to see that submitters have considered how much is reasonable to cover in a given time period and how the material might change based on the audience. To demonstrate this, you may choose to include what topics could run over as well a time for hands-on exercises and self-assesment.
                                 </li>
                             </ul>
                         </p>
@@ -136,10 +129,6 @@ https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851
                             Your tutorial is less likely to be accepted if:
 
                             <ul>
-                                <li>
-                                    It requires to download large packages or tools on the day. Ideally, the install/set-up instructions should be made available in advance to allow participants to prepare
-                                </li>
-
                                 <li>
                                     It requires using commercial or proprietary tools.
                                 </li>
