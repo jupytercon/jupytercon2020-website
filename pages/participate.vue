@@ -69,11 +69,11 @@
                     <h2>Dates to remember</h2>
                       <table style="width:100%">
                   <tr>
-                    <td>July 22</td>
+                    <td>July 20</td>
                     <td>Deadline to submit applications</td>
                   </tr>
                   <tr>
-                    <td>August 5</td>
+                    <td>August 10</td>
                     <td>Acceptance notifications are sent</td>
                   </tr>
                   </table>

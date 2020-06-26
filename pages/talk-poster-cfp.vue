@@ -23,8 +23,8 @@
         <div class="main maincontent grey-background">
             <h2>Dates to remember</h2>
             <p>
-            Authors submit proposals by July 15, 2020<br/>
-            Authors receive proposal accept/decline decision August 5-12, 2020<br/>
+            Authors submit proposals by July 20, 2020<br/>
+            Authors receive proposal accept/decline decision August 10-12, 2020<br/>
             Authors upload talks by September 11, 2020<br/>
             </p>
 
