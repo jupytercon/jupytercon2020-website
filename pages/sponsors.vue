@@ -38,7 +38,7 @@
             <div class="grid-container sponsors">
                 <div class="grid-y">
                     <div class="cell sponsor-row" v-for="sponsor in sponsors">
-                        <div class="grid-x">
+                        <div class="grid-x sponsor-row-container">
                             <div class="cell small-4"><img class="sponsor-image" :src="sponsor.image"></div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
@@ -62,7 +62,7 @@
             <div class="grid-container sponsors">
                 <div class="grid-y">
                     <div class="cell sponsor-row" v-for="sponsor in community_sponsors">
-                        <div class="grid-x">
+                        <div class="grid-x sponsor-row-container">
                             <div class="cell small-4"><img class="sponsor-image" :src="sponsor.image"></div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
@@ -91,6 +91,11 @@
         data() {
             return {
                 sponsors: [
+                    {
+                        link: "https://www.ovh.com/",
+                        description: "OVHcloud provides everything you need for a successful online project: web hosting, domain names, dedicated servers, CDN, cloud environments, big data, and more.",
+                        image: require("~/assets/images/sponsors/OVH.png")
+                    },
                     {
                         link: "https://numfocus.org/",
                         description: "The mission of NumFOCUS is to promote open practices in research, data, and scientific computing by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs.",
@@ -164,6 +169,9 @@
     .sponsor-row {
         margin-top: 10px;
         margin-bottom: 10px;
+    }
+    .sponsor-row-container {
+        align-items: center;
     }
     .sponsor-image {
         margin: 10%;
