@@ -1,6 +1,6 @@
 <template>
     <div>
-        <BlockHeader title="JupyterCon" subtitle="2020">
+        <BlockHeader title="JupyterCon" subtitle="Online">
         </BlockHeader>
 
         <BlockAbout :img="require('~/assets/images/flickr/people_smiling_sitting.jpg')" title="About">
