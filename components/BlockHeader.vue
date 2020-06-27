@@ -18,10 +18,10 @@
             <img src="~assets/svg/circle-dashed-orange.svg" class="halfcircle" v-if="!tall"/>
             <div class="movie">
                 <slot name="media">
-                    <video class="autoplay" id="autoplay-video" autoplay="false" muted="true" loop="" style="height: 516px;">
-                        <source src="~assets/videos/berlin-timelapse.mp4"
-                            type="video/mp4"/>
-                    </video>
+                    <img src="~assets/images/jupiterio.jpg"></img>
+                    <div class="credit">
+Credit: <a href="https://photojournal.jpl.nasa.gov/catalog/PIA02879">NASA/JPL/University of Arizona</a>
+</div>
                 </slot>
             </div>
         </div>
@@ -179,6 +179,19 @@
                     object-fit: cover;
                     width: 100%;
 
+                }
+                .credit {
+                    position: absolute;
+                    bottom: 0px;
+                    right: 3px;
+                    text-align: right;
+                }
+                .credit, .credit a {
+                    font-size: 12px;
+                    color: #a2a2a2;
+                }
+                .credit a {
+                    text-decoration: underline;
                 }
 
             }
