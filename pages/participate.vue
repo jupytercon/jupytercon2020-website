@@ -20,7 +20,7 @@
             </template>
         </BlockHeader>
 
-        <BlockGreyOrange id="Call for proposals">
+        <BlockGreyOrange id="CallForProposals">
             <div class="proposals">
                 <h1>Proposals</h1>
                 <div class="grid-x grid-padding-x">
