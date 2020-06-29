@@ -1,3 +1,7 @@
+<!-- Possible other photos:
+https://www.flickr.com/photos/oreillyconf/29272832387/in/album-72157698903074851/
+https://www.flickr.com/photos/oreillyconf/30341563328/in/album-72157698903074851/ 
+-->
 <template>
     <div>
         <BlockHeader :buttons="false" title="Diversity" tall>
@@ -26,16 +30,16 @@
                 <p>What <strong>we at JupyterCon</strong> are doing:</p>
 
                 <ul>
-                    <li>Code of Conduct: is strictly enforced.</li>
-                    <li>Community outreach: we are conducting outreach with community groups to involve participants from all backgrounds. If your group would like to partner with us, email the JupyterCon Diversity Committee at [jupytercon-diversity@numfocus.org](jupytercon-diversity@numfocus.org).</li>
-                    <li>Diversity scholarships.</li>
+                    <li>The <nuxt-link to="/codeofconduct/">Code of Conduct</nuxt-link> is strictly enforced</li>
+                    <li>We are conducting outreach with community groups to involve participants from all backgrounds. If your group would like to partner with us, email the JupyterCon Diversity Committee at <a href="jupytercon-diversity@numfocus.org">jupytercon-diversity@numfocus.org</a></li>
+                    <li>Diversity scholarships</li>
                     <!--<li>Resources for CFP Mentorship: TBD -->
                 </ul>
 
                 <p>What <strong>you</strong> can do:</p>
 
                 <ul>
-                    <li>share and participate in the various ways: CFP reviewer, CFP submission, volunteer, attend</li>
+                    <li>share and participate in the various ways: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdzEoFUh6zb8liiWeP45PjyUtc0rlE-GPSR-UyNRnfR6WqayA/viewform">review talk/tutoria/poster/sprint proposals</a>, <nuxt-link to="/participate/">submit talk/tutoria/poster/sprint proposals</nuxt-link>, volunteer, attend</li>
                     <li>share our information with affinity groups</li>
                     <li>contact us with any accommodation needs</li>
                     <li>share suggestions with us</li>
@@ -44,40 +48,22 @@
                 <p>What <strong>speakers</strong> can do:</p>
 
                 <ul>
-                     <li>use microphone when speaking <strong>at all times</strong></li>
-                     <li>repeat questions asked by an audience member</li>
+                     <li>set up space and headphones so that people can hear you <strong>at all times</strong></li>
+                     <li>repeat questions asked by an audience member in chat</li>
                      <li>use color-blind accessible palettes in proposals, presentations and posters (<a href="https://usabilla.com/blog/how-to-design-for-color-blindness/">How to Design for Color Blindness</a>)</li>
                 </ul>
 
                 <p>What <strong>we all</strong> can do:</p>
 
                 <ul>
-                    <li>follow our code of conduct and communicate any issues issues</li>
+                    <li>follow our <nuxt-link to="/codeofconduct/">code of conduct</nuxt-link> and communicate any issues issues</li>
                     <li>use inclusive language (<a href="https://www.recurse.com/social-rules">Inclusive language</a>, <a href="https://heyguys.cc/">Hey Guys</a>)</li>
                     <li><a href="https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/">PacMan Rule</a>:  include others in discussion, leave space open in circle for others to join</li>
-                    <li>use reduced perfume / cologne for asthmatic attendees</li>
                 </ul>
 
                 <p>We invite you to share any thoughts and suggestions related to diversity by writing to <a href="mailto:jupytercon-diversity@numfocus.org">jupytercon-diversity@numfocus.org</a>.</p>
             
         </div>
-
-<!--        <BlockGreyOrange :right="false" id="Child care">
-            <img src="~assets/images/venue-berlin-roads.jpg" class="float-left"></img>
-            <div class="main-text main-content float-left">
-                <h2>Child Care</h2>
-                <p>
-                    Welcome JupyterCon parents! We are pleased to offer complimentary childcare during JupyterCon 2020 in Berlin, Germany.
-                    Quality childcare will be offered on TBD August, 2020 by licensed and pre-screened providers. Childcare is offered during the conference hours only.
-                    If you like to sign up for this service, please complete the Childcare Request Questionnaire by insert date. If you have any questions, email us at <a href="mailto:events@numfocus.org">events@numfocus.org</a>.
-                </p>
-                <nuxt-link class="button hollow" to="/about/">Learn More</nuxt-link>
-            </div>
-        </BlockGreyOrange>
-
-        <div class="white-background " id="Things to do">
-
-        </div> -->
 
         <DesktopFooter />
     </div>

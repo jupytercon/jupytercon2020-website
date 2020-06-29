@@ -7,21 +7,21 @@
                     <div class="tickets" v-if="buttons">
                         <a
                                 class="button hollow"
-                                href="https://www.eventbrite.com/e/jupytercon-2020-tickets-98280733319">
-                            Buy tickets
+                                href="https://www.eventbrite.com/e/jupytercon-2020-tickets-109183767588">
+                            Register / Tickets
                         </a>
-                        <nuxt-link class="button hollow" :to="{path: '/participate/', hash: '#Call for proposals'}">Propose a talk</nuxt-link>
-                        <nuxt-link class="button hollow" :to="{path: '/covid-19-statement/', hash: '#Call for proposals'}">COVID-19 Statement</nuxt-link>
+                        <nuxt-link class="button hollow" :to="{path: '/participate/', hash: '#Call for proposals'}">Propose a talk or tutorial</nuxt-link>
+                        <nuxt-link class="button hollow" :to="{path: '/covid-19-statement/'}">COVID-19 Statement</nuxt-link>
                     </div>
                 </slot>
             </div>
             <img src="~assets/svg/circle-dashed-orange.svg" class="halfcircle" v-if="!tall"/>
             <div class="movie">
                 <slot name="media">
-                    <video class="autoplay" id="autoplay-video" autoplay="false" muted="true" loop="" style="height: 516px;">
-                        <source src="~assets/videos/berlin-timelapse.mp4"
-                            type="video/mp4"/>
-                    </video>
+                    <img src="~assets/images/jupiterio.jpg"></img>
+                    <div class="credit">
+Credit: <a href="https://photojournal.jpl.nasa.gov/catalog/PIA02879">NASA/JPL/University of Arizona</a>
+</div>
                 </slot>
             </div>
         </div>
@@ -32,10 +32,10 @@
             <div class="side-content float-left">
                 <slot name="side-content">
                 <div>
-                    <span class="grey">Berlin, Germany <br/></span>
-                    <span class="orange">10-11 August: Tutorials <br/>
-                        12-13 August: Conference <br/>
-                        14 August: Sprints
+                    <span class="grey">Online Conference <br/></span>
+                    <span class="orange">5-9 October: Tutorials <br/>
+                        12-16 October: Conference <br/>
+                        17 October: Sprints
                     </span>
                 </div>
                 </slot>
@@ -179,6 +179,19 @@
                     object-fit: cover;
                     width: 100%;
 
+                }
+                .credit {
+                    position: absolute;
+                    bottom: 0px;
+                    right: 3px;
+                    text-align: right;
+                }
+                .credit, .credit a {
+                    font-size: 12px;
+                    color: #a2a2a2;
+                }
+                .credit a {
+                    text-decoration: underline;
                 }
 
             }

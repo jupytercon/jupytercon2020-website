@@ -13,8 +13,10 @@
                                         v-if="typeof item === 'string'"
                                         :to="{ path: block.to, hash: item }"
                                 >- {{ item }}</nuxt-link>
+                                <a v-if="typeof item === 'object' && item.url" :href="item.url"
+                                >- {{ item.label }}</a>
                                 <nuxt-link
-                                        v-if="typeof item === 'object'"
+                                        v-if="typeof item === 'object' && !item.url"
                                         :to="{ path: (item.to || block.to), hash: item.anchor }"
                                 >- {{ item.label }}</nuxt-link>
                             </div>
@@ -40,14 +42,13 @@
                         'Organizing Committee',
                         { label: 'Code of Conduct', to: '/codeofconduct/' },
                         { label: 'Diversity', to: "/diversity/" },
-                        { label: 'Eco-friendly efforts', to: '/sustainability/' },
                         { label: 'COVID-19 Statement', to: '/covid-19-statement/' }
                     ]
                 }, {
                     label: 'Participate',
                     to: '/participate/',
                     items: [
-                        'Register / Tickets',
+                        { label: 'Register / Tickets', url: "https://www.eventbrite.com/e/jupytercon-2020-tickets-109183767588" },
                         'Call for proposals',
                         { label: 'Propose a talk or poster', to: "/talk-poster-cfp/" },
                         { label: 'Propose a tutorial', to: "/tutorial-cfp/" },
@@ -61,16 +62,6 @@
                         'Schedule',
                         'Social events',
                         'Tips for attendees'
-                    ]
-                }, {
-                    label: 'Venue',
-                    to: '/venue/',
-                    items: [
-                        'Conference center',
-                        'Getting there',
-                        'Hotel and local info',
-                        'Child care',
-                        'Things to do'
                     ]
                 }, {
                     label: 'Sponsors',
