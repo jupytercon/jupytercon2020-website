@@ -49,11 +49,11 @@ https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851
 
                 <p>
                     As with the talks, we are looking for tutorials that will advance the Jupyter ecosystem, foster this community, and shape its future. All the content will be streamed online and should cover 3 hours with a mixture of video presentation, hands-on exercises and knowledge checks/ self-assessment (e.g. using nbgrader). Conference attendees will be able to access the tutorial contents on-demand. 
-                    In addition, we will set a 1 hour office hour over the main conference days (day and time to be scheduled around tutorial leader availability). 
+                    In addition, we will set a 1 hour office hour over the main conference days (day and time to be scheduled around tutorial leader availability).
                 </p>
 
                 <p>
-                    Please note: Each presenter is limited to giving two tutorials only, either as the main lead or a co-lead/assistant.
+                    Please note: Each presenter is limited to giving two tutorials only, either as the main lead or a co-lead/assistant. Tutorial presenters will receive a free conference tutorial week pass.
                 </p>
 
             <h2>Proposing a tutorial</h2>
