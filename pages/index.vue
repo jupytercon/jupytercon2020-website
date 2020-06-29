@@ -5,10 +5,13 @@
 
         <BlockAbout :img="require('~/assets/images/flickr/people_smiling_sitting.jpg')" title="About">
             <p>JupyterCon brings together data scientists, business analysts,
-            researchers, educators, developers, core Project contributors,
-            and tool creators for in-depth training, insightful keynotes,
-            networking events, and practical talks exploring the Project Jupyter
-            platform.
+            researchers, educators, developers, core Project contributors, and
+            tool creators for in-depth training, insightful keynotes, and
+            practical talks exploring the Project Jupyter platform. We
+            developed a vision for JupyterCon Online as a learning platform,
+            unconstrained by synchronous schedules or geographical location,
+            coalescing a multitude of mini-events and rad new content,
+            learning experiences, and online social interactions.
             </p>
             <nuxt-link class="button hollow" to="/about/">Learn More</nuxt-link>
         </BlockAbout>
