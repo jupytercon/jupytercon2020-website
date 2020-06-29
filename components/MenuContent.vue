@@ -49,7 +49,7 @@
                     to: '/participate/',
                     items: [
                         { label: 'Register / Tickets', url: "https://www.eventbrite.com/e/jupytercon-2020-tickets-109183767588" },
-                        'Call for proposals',
+                        { label: 'Call for proposals', to: "/participate/#CallForProposals "},
                         { label: 'Propose a talk or poster', to: "/talk-poster-cfp/" },
                         { label: 'Propose a tutorial', to: "/tutorial-cfp/" },
                         { label: 'Propose a sprint', to: "/sprint/" },
