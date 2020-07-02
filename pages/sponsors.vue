@@ -32,7 +32,7 @@
                 through the event.
             </p>
             <p>
-                If you are interested in sponsoring JupyterCon, email us at <a href="mailto:jupytercon-sponsor@numfocus.org">jupytercon-sponsor@numfocus.org</a> to receive a prospectus, which is also available <a href="/JupyterConOnline2020-SponsorProspectus.pdf">here</a>.
+                If you are interested in sponsoring JupyterCon, email us at <a href="mailto:jupytercon-sponsor@numfocus.org">jupytercon-sponsor@numfocus.org</a> to receive a prospectus, which is also available <a href="/JupyterCon 2020 Prospectus (online)-2.pdf">here</a>.
             </p>
             <h1 id="Sponsors" class="sponsors-title">Sponsors</h1>
             <div class="grid-container sponsors">
