@@ -33,7 +33,11 @@
             <h2>Talks at JupyterCon 2020</h2>
 
                 <p>
-                    JupyterCon talks are 30 minutes long. Talks will be pre-recorded and posted online throughout the week of October 12-16. "Watch parties" may be organized throughout the week to view selected talks with live chat. Some time after a group of talks are posted, join a live speaker panel for a Q&A with several speakers. Talks will be available to watch after the conference. Talk presenters will receive a free main conference pass.
+                    JupyterCon talks are 30 minutes long. Talks will be pre-recorded and posted online throughout the week of October 12-16. "Watch parties" may be organized throughout the week to view selected talks with live chat. Some time after a group of talks are posted, join a live speaker panel for a Q&A with several speakers. Talks will be available to watch after the conference.
+                </p>
+
+                <p>
+                 Talk presenters will receive a free main conference pass. Talk presenters will also receive a speaker kit, including a quality microphone, halo light, branded t-shirt, and other swag.
                 </p>
 
                 <p>
