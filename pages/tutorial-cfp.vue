@@ -53,7 +53,7 @@ https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851
                 </p>
 
                 <p>
-                    Please note: Each presenter is limited to giving two tutorials only, either as the main lead or a co-lead/assistant. Tutorial presenters will receive a free conference tutorial week pass.
+                    Please note: Each presenter is limited to giving two tutorials only, either as the main lead or a co-lead/assistant. Tutorial presenters will receive a free conference tutorial week pass. Tutorial presenters will also receive a speaker kit, including a quality microphone, halo light, branded t-shirt, and other swag.
                 </p>
 
             <h2>Proposing a tutorial</h2>
