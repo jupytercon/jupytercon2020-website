@@ -8,7 +8,7 @@
             <h1 id="Sponsoring">Sponsoring</h1>
             <p>
                 JupyterCon provides many unique opportunities for sponsors. On the one hand, the conference
-                is certainly the best in-person event in the world in which to engage the community that sustains
+                is certainly the best event in the world in which to engage the community that sustains
                 and evolves Project Jupyter. Join us and become a participant in that dialogue. One the other
                 hand, the conference provides access to a breadth of communities that leverage Project
                 Jupyter:
