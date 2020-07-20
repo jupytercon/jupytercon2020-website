@@ -69,7 +69,7 @@
                     <h2>Dates to remember</h2>
                       <table style="width:100%">
                   <tr>
-                    <td>July 20</td>
+                    <td><s>July 20</s> July 22</td>
                     <td>Deadline to submit applications</td>
                   </tr>
                   <tr>
