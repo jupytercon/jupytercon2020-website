@@ -85,9 +85,6 @@
                         <li><strong>Phone:</strong> A phone number will be provided and monitored for the duration of the event.</li>
                         <li><strong>By Email:</strong> Send a message to <a href="mailto:conduct@numfocus.org">conduct@numfocus.org</a>. Event organizers will respond promptly.</li>
                         <li><strong>Online Form:</strong> <a href="https://numfocus.typeform.com/to/ynjGdT">NumFOCUS Code of Conduct Report</a> (your name and contact information are not required).
-                            Our team will help you contact hotel/venue security, local law enforcement, local support
-                            (which could include services and transportation as available), or otherwise respectfully
-                            assist you to feel safe for the duration of the event.
                         </li>
                     </ul>
                 </p>
