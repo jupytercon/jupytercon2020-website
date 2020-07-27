@@ -5,14 +5,22 @@
     </BlockHeaderPlain>
     <div class="main grey-background">
       <div class="et_pb_text_inner">
-        <p>06 April 2020</p>
-
-        <p>Our first priority will always be the safety and well-being of our community members. We are closely monitoring the developments of the Covid-19 pandemic, and how it may affect not only the conference, but the lives of our speakers, attendees, and organizers.</p>
-
-        <p>We are temporarily suspending ticket sales and the call for proposals while we evaluate the effects of the ongoing pandemic on the conference. We will make a decision about postponing or cancelling the conference with enough time to allow for you to change or cancel your travel plans. No matter what happens, know that if you purchase a conference ticket, and decide not to attend, we will refund 100% of the paid price, up to 7 days before the conference starts.</p>
-
-        <p>We are committed to following all advice from authorities regarding large gatherings, and developing key prevention strategies if the conference is held as planned.</p>
+        <p>22 June 2020</p>
+        <p>Given the unabating COVID-19 pandemic, and prioritizing the safety and well-being of our community members, JupyterCon 2020 will be held online October 5-17. We're working to make it as exciting and valuable as the in-person event.</p>
         
+        <p>For those interested in more context, we had anticipated at least
+        1,000 participants at the in-person conference scheduled in early
+        August in Berlin, Germany. On April 15, German Chancellor Angela
+        Merkel announced a gradual easing of lockdown measures in Germany, but
+        declared large public gatherings would remain banned through the end
+        of August (see the <a href="https://www.bbc.co.uk/news/world-europe-52299358">BBC notice</a>
+        in English). Following this announcement, the city of Berlin issued an
+        <a href="https://www.berlin.de/corona/en/measures/directive/large-events/">ordinance</a>
+        that specifically banned public gatherings of more than 1000 people.
+        After extensive negotiation with our contracted venue and planning
+        a platform for online conference content, we are excited to announce
+        the new online JupyterCon 2020.</p>
+
         <p>-The JupyterCon Organizing Committee</p>
       </div>
     </div>

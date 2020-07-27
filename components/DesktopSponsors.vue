@@ -1,5 +1,5 @@
 <template>
-    <div class="sponsors">
+    <div class="grid-container sponsors">
         <div class="main-text">
             <div class="clearfix head">
                 <div class="float-left">
@@ -8,7 +8,12 @@
                 <div class="float-right"><nuxt-link class="button hollow" to="/sponsors/">View all</nuxt-link></div>
             </div>
             <div class="grid-x logos">
-                <div class="cell">
+                <div class="cell small-4">
+                    <a href="https://www.ovh.com/">
+                        <img class="sponsor" src="~assets/images/sponsors/OVH.png"/>
+                    </a>
+                </div>
+                <div class="cell small-4">
                     <a href="https://numfocus.org/">
                         <img class="sponsor" src="~assets/images/sponsors/NumFocus.png"/>
                     </a>
@@ -50,8 +55,10 @@
             padding-bottom: 120px
 
         .sponsor
-            width: 250px
-            height: 250px
+            width: 230px
+            height: 230px
+            padding: 10px
+            margin: 10px
             border: 1px solid $figma-grey2
             object-fit: scale-down
 </style>

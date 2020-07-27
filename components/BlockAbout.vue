@@ -109,7 +109,6 @@
                     margin-left: 340px;
                     padding-left: 50px;
                     padding-right: 50px;
-                    width: 800px;
                     margin-top: -25px;
                 }
             }
