@@ -53,11 +53,7 @@ https://www.flickr.com/photos/oreillyconf/30341563328/in/album-72157698903074851
                 <p>What <strong>speakers</strong> can do:</p>
 
                 <ul>
-<<<<<<< HEAD
-                     <li>set up space and headphones to that people can hear you <strong>at all times</strong></li>
-=======
                      <li>set up space and headphones so that people can hear you <strong>at all times</strong></li>
->>>>>>> f826cfd66f2918175f7e1746d5ccd0cdc3e6d05c
                      <li>repeat questions asked by an audience member in chat</li>
                      <li>use color-blind accessible palettes in proposals, presentations and posters (<a href="https://usabilla.com/blog/how-to-design-for-color-blindness/">How to Design for Color Blindness</a>)</li>
                 </ul>
