@@ -30,13 +30,8 @@ https://www.flickr.com/photos/oreillyconf/30341563328/in/album-72157698903074851
                 <p>What <strong>we at JupyterCon</strong> are doing:</p>
 
                 <ul>
-<<<<<<< HEAD
-                    <li>Code of Conduct: is strictly enforced</li>
-                    <li>Community outreach: we are conducting outreach with community groups to involve participants from all backgrounds. If your group would like to partner with us, email the JupyterCon Diversity Committee at <a href="jupytercon-diversity@numfocus.org">jupytercon-diversity@numfocus.org</a></li>
-=======
                     <li>The <nuxt-link to="/codeofconduct/">Code of Conduct</nuxt-link> is strictly enforced</li>
                     <li>We are conducting outreach with community groups to involve participants from all backgrounds. If your group would like to partner with us, email the JupyterCon Diversity Committee at <a href="jupytercon-diversity@numfocus.org">jupytercon-diversity@numfocus.org</a></li>
->>>>>>> f826cfd66f2918175f7e1746d5ccd0cdc3e6d05c
                     <li>Diversity scholarships</li>
                     <!--<li>Resources for CFP Mentorship: TBD -->
                 </ul>
