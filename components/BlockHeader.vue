@@ -34,7 +34,7 @@ Credit: <a href="https://photojournal.jpl.nasa.gov/catalog/PIA02879">NASA/JPL/Un
                     <span class="grey">Online Conference <br/></span>
                     <span class="orange">5-9 October: Tutorials <br/>
                         12-16 October: Conference <br/>
-                        17 October: Sprints
+                        11 September: Sprints
                     </span>
                 </div>
                 </slot>

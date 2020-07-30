@@ -20,7 +20,7 @@
             <p>The best part of tech conferences is the people - and sprints are all about people. During the Sprint Event, you will have an opportunity to meet online, learn, and collaborate with peers from the Jupyter community. Not only will you be able to leave with a contributor badge, but you’ll also make new friends and contacts in the industry, public services, and academia.</p>
 
             <h3>How can I lead a project sprint?</h3>
-            <p>If you’d like to represent a project from the Jupyter ecosystem at the Sprint Event, please complete <a href="https://forms.gle/Dzy1A1x9N8SHHu6r7">this form</a> by <s>Monday, July 20, 2020</s> Wednesday, July 22, 2020 (<a href="https://en.wikipedia.org/wiki/Anywhere_on_Earth">Anywhere on Earth</a>). Projects will undergo a selection process to ensure that participating projects are prepared to provide an inclusive and engaging experience for sprint participants.</p>
+            <p>If you’d like to represent a project from the Jupyter ecosystem at the Sprint Event, please complete <a href="https://forms.gle/Dzy1A1x9N8SHHu6r7">this form</a> by <s>Monday, July 20, 2020</s> Friday, September 11, 2020 (<a href="https://en.wikipedia.org/wiki/Anywhere_on_Earth">Anywhere on Earth</a>). Projects will undergo a selection process to ensure that participating projects are prepared to provide an inclusive and engaging experience for sprint participants.</p>
 
             <h3>How can I join the Sprint Event?</h3>
             <p>Once we’ve selected projects that will be eligible to participate, we’ll open sign-ups for sprint participants. To receive an email notification when participation forms open, you can select to be notified when you purchase your ticket for the conference on Eventbrite.</p>
