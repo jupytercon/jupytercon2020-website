@@ -11,7 +11,7 @@
                     <slot>What lessons do you have to share with the Jupyter community? Have you developed good workflows using Jupyter? Have you solved tricky Jupyter deployment challenges? Do you have a great tool for the Jupyter community? Do you have an interesting application using Jupyter? What do you wish you would have known when starting to use Jupyter?  Propose a talk or poster at the JupyterCon!
                     </slot>
                     <slot>
-                                <a class="button" style="border-color: white; color: white; margin-top: 20px"  :href="pyDataBaseUrl">Submit Talk or Poster Proposal</a>
+                                <a class="button" style="border-color: white; color: white; margin-top: 20px"  :href="pyDataBaseUrl">Proposal System (Submissions are closed)</a>
                                 </slot>
                 </div>
 
@@ -28,7 +28,7 @@
             Authors upload talks by September 11, 2020<br/>
             </p>
 
-            <a class="button" :href="pyDataBaseUrl">Submit Talk or Poster Proposal</a>
+            <a class="button" :href="pyDataBaseUrl">Proposal System (Submissions are closed)</a>
 
             <h2>Talks at JupyterCon 2020</h2>
 

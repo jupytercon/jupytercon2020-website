@@ -26,7 +26,7 @@ https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851
                     <slot> The JupyterCon organizing committee would like to invite all commmunity members to submit a tutorial for JupyterCon 2020. 
                     </slot>
                     <slot>
-                                <a class="button" style="border-color: white; color: white; margin-top: 20px"  :href="pyDataBaseUrl">Submit Tutorial Proposal</a>
+                                <a class="button" style="border-color: white; color: white; margin-top: 20px"  :href="pyDataBaseUrl">Proposal System (Submissions are closed)</a>
                                 </slot>
                 </div>
 
@@ -43,7 +43,7 @@ https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851
             Authors upload talks by September 11, 2020<br/>
             </p>
 
-            <a class="button" :href="pyDataBaseUrl">Submit Tutorial Proposal</a>
+            <a class="button" :href="pyDataBaseUrl">Proposal System (Submissions are closed)</a>
 
             <h2>Guidelines for proposal submission</h2>
 

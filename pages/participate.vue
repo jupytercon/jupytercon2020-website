@@ -9,7 +9,7 @@
                 <div class="header-content">
                     <h2>Get involved</h2>
                     <slot>
-                    <p>What do you wish you would have known when starting to use Jupyter or interacting in the Jupyter community? Propose a talk or poster at the JupyterCon 2020! </p>
+                    <p>Join us for tutorials, talks and panels, informal community discussions, code sprints, or just hang out with the Jupyter community in the conference chat rooms. Meet new people and old friends, learn cool things people are doing in the poster session, or give a 5-minute lightning talk at JupyterCon 2020!</p>
                     <p>
                                 <a class="button hollow" style="border-color: white; color: white" href="https://www.eventbrite.com/e/jupytercon-2020-tickets-109183767588">Register / Tickets</a>
                     </p>
@@ -32,14 +32,14 @@
                         <div class="proposal-caption">
                            JupyterCon posters present a topic and engage community members in individual discussion at the poster session.
                         </div>
-                        <nuxt-link class="cfp-button button hollow" to="/talk-poster-cfp/">Propose a Talk or Poster</nuxt-link>
+                        <nuxt-link class="cfp-button button hollow" to="/talk-poster-cfp/">More about Talks and Posters</nuxt-link>
                     </div>
                     <div class="cell small-12 medium-4 proposal-type">
                         <h2>Tutorials</h2>
                         <div class="proposal-caption">
                             JupyterCon tutorials are 3 hours long and are for beginner, intermediate, or experienced users.
                         </div>
-                        <nuxt-link class="cfp-button button hollow" to="/tutorial-cfp/">Propose a Tutorial</nuxt-link>
+                        <nuxt-link class="cfp-button button hollow" to="/tutorial-cfp/">More about Tutorials</nuxt-link>
                     </div>
                     <div class="cell small-12 medium-4 proposal-type">
                         <h2>Sprints</h2>
