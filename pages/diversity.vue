@@ -39,25 +39,25 @@ https://www.flickr.com/photos/oreillyconf/30341563328/in/album-72157698903074851
                 <p>What <strong>you</strong> can do:</p>
 
                 <ul>
-                    <li>share and participate in the various ways: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdzEoFUh6zb8liiWeP45PjyUtc0rlE-GPSR-UyNRnfR6WqayA/viewform">review talk/tutoria/poster/sprint proposals</a>, <nuxt-link to="/participate/">submit talk/tutoria/poster/sprint proposals</nuxt-link>, volunteer, attend</li>
-                    <li>share our information with affinity groups</li>
-                    <li>contact us with any accommodation needs</li>
-                    <li>share suggestions with us</li>
+                    <li>Share and participate in the various ways: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdzEoFUh6zb8liiWeP45PjyUtc0rlE-GPSR-UyNRnfR6WqayA/viewform">review talk/tutoria/poster/sprint proposals</a>, <nuxt-link to="/participate/">submit talk/tutoria/poster/sprint proposals</nuxt-link>, volunteer, attend</li>
+                    <li>Share our information with affinity groups</li>
+                    <li>Contact us with any accommodation needs</li>
+                    <li>Share suggestions with us</li>
                 </ul>
 
                 <p>What <strong>speakers</strong> can do:</p>
 
                 <ul>
-                     <li>set up space and headphones so that people can hear you <strong>at all times</strong></li>
-                     <li>repeat questions asked by an audience member in chat</li>
-                     <li>use color-blind accessible palettes in proposals, presentations and posters (<a href="https://usabilla.com/blog/how-to-design-for-color-blindness/">How to Design for Color Blindness</a>)</li>
+                     <li>Set up space and headphones so that people can hear you <strong>at all times</strong></li>
+                     <li>Repeat questions asked by an audience member in chat</li>
+                     <li>Use color-blind accessible palettes in proposals, presentations and posters (<a href="https://usabilla.com/blog/how-to-design-for-color-blindness/">How to Design for Color Blindness</a>)</li>
                 </ul>
 
                 <p>What <strong>we all</strong> can do:</p>
 
                 <ul>
-                    <li>follow our <nuxt-link to="/codeofconduct/">code of conduct</nuxt-link> and communicate any issues issues</li>
-                    <li>use inclusive language (<a href="https://www.recurse.com/social-rules">Inclusive language</a>, <a href="https://heyguys.cc/">Hey Guys</a>)</li>
+                    <li>Follow our <nuxt-link to="/codeofconduct/">code of conduct</nuxt-link> and communicate any issues issues</li>
+                    <li>Use inclusive language (<a href="https://www.recurse.com/social-rules">Inclusive language</a>, <a href="https://heyguys.cc/">Hey Guys</a>)</li>
                     <li><a href="https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/">PacMan Rule</a>:  include others in discussion, leave space open in circle for others to join</li>
                 </ul>
 
