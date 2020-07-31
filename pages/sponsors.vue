@@ -105,6 +105,7 @@
                 community_sponsors: [
                     {
                         link: "https://twitter.com/PyLadiesBer",
+                        name: "Berlin (Germany) PyLadies",
                         description: "We are the Berlin (Germany) chapter of PyLadies, an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
                         image: require("~/assets/images/sponsors/pyladies_berlin.jpg")
                     },
@@ -117,6 +118,16 @@
                         link: "https://twitter.com/NYCPyLadies",
                         description: "New York (NY, USA) Chapter of PyLadies. We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
                         image: require("~/assets/images/sponsors/pyladies_nyc.png")
+                    },
+                    {
+                        link: "https://twitter.com/DataUmbrella",
+                        description: "An inclusive community for under-represented persons in machine learning, artificial intelligence and data science.",
+                        image: require("~/assets/images/sponsors/data_umbrella_full_logo.png")
+                    },
+                    {
+                        link: "https://twitter.com/ChAnalyticsPyth",
+                        description: "Mayor comunidad en Chile de Analítica y Python. Espacio para compartir conocimiento y aprender.",
+                        image: require("~/assets/images/sponsors/analytics_python.png")
                     },
                     {
                         link: "https://womeninanalytics.com",
@@ -142,6 +153,31 @@
                         link: "https://www.meetup.com/python101",
                         description: "Meetup py101 is one of the most actives Python communities in Chile. Our aim is to gather people interested on Python, from basic to advanced level.",
                         image: require("~/assets/images/sponsors/py101.png")
+                    },
+                    {
+                        link: "https://twitter.com/pyladiescbba",
+                        description: "[UPDATE LOGO] We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
+                        image: require("~/assets/images/sponsors/master_cohorts.jpg")
+                    },
+                    {
+                        link: "https://www.meetup.com/Master-Data-Science/",
+                        description: "We are a community of AI, ML and Data Science practitioners & enthusiasts who believe we can work together to find solutions for various issues in our world.",
+                        image: require("~/assets/images/sponsors/master_cohorts.jpg")
+                    },
+                    {
+                        link: "https://www.meetup.com/rladies-miami/",
+                        description: "R-Ladies is an international organization aimed at enabling gender equity and gender parity within the R community. We are a chapter based in Miami, Florida.",
+                        image: require("~/assets/images/sponsors/rladies_miami.png")
+                    },
+                    {
+                        link: "http://ghana.pyladies.com",
+                        description: "We are a mentorship group in Ghana focused on helping more women become active participants and leaders in the Python open-source Community.",
+                        image: require("~/assets/images/sponsors/pyladies_ghana.png")
+                    },
+                    {
+                        link: "http://www.python.org.ar/",
+                        description: "PyAr is the local Argentinian community of Python users. It brings together all Python enthusiasts from around the country. Targets both users and companies and promotes the use of the language, the sharing of information and experience and aims to be a reference on the practice and discussion of the language.",
+                        image: require("~/assets/images/sponsors/pyar.png")
                     },
                 ]
             }
