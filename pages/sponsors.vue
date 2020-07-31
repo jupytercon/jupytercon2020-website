@@ -105,7 +105,6 @@
                 community_sponsors: [
                     {
                         link: "https://twitter.com/PyLadiesBer",
-                        group_name: "Berlin PyLadies",
                         description: "We are the Berlin (Germany) chapter of PyLadies, an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
                         image: require("~/assets/images/sponsors/pyladies_berlin.jpg")
                     },
@@ -115,9 +114,9 @@
                         image: require("~/assets/images/sponsors/pyladies_hamburg.png")
                     },
                     {
-                        link: "https://twitter.com/PyLadiesHH",
+                        link: "https://twitter.com/NYCPyLadies",
                         description: "New York (NY, USA) Chapter of PyLadies. We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
-                        image: require("~/assets/images/sponsors/pyladies_hamburg.png")
+                        image: require("~/assets/images/sponsors/pyladies_nyc.png")
                     },
                     {
                         link: "https://womeninanalytics.com",
@@ -138,6 +137,11 @@
                         link: "https://www.womenwhocode.com",
                         description: "Women Who Code is the largest and most active community of engineers dedicated to inspiring women to excel in technology careers. We provide an avenue into tech, empower women with skills needed for professional advancement, and provide environments where networking and mentorship are valued.",
                         image: require("~/assets/images/sponsors/wwcode_Final Logo.svg")
+                    },
+                    {
+                        link: "https://www.meetup.com/python101",
+                        description: "Meetup py101 is one of the most actives Python communities in Chile. Our aim is to gather people interested on Python, from basic to advanced level.",
+                        image: require("~/assets/images/sponsors/py101.png")
                     },
                 ]
             }
