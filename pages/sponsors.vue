@@ -105,6 +105,7 @@
                 community_sponsors: [
                     {
                         link: "https://twitter.com/PyLadiesBer",
+                        name: "Berlin (Germany) PyLadies",
                         description: "We are the Berlin (Germany) chapter of PyLadies, an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
                         image: require("~/assets/images/sponsors/pyladies_berlin.jpg")
                     },
