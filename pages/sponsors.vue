@@ -119,6 +119,16 @@
                         image: require("~/assets/images/sponsors/pyladies_nyc.png")
                     },
                     {
+                        link: "https://twitter.com/DataUmbrella",
+                        description: "An inclusive community for under-represented persons in machine learning, artificial intelligence and data science.",
+                        image: require("~/assets/images/sponsors/data_umbrella_full_logo.png")
+                    },
+                    {
+                        link: "https://twitter.com/ChAnalyticsPyth",
+                        description: "Mayor comunidad en Chile de Analítica y Python. Espacio para compartir conocimiento y aprender.",
+                        image: require("~/assets/images/sponsors/analytics_python.png")
+                    },
+                    {
                         link: "https://womeninanalytics.com",
                         description: "Women in Analytics is a global organization that brings together an international community of industry leaders, technical experts, entrepreneurs, and academia. Our mission is to provide visibility to the women making an impact in the analytics space and furnish a platform for them to lead the conversation around the advancements of analytical research, development, and application. WIA aims to be an extremely inclusive organization and welcomes participation from all genders.",
                         image: require("~/assets/images/sponsors/WIA-Secondary-RGB.png")
@@ -142,6 +152,16 @@
                         link: "https://www.meetup.com/python101",
                         description: "Meetup py101 is one of the most actives Python communities in Chile. Our aim is to gather people interested on Python, from basic to advanced level.",
                         image: require("~/assets/images/sponsors/py101.png")
+                    },
+                    {
+                        link: "https://twitter.com/pyladiescbba",
+                        description: "[UPDATE LOGO] We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
+                        image: require("~/assets/images/sponsors/master_cohorts.jpg")
+                    },
+                    {
+                        link: "https://www.meetup.com/Master-Data-Science/",
+                        description: "We are a community of AI, ML and Data Science practitioners & enthusiasts who believe we can work together to find solutions for various issues in our world.",
+                        image: require("~/assets/images/sponsors/master_cohorts.jpg")
                     },
                 ]
             }
