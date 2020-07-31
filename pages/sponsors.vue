@@ -163,6 +163,21 @@
                         description: "We are a community of AI, ML and Data Science practitioners & enthusiasts who believe we can work together to find solutions for various issues in our world.",
                         image: require("~/assets/images/sponsors/master_cohorts.jpg")
                     },
+                    {
+                        link: "https://www.meetup.com/rladies-miami/",
+                        description: "[UPDATE LOGO] R-Ladies is an international organization aimed at enabling gender equity and gender parity within the R community. We are a chapter based in Miami, Florida.",
+                        image: require("~/assets/images/sponsors/master_cohorts.jpg")
+                    },
+                    {
+                        link: "http://ghana.pyladies.com",
+                        description: "We are a mentorship group in Ghana focused on helping more women become active participants and leaders in the Python open-source Community.",
+                        image: require("~/assets/images/sponsors/pyladies_ghana.jpg")
+                    },
+                    {
+                        link: "http://www.python.org.ar/",
+                        description: "PyAr is the local Argentinian community of Python users. It brings together all Python enthusiasts from around the country. Targets both users and companies and promotes the use of the language, the sharing of information and experience and aims to be a reference on the practice and discussion of the language.",
+                        image: require("~/assets/images/sponsors/pyar.png")
+                    },
                 ]
             }
         },
