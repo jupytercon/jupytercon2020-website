@@ -171,7 +171,7 @@
                     {
                         link: "http://ghana.pyladies.com",
                         description: "We are a mentorship group in Ghana focused on helping more women become active participants and leaders in the Python open-source Community.",
-                        image: require("~/assets/images/sponsors/pyladies_ghana.jpg")
+                        image: require("~/assets/images/sponsors/pyladies_ghana.png")
                     },
                     {
                         link: "http://www.python.org.ar/",
