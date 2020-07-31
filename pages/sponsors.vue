@@ -166,8 +166,8 @@
                     },
                     {
                         link: "https://www.meetup.com/rladies-miami/",
-                        description: "[UPDATE LOGO] R-Ladies is an international organization aimed at enabling gender equity and gender parity within the R community. We are a chapter based in Miami, Florida.",
-                        image: require("~/assets/images/sponsors/master_cohorts.jpg")
+                        description: "R-Ladies is an international organization aimed at enabling gender equity and gender parity within the R community. We are a chapter based in Miami, Florida.",
+                        image: require("~/assets/images/sponsors/rladies_miami.png")
                     },
                     {
                         link: "http://ghana.pyladies.com",
