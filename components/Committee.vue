@@ -118,6 +118,12 @@
                     image: require("~/assets/images/commitee/amanda.png?resize&size=508")
                 },
                 {
+                    name: "Lauren Burke",
+                    role: "Marketing & Communications Chair",
+                    bio: "Lauren is a Data Scientist at CoverMyMeds, Director of Operations of Women in Analytics, and Founder of WiMLDS Columbus. She is passionate about initiatives that promote the interests and achievements of women and girls in STEM and enjoys every opportunity to share her appreciation of math, data, and analytics with others.",
+                    image: require("~/assets/images/commitee/lauren.jpg?resize&size=508")
+                },
+                {
                     name: "Jim Weiss",
                     role: "Logistics Chair",
                     bio: "Jim Weiss is the Events Manager for NumFOCUS, and Logistics Chair for JupyterCon 2020. Jim joined NumFOCUS in 2017, and has been supporting the open source scientific programing community through organizing programs like PyData. Prior to joining NumFOCUS, Jim worked in Washington, D.C., coordinating congressional hearings for the U.S. House of Representatives and managing events for the U.S. Air Force.",
