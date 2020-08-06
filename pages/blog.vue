@@ -5,9 +5,19 @@
             </template>
         </BlockHeaderPlain>
         <div class="main">
-            <div class="blog">
-                <div v-for="url in urls">
-                    <link-prevue class="blogpost" cardWidth="100%" :url="url"></link-prevue>
+            <div class="grid-x">
+                <div class="cell small-4" v-for="url in urls">
+                    <link-prevue class="blogpost" cardWidth="100%" :url="url">
+                        <template slot-scope="props">
+                            <a v-bind:href="props.url" class="btn btn-primary card-link">
+                            <img class="card-img-top" :src="props.img" :alt="props.title" />
+                                <div class="card-block">
+                                <h4 class="card-title">{{props.title}}</h4>
+                                <p class="card-text">{{props.description}}</p>
+                            </div>
+                            </a>
+                        </template>
+                    </link-prevue>
                 </div>
             </div>
         </div>
@@ -51,12 +61,22 @@
         background-color: $figma-grey3;
         padding: 100px;
     }
-    .blog {
-        display: flex;
-        flex-wrap: wrap;
-    }
     .blogpost {
         margin: 5px;
-        width: 320px;
+        padding: 5px;
+        background: white;
+    }
+    .blogpost img {
+        height: 200px;
+        width: 100%;
+        object-fit: cover;
+        margin: 20px 0px;
+    }
+    .card-block {
+        height: 200px;
+        overflow: hidden;
+    }
+    .card-text {
+        color: black;
     }
 </style>
