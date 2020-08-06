@@ -156,8 +156,8 @@
                     },
                     {
                         link: "https://twitter.com/pyladiescbba",
-                        description: "[UPDATE LOGO] We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
-                        image: require("~/assets/images/sponsors/master_cohorts.jpg")
+                        description: "We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
+                        image: require("~/assets/images/sponsors/pyladies_coch.png")
                     },
                     {
                         link: "https://www.meetup.com/Master-Data-Science/",
