@@ -18,11 +18,10 @@
 <script>
     import BlockHeaderPlain from "../components/BlockHeaderPlain";
     import DesktopFooter from "../components/DesktopFooter";
-    import LinkPrevue from "link-prevue";
 
     export default {
         name: "proposals",
-        components: {DesktopFooter, BlockHeaderPlain, LinkPrevue},
+        components: {DesktopFooter, BlockHeaderPlain},
     }
 </script>
 
