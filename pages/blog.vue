@@ -6,11 +6,9 @@
         </BlockHeaderPlain>
         <div class="main">
             <div class="blog">
-                <link-prevue class="blogpost" cardWidth="100%" url="https://blog.jupyter.org/juan-klopper-c33c2fd0ed36"></link-prevue>
-                <link-prevue class="blogpost" cardWidth="100%" url="https://blog.jupyter.org/jeremy-howard-8dace7b4a34a"></link-prevue>
-                <link-prevue class="blogpost" cardWidth="100%" url="https://blog.jupyter.org/anima-anandkumar-274f2619c90d"></link-prevue>
-                <link-prevue class="blogpost" cardWidth="100%" url="https://blog.jupyter.org/jupytercon-online-more-than-a-conference-4677cf25a915"></link-prevue>
-                <link-prevue class="blogpost" cardWidth="100%" url="https://blog.jupyter.org/jupytercon-2020-is-a-go-47c82b281fa8"></link-prevue>
+                <div v-for="url in urls">
+                    <link-prevue class="blogpost" cardWidth="100%" :url="url"></link-prevue>
+                </div>
             </div>
         </div>
         <DesktopFooter />
@@ -24,6 +22,17 @@
     export default {
         name: "proposals",
         components: {DesktopFooter, BlockHeaderPlain},
+        data() {
+            return {
+               urls: [
+                   "https://blog.jupyter.org/juan-klopper-c33c2fd0ed36",
+                   "https://blog.jupyter.org/jeremy-howard-8dace7b4a34a",
+                   "https://blog.jupyter.org/anima-anandkumar-274f2619c90d",
+                   "https://blog.jupyter.org/jupytercon-online-more-than-a-conference-4677cf25a915",
+                   "https://blog.jupyter.org/jupytercon-2020-is-a-go-47c82b281fa8"
+               ]
+            }
+        } 
     }
 </script>
 
