@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@bazzite/nuxt-optimized-images": "^0.3.0",
+    "link-prevue": "^1.2.0",
     "nuxt": "^2.0.0",
     "nuxt-lazy-load": "^1.1.3",
     "sharp": "^0.25.1"

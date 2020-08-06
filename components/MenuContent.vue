@@ -42,7 +42,8 @@
                         'Organizing Committee',
                         { label: 'Code of Conduct', to: '/codeofconduct/' },
                         { label: 'Diversity', to: "/diversity/" },
-                        { label: 'COVID-19 Statement', to: '/covid-19-statement/' }
+                        { label: 'COVID-19 Statement', to: '/covid-19-statement/' },
+                        { label: 'Blog', to: '/blog/' }
                     ]
                 }, {
                     label: 'Participate',
