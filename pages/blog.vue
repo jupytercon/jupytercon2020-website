@@ -7,7 +7,8 @@
         <div class="main">
             <div class="grid-x">
                 <div class="cell small-4" v-for="url in urls">
-                    <link-prevue class="blogpost" cardWidth="100%" :url="url">
+                    <div class="blogpost">
+                    <link-prevue cardWidth="100%" :url="url">
                         <template slot-scope="props">
                             <a v-bind:href="props.url" class="btn btn-primary card-link">
                             <img class="card-img-top" :src="props.img" :alt="props.title" />
@@ -18,6 +19,7 @@
                             </a>
                         </template>
                     </link-prevue>
+                    </div>
                 </div>
             </div>
         </div>
