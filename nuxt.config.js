@@ -46,7 +46,8 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    '~/plugins/pydata.js'
+    '~/plugins/pydata.js',
+    {src: '~/plugins/prevue.js', mode: 'client'}
   ],
   /*
   ** Nuxt.js dev-modules
