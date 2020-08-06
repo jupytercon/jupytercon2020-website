@@ -5,12 +5,12 @@
             </template>
         </BlockHeaderPlain>
         <div class="main">
-            <div>
-                <link-prevue url="https://blog.jupyter.org/juan-klopper-c33c2fd0ed36"></link-prevue>
-                <link-prevue url="https://blog.jupyter.org/jeremy-howard-8dace7b4a34a"></link-prevue>
-                <link-prevue url="https://blog.jupyter.org/anima-anandkumar-274f2619c90d"></link-prevue>
-                <link-prevue url="https://blog.jupyter.org/jupytercon-online-more-than-a-conference-4677cf25a915"></link-prevue>
-                <link-prevue url="https://blog.jupyter.org/jupytercon-2020-is-a-go-47c82b281fa8"></link-prevue>
+            <div class="blog">
+                <link-prevue class="blogpost" cardWidth="100%" url="https://blog.jupyter.org/juan-klopper-c33c2fd0ed36"></link-prevue>
+                <link-prevue class="blogpost" cardWidth="100%" url="https://blog.jupyter.org/jeremy-howard-8dace7b4a34a"></link-prevue>
+                <link-prevue class="blogpost" cardWidth="100%" url="https://blog.jupyter.org/anima-anandkumar-274f2619c90d"></link-prevue>
+                <link-prevue class="blogpost" cardWidth="100%" url="https://blog.jupyter.org/jupytercon-online-more-than-a-conference-4677cf25a915"></link-prevue>
+                <link-prevue class="blogpost" cardWidth="100%" url="https://blog.jupyter.org/jupytercon-2020-is-a-go-47c82b281fa8"></link-prevue>
             </div>
         </div>
         <DesktopFooter />
@@ -41,5 +41,13 @@
     .main {
         background-color: $figma-grey3;
         padding: 100px;
+    }
+    .blog {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .blogpost {
+        margin: 5px;
+        width: 320px;
     }
 </style>
