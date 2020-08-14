@@ -180,7 +180,7 @@
                     {
                         twitterLink: "https://twitter.com/PyBerlin",
                         twitterHandle: "@PyBerlin",
-                        name: "Python Users Berline",
+                        name: "Python Users Berlin",
                         location: "Berlin, Germany",
                         description: "Python Users Berlin is the oldest Python community in Berlin. We host monthly events with presentations and discussions about Python and Python-related software development.",
                         image: require("~/assets/images/sponsors/pub.jpeg"),
@@ -248,6 +248,15 @@
                         description: "PyAr is the local Argentinian community of Python users. It brings together all Python enthusiasts from around the country. Targets both users and companies and promotes the use of the language, the sharing of information and experience and aims to be a reference on the practice and discussion of the language.",
                         image: require("~/assets/images/sponsors/pyar.png"),
                         website: "http://www.python.org.ar/",
+                    },
+                    {
+                        twitterLink: "https://twitter.com/spain_ai",
+                        twitterHandle: "@spain_ai_",
+                        name: "Spain AI",
+                        location: "Spain",
+                        description: "Spain AI's mission is to foster AI at all levels, by creating a community covering networking, education, events and expert advice on AI, and becoming the largest AI community in Spain to date.",
+                        image: require("~/assets/images/sponsors/spainAI-logo-fondoTransparente.png"),
+                        website: "http://www.spain-ai.com/",
                     },
                 ]
             }
