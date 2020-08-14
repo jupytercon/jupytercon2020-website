@@ -75,10 +75,13 @@
         margin: 20px 0px;
     }
     .card-block {
+        padding: 0 14px;
         height: 200px;
         overflow: hidden;
     }
-    .card-text {
+    .card-text.card-text {
         color: black;
+        width: initial;
+        text-align: left;
     }
 </style>

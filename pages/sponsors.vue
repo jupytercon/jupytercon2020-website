@@ -63,10 +63,21 @@
                 <div class="grid-y">
                     <div class="cell sponsor-row" v-for="sponsor in community_sponsors">
                         <div class="grid-x sponsor-row-container">
-                            <div class="cell small-4"><img class="sponsor-image" :src="sponsor.image"></div>
+                            <div class="cell small-4">
+                                <a :href="sponsor.website" target="_blank">
+                                    <img class="sponsor-image" :src="sponsor.image">
+                                </a>
+                            </div>
                             <div class="cell auto sponsor-text-plain">
+                                <a :href="sponsor.website" target="_blank">
+                                    <h2>{{ sponsor.name }}</h2>
+                                </a>
+                                <p>{{ sponsor.location }}</p>
                                 <p>
-                                    <a :href="sponsor.link">{{ sponsor.link }}</a>
+                                    <a v-if="sponsor.twitterLink" :href="sponsor.twitterLink" target="_blank">
+                                        <img class="icon-twitter" src="@/assets/images/icon-twitter.png">
+                                        {{ sponsor.twitterHandle }}
+                                    </a>
                                 </p>
                                 <p>
                                     {{ sponsor.description }}
@@ -94,7 +105,7 @@
                     {
                         link: "https://www.ovh.com/",
                         description: "OVHcloud provides everything you need for a successful online project: web hosting, domain names, dedicated servers, CDN, cloud environments, big data, and more.",
-                        image: require("~/assets/images/sponsors/OVH.png")
+                        image: require("~/assets/images/sponsors/OVH.png"),
                     },
                     {
                         link: "https://numfocus.org/",
@@ -104,78 +115,95 @@
                 ],
                 community_sponsors: [
                     {
-                        link: "https://twitter.com/PyLadiesBer",
-                        name: "Berlin (Germany) PyLadies",
+                        twitterLink: "https://twitter.com/PyLadiesBer",
+                        twitterHandle: "@PyLadiesBer",
+                        name: "Berlin PyLadies",
+                        location: "Berlin, Germany",
                         description: "We are the Berlin (Germany) chapter of PyLadies, an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
-                        image: require("~/assets/images/sponsors/pyladies_berlin.jpg")
+                        image: require("~/assets/images/sponsors/pyladies_berlin.jpg"),
+                        website: "https://www.pyladies.com",
                     },
                     {
-                        link: "https://twitter.com/PyLadiesHH",
+                        twitterLink: "https://twitter.com/PyLadiesHH",
+                        twitterHandle: "@PyLadiesHH",
                         description: "Hamburg (Germany) Chapter of PyLadies. We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
                         image: require("~/assets/images/sponsors/pyladies_hamburg.png")
                     },
                     {
-                        link: "https://twitter.com/NYCPyLadies",
+                        twitterLink: "https://twitter.com/NYCPyLadies",
+                        twitterHandle: "@NYCPyLadies",
                         description: "New York (NY, USA) Chapter of PyLadies. We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
                         image: require("~/assets/images/sponsors/pyladies_nyc.png")
                     },
                     {
-                        link: "https://twitter.com/DataUmbrella",
+                        twitterLink: "https://twitter.com/DataUmbrella",
+                        twitterHandle: "@DataUmbrella",
                         description: "An inclusive community for under-represented persons in machine learning, artificial intelligence and data science.",
                         image: require("~/assets/images/sponsors/data_umbrella_full_logo.png")
                     },
                     {
-                        link: "https://twitter.com/ChAnalyticsPyth",
+                        twitterLink: "https://twitter.com/ChAnalyticsPyth",
+                        twitterHandle: "@ChAnalyticsPyth",
                         description: "Mayor comunidad en Chile de Analítica y Python. Espacio para compartir conocimiento y aprender.",
                         image: require("~/assets/images/sponsors/analytics_python.png")
                     },
                     {
-                        link: "https://womeninanalytics.com",
+                        twitterLink: "https://womeninanalytics.com",
+                        twitterHandle: "@",
                         description: "Women in Analytics is a global organization that brings together an international community of industry leaders, technical experts, entrepreneurs, and academia. Our mission is to provide visibility to the women making an impact in the analytics space and furnish a platform for them to lead the conversation around the advancements of analytical research, development, and application. WIA aims to be an extremely inclusive organization and welcomes participation from all genders.",
                         image: require("~/assets/images/sponsors/WIA-Secondary-RGB.png")
                     },
                     {
-                        link: "https://berlin.pydata.org/",
+                        twitterLink: "https://berlin.pydata.org/",
+                        twitterHandle: "@",
                         description: "PyData is an educational program of NumFOCUS. We provide a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization.",
                         image: require("~/assets/images/sponsors/pydata.png")
                     },
                     {
-                        link: "https://www.meetup.com/Python-Users-Berlin-PUB",
+                        twitterLink: "https://www.meetup.com/Python-Users-Berlin-PUB",
+                        twitterHandle: "@",
                         description: "Python Users Berlin is the oldest Python community in Berlin. We host monthly events with presentations and discussions about Python and Python-related software development.",
                         image: require("~/assets/images/sponsors/pub.jpeg")
                     },
                     {
-                        link: "https://www.womenwhocode.com",
+                        twitterLink: "https://www.womenwhocode.com",
+                        twitterHandle: "@",
                         description: "Women Who Code is the largest and most active community of engineers dedicated to inspiring women to excel in technology careers. We provide an avenue into tech, empower women with skills needed for professional advancement, and provide environments where networking and mentorship are valued.",
                         image: require("~/assets/images/sponsors/wwcode_Final Logo.svg")
                     },
                     {
-                        link: "https://www.meetup.com/python101",
+                        twitterLink: "https://www.meetup.com/python101",
+                        twitterHandle: "@",
                         description: "Meetup py101 is one of the most actives Python communities in Chile. Our aim is to gather people interested on Python, from basic to advanced level.",
                         image: require("~/assets/images/sponsors/py101.png")
                     },
                     {
-                        link: "https://twitter.com/pyladiescbba",
+                        twitterLink: "https://twitter.com/pyladiescbba",
+                        twitterHandle: "@pyladiescbba",
                         description: "We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
                         image: require("~/assets/images/sponsors/pyladies_coch.png")
                     },
                     {
-                        link: "https://www.meetup.com/Master-Data-Science/",
+                        twitterLink: "https://www.meetup.com/Master-Data-Science/",
+                        twitterHandle: "@",
                         description: "We are a community of AI, ML and Data Science practitioners & enthusiasts who believe we can work together to find solutions for various issues in our world.",
                         image: require("~/assets/images/sponsors/master_cohorts.jpg")
                     },
                     {
-                        link: "https://www.meetup.com/rladies-miami/",
+                        twitterLink: "https://www.meetup.com/rladies-miami/",
+                        twitterHandle: "@",
                         description: "R-Ladies is an international organization aimed at enabling gender equity and gender parity within the R community. We are a chapter based in Miami, Florida.",
                         image: require("~/assets/images/sponsors/rladies_miami.png")
                     },
                     {
-                        link: "http://ghana.pyladies.com",
+                        twitterLink: "http://ghana.pyladies.com",
+                        twitterHandle: "@",
                         description: "We are a mentorship group in Ghana focused on helping more women become active participants and leaders in the Python open-source Community.",
                         image: require("~/assets/images/sponsors/pyladies_ghana.png")
                     },
                     {
-                        link: "http://www.python.org.ar/",
+                        twitterLink: "http://www.python.org.ar/",
+                        twitterHandle: "@",
                         description: "PyAr is the local Argentinian community of Python users. It brings together all Python enthusiasts from around the country. Targets both users and companies and promotes the use of the language, the sharing of information and experience and aims to be a reference on the practice and discussion of the language.",
                         image: require("~/assets/images/sponsors/pyar.png")
                     },
@@ -224,5 +252,11 @@
     }
     .sponsor-text-plain {
         margin: 30px;
+    }
+
+    .icon-twitter {
+        height: 20px;
+        margin-right: 4px;
+        margin-bottom: 1px;
     }
 </style>
