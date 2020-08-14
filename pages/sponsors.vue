@@ -149,13 +149,13 @@
                     },
                     {
                         twitterLink: "https://womeninanalytics.com",
-                        twitterHandle: "@",
+                        twitterHandle: "@wia_community",
                         description: "Women in Analytics is a global organization that brings together an international community of industry leaders, technical experts, entrepreneurs, and academia. Our mission is to provide visibility to the women making an impact in the analytics space and furnish a platform for them to lead the conversation around the advancements of analytical research, development, and application. WIA aims to be an extremely inclusive organization and welcomes participation from all genders.",
                         image: require("~/assets/images/sponsors/WIA-Secondary-RGB.png")
                     },
                     {
                         twitterLink: "https://berlin.pydata.org/",
-                        twitterHandle: "@",
+                        twitterHandle: "@pydataberlin",
                         description: "PyData is an educational program of NumFOCUS. We provide a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization.",
                         image: require("~/assets/images/sponsors/pydata.png")
                     },
@@ -167,7 +167,7 @@
                     },
                     {
                         twitterLink: "https://www.womenwhocode.com",
-                        twitterHandle: "@",
+                        twitterHandle: "@WomenWhoCode",
                         description: "Women Who Code is the largest and most active community of engineers dedicated to inspiring women to excel in technology careers. We provide an avenue into tech, empower women with skills needed for professional advancement, and provide environments where networking and mentorship are valued.",
                         image: require("~/assets/images/sponsors/wwcode_Final Logo.svg")
                     },
@@ -191,19 +191,19 @@
                     },
                     {
                         twitterLink: "https://www.meetup.com/rladies-miami/",
-                        twitterHandle: "@",
+                        twitterHandle: "@rladiesmiami",
                         description: "R-Ladies is an international organization aimed at enabling gender equity and gender parity within the R community. We are a chapter based in Miami, Florida.",
                         image: require("~/assets/images/sponsors/rladies_miami.png")
                     },
                     {
                         twitterLink: "http://ghana.pyladies.com",
-                        twitterHandle: "@",
+                        twitterHandle: "@pyladiesghana",
                         description: "We are a mentorship group in Ghana focused on helping more women become active participants and leaders in the Python open-source Community.",
                         image: require("~/assets/images/sponsors/pyladies_ghana.png")
                     },
                     {
                         twitterLink: "http://www.python.org.ar/",
-                        twitterHandle: "@",
+                        twitterHandle: "@pythonargentina",
                         description: "PyAr is the local Argentinian community of Python users. It brings together all Python enthusiasts from around the country. Targets both users and companies and promotes the use of the language, the sharing of information and experience and aims to be a reference on the practice and discussion of the language.",
                         image: require("~/assets/images/sponsors/pyar.png")
                     },
