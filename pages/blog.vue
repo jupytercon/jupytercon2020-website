@@ -37,6 +37,7 @@
         data() {
             return {
                urls: [
+                   "https://blog.jupyter.org/lucy-dagostino-mcgowan-13adbdedccf0",
                    "https://blog.jupyter.org/juan-klopper-c33c2fd0ed36",
                    "https://blog.jupyter.org/jeremy-howard-8dace7b4a34a",
                    "https://blog.jupyter.org/anima-anandkumar-274f2619c90d",
