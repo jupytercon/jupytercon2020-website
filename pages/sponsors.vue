@@ -107,6 +107,8 @@
 	            <p>
 	                If you are interested in sponsoring JupyterCon, email us at <a href="mailto:jupytercon-sponsor@numfocus.org">jupytercon-sponsor@numfocus.org</a> to receive a prospectus, which is also available <a href="/JupyterConOnline2020-SponsorProspectus.pdf">here</a>.
 	            </p>
+            <h1>Legal</h1>
+                   <p>IBM and the IBM logo are trademarks of International Business Machines Corp., registered in many jurisdictions worldwide.</p>
         </div>
         <DesktopFooter />
     </div>
