@@ -68,9 +68,9 @@
                     label: 'Sponsors',
                     to: '/sponsors/',
                     items: [
-                        'Sponsoring',
                         'Sponsors',
-                        'Community Sponsors'
+                        'Sponsoring',
+                        { label: 'Community Sponsors', to: "/community-sponsors/" },
                     ]
                 }]
             }
