@@ -5,7 +5,25 @@
             </template>
         </BlockHeaderPlain>
         <div class="main">
-            <h1>Sponsors</h1>
+            <h1>JupyterCon is brought to you by</h1>
+	             <div class="grid-container">
+	                 <div class="grid-y">
+	                     <div class="cell core-row" v-for="sponsor in core">
+	                         <div class="grid-x core-row-container">
+	                             <div class="cell small-4"><img class="sponsor-image" :src="sponsor.image"></div>
+	                             <div class="cell auto sponsor-text-plain">
+	                                 <p>
+	                                     <a :href="sponsor.link">{{ sponsor.link }}</a>
+	                                 </p>
+	                                 <p>
+	                                     {{ sponsor.description }}
+	                                 </p>
+	                             </div>
+	                         </div>
+	                     </div>
+	                 </div>
+	             </div>
+            <h1 class="title">Sponsors</h1>
                 <h2 class="sponsor-category" id="platinium">Platinium</h2>
 	             <div class="grid-container sponsors">
 	                 <div class="grid-y">
@@ -42,7 +60,7 @@
 	                     </div>
 	                 </div>
 	             </div>
-            <h1 id="Sponsoring" class="sponsoring-title">Sponsoring</h1>
+            <h1 id="Sponsoring" class="title">Sponsoring</h1>
 	            <p>
 	                JupyterCon provides many unique opportunities for sponsors. On the one hand, the conference
 	                is certainly the best event in the world in which to engage the community that sustains
@@ -101,6 +119,18 @@
                         image: require("~/assets/images/sponsors/facebook.png")
                     }
                 ],
+                core: [
+                    {
+                        link: "https://numfocus.org/",	
+                        description: "The mission of NumFOCUS is to promote open practices in research, data, and scientific computing by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs.",	
+                        image: require("~/assets/images/sponsors/NumFocus.png")
+                    },
+                    {
+                        link: "https://jupyter.org/",	
+                        description: "Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.",
+                        image: require("~/assets/images/sponsors/jupyter.png")
+                    },
+                ]
             }
         },
     }
@@ -125,7 +155,7 @@
         background-color: $figma-grey3;
         padding: 100px;
     }
-    .sponsoring-title {
+    .title {
         margin-top: 60px;
         margin-bottom: 30px;
     }
@@ -134,12 +164,12 @@
     }
     .sponsor-category {
         margin-top: 40px;
-        margin-bottom: 10px;
+        margin-bottom: 40px;
     }
     .sponsor-row {
         margin-top: 10px;
         margin-bottom: 10px;
-        min-height: 200px;
+        min-height: 240px;
         display: flex;
     }
     .sponsor-row-container {
