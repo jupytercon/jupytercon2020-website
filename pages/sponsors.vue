@@ -60,6 +60,24 @@
 	                     </div>
 	                 </div>
 	             </div>
+                <h2 class="sponsor-category "id="bronze">Bronze</h2>
+	             <div class="grid-container sponsors">
+	                 <div class="grid-y">
+	                     <div class="cell sponsor-row" v-for="sponsor in bronze">
+	                         <div class="grid-x sponsor-row-container">
+	                             <div class="cell small-4"><img class="sponsor-image" :src="sponsor.image"></div>
+	                             <div class="cell auto sponsor-text-plain">
+	                                 <p>
+	                                     <a :href="sponsor.link">{{ sponsor.link }}</a>
+	                                 </p>
+	                                 <p>
+	                                     {{ sponsor.description }}
+	                                 </p>
+	                             </div>
+	                         </div>
+	                     </div>
+	                 </div>
+	             </div>
             <h1 id="Sponsoring" class="title">Sponsoring</h1>
 	            <p>
 	                JupyterCon provides many unique opportunities for sponsors. On the one hand, the conference
@@ -123,6 +141,14 @@
                         link: "https://google.com",
                         description: "Google's goal is to organize the world's information and make it universally accessible and useful.",
                         image: require("~/assets/images/sponsors/google.png")
+                    }
+                ],
+                bronze: [
+                    {
+                        name: "IBM",
+                        link: "https://www.ibm.com",
+                        description: "IBM's goal is to lead in the creation, development, and manufacture of the industry’s most advanced information technologies, including computer systems, software, networking systems, storage devices, and microelectronics.", 
+                        image: require("~/assets/images/sponsors/ibm.png")
                     }
                 ],
                 core: [
