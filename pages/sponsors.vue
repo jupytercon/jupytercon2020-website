@@ -24,10 +24,10 @@
 	                 </div>
 	             </div>
             <h1 class="title">Sponsors</h1>
-                <h2 class="sponsor-category" id="platinium">Platinium</h2>
+                <h2 class="sponsor-category" id="platinum">Platinum</h2>
 	             <div class="grid-container sponsors">
 	                 <div class="grid-y">
-	                     <div class="cell sponsor-row" v-for="sponsor in platinium">
+	                     <div class="cell sponsor-row" v-for="sponsor in platinum">
 	                         <div class="grid-x sponsor-row-container">
 	                             <div class="cell small-4"><img class="sponsor-image" :src="sponsor.image"></div>
 	                             <div class="cell auto sponsor-text-plain">
@@ -103,7 +103,7 @@
         components: {DesktopFooter, BlockHeaderPlain},
         data() {
             return {
-                platinium: [
+                platinum: [
                     {
                         name: "OVHCloud",
                         link: "https://www.ovh.com/",
