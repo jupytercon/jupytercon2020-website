@@ -9,7 +9,7 @@
 	             <div class="grid-container">
 	                 <div class="grid-y">
 	                     <div class="cell core-row" v-for="sponsor in core">
-	                         <div class="grid-x core-row-container">
+	                         <div class="grid-x sponsor-row sponsor-row-container">
 	                             <div class="cell small-4"><img class="sponsor-image" :src="sponsor.image"></div>
 	                             <div class="cell auto sponsor-text-plain">
 	                                 <p>
