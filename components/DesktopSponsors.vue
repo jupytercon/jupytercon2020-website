@@ -14,8 +14,13 @@
                     </a>
                 </div>
                 <div class="cell small-4">
-                    <a href="https://numfocus.org/">
-                        <img class="sponsor" src="~assets/images/sponsors/NumFocus.png"/>
+                    <a href="https://facebook.com/">
+                        <img class="sponsor" src="~assets/images/sponsors/facebook.png"/>
+                    </a>
+                </div>
+                <div class="cell small-4">
+                    <a href="https://google.com/">
+                        <img class="sponsor" src="~assets/images/sponsors/google.png"/>
                     </a>
                 </div>
             </div>
