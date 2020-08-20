@@ -70,7 +70,7 @@
                     items: [
                         'Sponsors',
                         'Sponsoring',
-                        // { label: 'Community Sponsors', to: "/community-sponsors/" },
+                        { label: 'Community Sponsors', to: "/community-sponsors/" },
                     ]
                 }]
             }

@@ -117,6 +117,12 @@
                         link: "https://facebook.com",
                         description: "Facebook offers a suite of products that help people connect to their friends and family, find communities and grow businesses.",
                         image: require("~/assets/images/sponsors/facebook.png")
+                    },
+                    {
+                        name: "Google",
+                        link: "https://google.com",
+                        description: "Google's goal is to organize the world's information and make it universally accessible and useful.",
+                        image: require("~/assets/images/sponsors/google.png")
                     }
                 ],
                 core: [
