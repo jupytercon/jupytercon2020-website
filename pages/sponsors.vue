@@ -103,11 +103,19 @@
             return {
                 sponsors: [
                     {
+                        name: "OVHCloud",
                         link: "https://www.ovh.com/",
                         description: "OVHcloud provides everything you need for a successful online project: web hosting, domain names, dedicated servers, CDN, cloud environments, big data, and more.",
                         image: require("~/assets/images/sponsors/OVH.png"),
                     },
                     {
+                        name: "Facebook",
+                        link: "https://facebook.com",
+                        description: "Facebook offers a suite of products that help people connect to their friends and family, find communities and grow businesses.",
+                        image: require("~/assets/images/sponsors/facebook.png")
+                    },
+                    {
+                        name: "NumFOCUS",
                         link: "https://numfocus.org/",
                         description: "The mission of NumFOCUS is to promote open practices in research, data, and scientific computing by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs.",
                         image: require("~/assets/images/sponsors/NumFocus.png")
