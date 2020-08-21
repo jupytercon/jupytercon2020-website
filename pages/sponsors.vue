@@ -60,6 +60,24 @@
 	                     </div>
 	                 </div>
 	             </div>
+                <h2 class="sponsor-category "id="gold">Silver</h2>
+	             <div class="grid-container sponsors">
+	                 <div class="grid-y">
+	                     <div class="cell sponsor-row" v-for="sponsor in silver">
+	                         <div class="grid-x sponsor-row-container">
+	                             <div class="cell small-4"><img class="sponsor-image" :src="sponsor.image"></div>
+	                             <div class="cell auto sponsor-text-plain">
+	                                 <p>
+	                                     <a :href="sponsor.link">{{ sponsor.link }}</a>
+	                                 </p>
+	                                 <p>
+	                                     {{ sponsor.description }}
+	                                 </p>
+	                             </div>
+	                         </div>
+	                     </div>
+	                 </div>
+	             </div>
                 <h2 class="sponsor-category "id="bronze">Bronze</h2>
 	             <div class="grid-container sponsors">
 	                 <div class="grid-y">
@@ -143,6 +161,14 @@
                         link: "https://google.com",
                         description: "Google's goal is to organize the world's information and make it universally accessible and useful.",
                         image: require("~/assets/images/sponsors/google.png")
+                    }
+                ],
+                silver: [
+                    {
+                        name: "NVidia",
+                        link: "https://www.nvidia.com",
+                        description: "Fueled by the insatiable demand for better 3D graphics, and the massive scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the exciting intersection of virtual reality, high performance computing, and artificial intelligence.",
+                        image: require("~/assets/images/sponsors/nvidia.png")
                     }
                 ],
                 bronze: [
