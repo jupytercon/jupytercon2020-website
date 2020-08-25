@@ -191,7 +191,7 @@ community_sponsors: [
                         website: "http://www.python.org.ar/",
                     },
                     {
-                        twitterLink: "https://twitter.com/spain_ai",
+                        twitterLink: "https://twitter.com/spain_ai_",
                         twitterHandle: "@spain_ai_",
                         name: "Spain AI",
                         location: "Spain",
