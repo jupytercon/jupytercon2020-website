@@ -168,7 +168,7 @@
 <div class="reviewer">Maryam Jahanshahi</div>
 <div class="reviewer">Matthias Busch</div>
 <div class="reviewer">Matthias Bussonnier</div>
-<div class="reviewer">Maureira-Fredes Cristian</div>
+<div class="reviewer">Cristián Maureira-Fredes</div>
 <div class="reviewer">Mickael Delattre</div>
 <div class="reviewer">Miguel Galeano</div>
 <div class="reviewer">Min Ragan-Kelley</div>
