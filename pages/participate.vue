@@ -163,7 +163,7 @@
 <div class="reviewer">Maria Khalusova</div>
 <div class="reviewer">Marianne Corvellec</div>
 <div class="reviewer">Marielle Dado</div>
-<div class="reviewer">Mario D'AMore</div>
+<div class="reviewer">Mario D'Amore</div>
 <div class="reviewer">Markus Erwee</div>
 <div class="reviewer">Maryam Jahanshahi</div>
 <div class="reviewer">Matthias Busch</div>
