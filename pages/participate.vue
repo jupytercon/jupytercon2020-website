@@ -79,6 +79,140 @@
                   </table>
   
         </div>
+
+        <div class="tickets white-background" id="Reviewers">
+
+            <h1>Community Reviewers</h1>
+            <p>
+            We would like to thank all of the community reviewers who reviewed talk, poster, and tutorial proposals. Listed below are the reviewers who completed all of their requested reviews by the deadline. Thank you!
+            </p>
+
+<div class="reviewerlist">
+<div class="reviewer">Adrien Friggeri</div>
+<div class="reviewer">Ahmed Gad</div>
+<div class="reviewer">Akkapantula Kalyan</div>
+<div class="reviewer">Aleksey Bilogur</div>
+<div class="reviewer">Alex Tennant</div>
+<div class="reviewer">Alexander Naylor</div>
+<div class="reviewer">Amilcar Blake</div>
+<div class="reviewer">Andrea Maldonado</div>
+<div class="reviewer">Andreas Bergen</div>
+<div class="reviewer">Andreas Schreiber</div>
+<div class="reviewer">Angelica Landazabal</div>
+<div class="reviewer">Anisha Gunjal</div>
+<div class="reviewer">Antonio Cachuan</div>
+<div class="reviewer">Armin Kekic</div>
+<div class="reviewer">Arnim Bleier</div>
+<div class="reviewer">Ashwin Samudre</div>
+<div class="reviewer">Awaiz Mukadam</div>
+<div class="reviewer">Baden Hughes</div>
+<div class="reviewer">BaoGiang HoangVu</div>
+<div class="reviewer">Benjamin Winjum</div>
+<div class="reviewer">Blaine Mooers</div>
+<div class="reviewer">Brian Gue</div>
+<div class="reviewer">Byron Chu</div>
+<div class="reviewer">Carl Osipov</div>
+<div class="reviewer">Cécile Hardebolle</div>
+<div class="reviewer">Chandan Bose</div>
+<div class="reviewer">Cheuk Ho</div>
+<div class="reviewer">Corrie Bartelheimer</div>
+<div class="reviewer">Daniel Allan</div>
+<div class="reviewer">Darst Richard</div>
+<div class="reviewer">David Koop</div>
+<div class="reviewer">David Mauricio Delgado Ruiz</div>
+<div class="reviewer">Dhavide Aruliah</div>
+<div class="reviewer">Doug Blank</div>
+<div class="reviewer">Duane Storti</div>
+<div class="reviewer">Eduardo Blancas</div>
+<div class="reviewer">Emmanuel Jakobowicz</div>
+<div class="reviewer">Eric Tang</div>
+<div class="reviewer">Fatma Tarlaci</div>
+<div class="reviewer">Felipe Schuch</div>
+<div class="reviewer">Gabriela de Queiroz</div>
+<div class="reviewer">Gajendra Deshpande</div>
+<div class="reviewer">Gaurav Kumar Jain</div>
+<div class="reviewer">Gautam Kishore Shahi</div>
+<div class="reviewer">George Bisbas</div>
+<div class="reviewer">Hannah Bohle</div>
+<div class="reviewer">Hans Fangohr</div>
+<div class="reviewer">Haruna Abdu</div>
+<div class="reviewer">Hasan Celik</div>
+<div class="reviewer">Ignacio Vergara</div>
+<div class="reviewer">Immanuel Bayer</div>
+<div class="reviewer">Ioannis K Breier</div>
+<div class="reviewer">Jacob Lee</div>
+<div class="reviewer">Jairo Jose Niño Perez</div>
+<div class="reviewer">Jana Lasser</div>
+<div class="reviewer">Jeff Sternberg</div>
+<div class="reviewer">John Lam</div>
+<div class="reviewer">John Park</div>
+<div class="reviewer">Joseph Lucas</div>
+<div class="reviewer">Juan Cruz-Benito</div>
+<div class="reviewer">Krishna Muriki</div>
+<div class="reviewer">Krüger Frank</div>
+<div class="reviewer">Lauren Oldja</div>
+<div class="reviewer">Lindsey Heagy</div>
+<div class="reviewer">Luca Soato</div>
+<div class="reviewer">Lucas Durand</div>
+<div class="reviewer">Lyudmila Vaseva</div>
+<div class="reviewer">Magdalena Wiercioch</div>
+<div class="reviewer">Magdalena Zielinska</div>
+<div class="reviewer">Manan Dey</div>
+<div class="reviewer">Manu Ram Pandit</div>
+<div class="reviewer">Marcin Abram</div>
+<div class="reviewer">Maria Khalusova</div>
+<div class="reviewer">Marianne Corvellec</div>
+<div class="reviewer">Marielle Dado</div>
+<div class="reviewer">Mario D'AMore</div>
+<div class="reviewer">Markus Erwee</div>
+<div class="reviewer">Maryam Jahanshahi</div>
+<div class="reviewer">Matthias Busch</div>
+<div class="reviewer">Matthias Bussonnier</div>
+<div class="reviewer">Maureira-Fredes Cristian</div>
+<div class="reviewer">Mickael Delattre</div>
+<div class="reviewer">Miguel Galeano</div>
+<div class="reviewer">Min Ragan-Kelley</div>
+<div class="reviewer">Mojtaba Barzegari</div>
+<div class="reviewer">Mor Sondak</div>
+<div class="reviewer">Nicolás Guarín-Zapata</div>
+<div class="reviewer">Noa Malem-Shinitski</div>
+<div class="reviewer">Palese Emanuele</div>
+<div class="reviewer">Paul Nagy</div>
+<div class="reviewer">Philipp Rudiger</div>
+<div class="reviewer">Pramit Choudhary</div>
+<div class="reviewer">Priya Joseph</div>
+<div class="reviewer">Raveen Beemsingh</div>
+<div class="reviewer">Richard Meinsen</div>
+<div class="reviewer">Rollin Thomas</div>
+<div class="reviewer">Romit Mehta</div>
+<div class="reviewer">Ryan Cooper</div>
+<div class="reviewer">Sebastien Fabbro</div>
+<div class="reviewer">Sergii Khomenko</div>
+<div class="reviewer">Shagun Sodhani</div>
+<div class="reviewer">Shanabrook Saul</div>
+<div class="reviewer">Sheeba Samuel</div>
+<div class="reviewer">Shinichi Okada</div>
+<div class="reviewer">Shivay Lamba</div>
+<div class="reviewer">Shreyas Cholia</div>
+<div class="reviewer">Shruti Jadon</div>
+<div class="reviewer">Simone Perazzoli</div>
+<div class="reviewer">Stephen Pascoe</div>
+<div class="reviewer">Stuart Campbell</div>
+<div class="reviewer">Suhas Guruprasad</div>
+<div class="reviewer">Sukanya Mandal</div>
+<div class="reviewer">Sun Kerwin</div>
+<div class="reviewer">Susanne van Wagensveld</div>
+<div class="reviewer">Sylvain Corlay</div>
+<div class="reviewer">Tania Allard</div>
+<div class="reviewer">Tiffany Timbers</div>
+<div class="reviewer">Tim Head</div>
+<div class="reviewer">Vidar Fauske</div>
+<div class="reviewer">Vijay Sharma</div>
+<div class="reviewer">Vittorio Iacovella</div>
+<div class="reviewer">Watters Aaron</div>
+<div class="reviewer">Yasaswi Sri Chandra Gandhi Kilaru</div>
+</div>
+        </div>
         <DesktopFooter />
     </div>
 </template>
@@ -151,5 +285,14 @@
 
     .cfp-button {
         margin-top:auto;
+    }
+
+    .reviewerlist {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .reviewer {
+        min-width: 20em;
     }
 </style>
