@@ -82,7 +82,7 @@
 
         <div class="tickets white-background" id="Reviewers">
 
-            <h1>Community Reviewers</h1>
+            <h1  id="Reviewers" class="title">Community Reviewers</h1>
             <p>
             We would like to thank all of the community reviewers who reviewed talk, poster, and tutorial proposals. Listed below are the reviewers who completed all of their requested reviews by the deadline. Thank you!
             </p>
