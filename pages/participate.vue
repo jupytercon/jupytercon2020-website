@@ -83,18 +83,18 @@
         <BlockGreyOrange>
             <h1 id="tech-program-committee">Technical Program Committee</h1>
             <ul>
-            <li><b>Conference chair:</b> Lorena Barba</li>
-            <li><b>Conference cochair:</b> Sylvain Corlay</li>
+            <li><b>General Conference chair:</b> Lorena Barba</li>
+            <li><b>General Conference vice chair:</b> Sylvain Corlay</li>
             <li><b>Technical Program chair:</b> Jason Grout</li>
             <li><b>Tutorial cochairs:</b> Gerard Gorman, Tania Allard</li>
-            <li><b>Data Science Applications track cochairs:</b> Eric Ma, Gianluca Santarossa, Sarah Guido</li>
-            <li><b>Enterprise Jupyter Infrastructure track cochairs:</b> Rollin Thomas, Sarah Gibson</li>
-            <li><b>Jupyter Community: Tools and Practices track cochairs:</b> Doug Blank, Hannah Aizenman, Tony Hirst</li>
-            <li><b>Jupyter Core Technologies track cochairs:</b> M Pacer, Matthias Bussonier</li>
-            <li><b>Jupyter in Education track cochairs:</b> Elizabeth Wickes, Jason Williams</li>
-            <li><b>Jupyter in scientific research track cochairs:</b> Hans Fangohr, Lindsey Heagy</li>
-            <li><b>Lightning Talk track cochairs:</b> Paul Ivanov, Tracy Teal</li>
-            <li><b>Poster track cochairs:</b> Damian Avila, Julia Wagemann</li>
+            <li><b>Data Science Applications track co-chairs:</b> Eric Ma, Gianluca Santarossa, Sarah Guido</li>
+            <li><b>Enterprise Jupyter Infrastructure track co-chairs:</b> Rollin Thomas, Sarah Gibson</li>
+            <li><b>Jupyter Community: Tools and Practices track co-chairs:</b> Doug Blank, Hannah Aizenman, Tony Hirst</li>
+            <li><b>Jupyter Core Technologies track co-chairs:</b> M Pacer, Matthias Bussonier</li>
+            <li><b>Jupyter in Education track co-chairs:</b> Elizabeth Wickes, Jason Williams</li>
+            <li><b>Jupyter in scientific research track co-chairs:</b> Hans Fangohr, Lindsey Heagy</li>
+            <li><b>Lightning Talk track co-chairs:</b> Paul Ivanov, Tracy Teal</li>
+            <li><b>Poster track co-chairs:</b> Damian Avila, Julia Wagemann</li>
             </ul>
         </BlockGreyOrange>
 
