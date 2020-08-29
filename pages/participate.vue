@@ -80,9 +80,27 @@
   
         </div>
 
-        <div class="tickets white-background" id="Reviewers">
+        <BlockGreyOrange>
+            <h1 id="tech-program-committee">Technical Program Committee</h1>
+            <ul>
+            <li><b>General Conference chair:</b> Lorena Barba</li>
+            <li><b>General Conference vice chair:</b> Sylvain Corlay</li>
+            <li><b>Technical Program chair:</b> Jason Grout</li>
+            <li><b>Tutorial cochairs:</b> Gerard Gorman, Tania Allard</li>
+            <li><b>Data Science Applications track co-chairs:</b> Eric Ma, Gianluca Santarossa, Sarah Guido</li>
+            <li><b>Enterprise Jupyter Infrastructure track co-chairs:</b> Rollin Thomas, Sarah Gibson</li>
+            <li><b>Jupyter Community: Tools and Practices track co-chairs:</b> Doug Blank, Hannah Aizenman, Tony Hirst</li>
+            <li><b>Jupyter Core Technologies track co-chairs:</b> M Pacer, Matthias Bussonier</li>
+            <li><b>Jupyter in Education track co-chairs:</b> Elizabeth Wickes, Jason Williams</li>
+            <li><b>Jupyter in scientific research track co-chairs:</b> Hans Fangohr, Lindsey Heagy</li>
+            <li><b>Lightning Talk track co-chairs:</b> Paul Ivanov, Tracy Teal</li>
+            <li><b>Poster track co-chairs:</b> Damian Avila, Julia Wagemann</li>
+            </ul>
+        </BlockGreyOrange>
 
-            <h1>Community Reviewers</h1>
+        <div class="tickets white-background">
+
+        <h1 id="Reviewers">Community Reviewers</h1>
             <p>
             We would like to thank all of the community reviewers who reviewed talk, poster, and tutorial proposals. Listed below are the reviewers who completed all of their requested reviews by the deadline. Thank you!
             </p>
