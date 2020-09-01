@@ -190,6 +190,15 @@
                         description: "Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.",
                         image: require("~/assets/images/sponsors/jupyter.png")
                     },
+                    {
+                        twitterLink: "https://twitter.com/JuliaLanguage",
+                        twitterHandle: "@JuliaLanguage",
+                        name: "The Julia Language",
+                        location: "Global",
+                        description: "A fresh approach to technical computing.",
+                        image: require("~/assets/images/sponsors/julia-logo-color.png"),
+                        website: "https://julialang.org",
+                    },
                 ]
             }
         },
