@@ -258,6 +258,15 @@
                         image: require("~/assets/images/sponsors/spainAI-logo-fondoTransparente.png"),
                         website: "http://www.spain-ai.com/",
                     },
+                    {
+                        twitterLink: "https://twitter.com/JuliaLanguage",
+                        twitterHandle: "@JuliaLanguage",
+                        name: "The Julia Language",
+                        location: "Global",
+                        description: "A fresh approach to technical computing.",
+                        image: require("https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png"),
+                        website: "https://julialang.org",
+                    },
                 ]
             }
         },
