@@ -54,7 +54,10 @@
                         { label: 'Propose a talk or poster', to: "/talk-poster-cfp/" },
                         { label: 'Propose a tutorial', to: "/tutorial-cfp/" },
                         { label: 'Propose a sprint', to: "/sprint/" },
-                        'Financial Aid'
+                        'Financial Aid',
+                        { label: 'Technical Program Committee', to: '/participate/#tech-program-committee'},
+                        { label: 'Community Reviewers', to: '/participate/#Reviewers'}
+
                     ]
                 }, {
                     label: 'Program',
@@ -68,9 +71,9 @@
                     label: 'Sponsors',
                     to: '/sponsors/',
                     items: [
-                        'Sponsoring',
                         'Sponsors',
-                        'Community Sponsors'
+                        'Sponsoring',
+                        { label: 'Community Sponsors', to: "/community-sponsors/" },
                     ]
                 }]
             }
