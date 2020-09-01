@@ -264,7 +264,7 @@
                         name: "The Julia Language",
                         location: "Global",
                         description: "A fresh approach to technical computing.",
-                        image: require("https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png"),
+                        image: require("~/assets/images/sponsors/julia-logo-color.png"),
                         website: "https://julialang.org",
                     },
                 ]
