@@ -199,6 +199,15 @@
                         image: require("~/assets/images/sponsors/julia-logo-color.png"),
                         website: "https://julialang.org",
                     },
+                    {
+                        twitterLink: "https://twitter.com/pydatasw",
+                        twitterHandle: "@pydatasw",
+                        name: "PyData Südwest",
+                        location: "Southwest Germany",
+                        description: "Southwest Germany chapter [Karlsruhe, Mannheim, Heidelberg, Stuttgart] with a unique mix of academia and industry.",
+                        image: require("~/assets/images/sponsors/pydata-sudwest.png"),
+                        website: "https://sw.pydata.de",
+                    },
                 ]
             }
         },
