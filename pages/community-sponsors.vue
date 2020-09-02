@@ -199,6 +199,33 @@ community_sponsors: [
                         image: require("~/assets/images/sponsors/spainAI-logo-fondoTransparente.png"),
                         website: "http://www.spain-ai.com/",
                     },
+                    {
+                        twitterLink: "https://twitter.com/pydataparis",
+                        twitterHandle: "@pydataparis",
+                        name: "PyData Paris",
+                        location: "Paris",
+                        description: "The Paris chapter of the PyData meetup is a growing community of enthusiasts for open-source scientific computing.",
+                        image: require("~/assets/images/sponsors/pydata.png"),
+                        website: "https://www.meetup.com/PyData-Paris/",
+                    },
+                    {
+                        twitterLink: "https://twitter.com/JuliaLanguage",
+                        twitterHandle: "@JuliaLanguage",
+                        name: "The Julia Language",
+                        location: "Global",
+                        description: "Julia is a high-level, high-performance, dynamic programming language. While it is a general purpose language and can be used to write any application, many of its features are well-suited for numerical analysis and computational science.",
+                        image: require("~/assets/images/sponsors/julia-logo-color.png"),
+                        website: "https://julialang.org",
+                    },                    
+                    {
+                        twitterLink: "https://twitter.com/pydatasw",
+                        twitterHandle: "@pydatasw",
+                        name: "PyData Südwest",
+                        location: "Southwest Germany",
+                        description: "Southwest Germany chapter [Karlsruhe, Mannheim, Heidelberg, Stuttgart] with a unique mix of academia and industry.",
+                        image: require("~/assets/images/sponsors/pydata-sudwest.png"),
+                        website: "https://sw.pydata.de",
+                    },
                 ]
             }
         },
