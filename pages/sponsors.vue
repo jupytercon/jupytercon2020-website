@@ -189,25 +189,7 @@
                         link: "https://jupyter.org/",	
                         description: "Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.",
                         image: require("~/assets/images/sponsors/jupyter.png")
-                    },
-                    {
-                        twitterLink: "https://twitter.com/JuliaLanguage",
-                        twitterHandle: "@JuliaLanguage",
-                        name: "The Julia Language",
-                        location: "Global",
-                        description: "A fresh approach to technical computing.",
-                        image: require("~/assets/images/sponsors/julia-logo-color.png"),
-                        website: "https://julialang.org",
-                    },
-                    {
-                        twitterLink: "https://twitter.com/pydatasw",
-                        twitterHandle: "@pydatasw",
-                        name: "PyData Südwest",
-                        location: "Southwest Germany",
-                        description: "Southwest Germany chapter [Karlsruhe, Mannheim, Heidelberg, Stuttgart] with a unique mix of academia and industry.",
-                        image: require("~/assets/images/sponsors/pydata-sudwest.png"),
-                        website: "https://sw.pydata.de",
-                    },
+                    }
                 ]
             }
         },
