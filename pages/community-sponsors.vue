@@ -226,6 +226,15 @@ community_sponsors: [
                         image: require("~/assets/images/sponsors/pydata-sudwest.png"),
                         website: "https://sw.pydata.de",
                     },
+                    {
+                        twitterLink: "https://twitter.com/womenaintech",
+                        twitterHandle: "@WOMENAinTech",
+                        name: "Women of MENA In Technology",
+                        location: "Global (* update logo *)",
+                        description: "Women Of MENA In Technology is a Non-Profit 501(c)(3) Organization establish in Silicon Valley in 2015 with a mission to close the diversity and gender gap in STEM by connecting, mentoring, educating and elevating Middle Eastern and North African women in STEM globally.  We have over 20,000 community members, 90% of whom identify as technical and self-reported as engineers, data scientists, researchers, founders, intrapreneurs, entrepreneurs, innovators and investors. Join us to elevate, support, and catalyze diverse Women in STEM.",
+                        image: require("~/assets/images/sponsors/pydata-sudwest.png"),
+                        website: "http://womenofmenaintechnology.com/",
+                    },
                 ]
             }
         },
