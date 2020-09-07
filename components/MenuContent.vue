@@ -13,7 +13,7 @@
                                         v-if="typeof item === 'string'"
                                         :to="{ path: block.to, hash: item }"
                                 >- {{ item }}</nuxt-link>
-                                <a v-if="typeof item === 'object' && item.url" :href="item.url"
+                                <a v-if="typeof item === 'object' && item.url" :href="item.url" target="_blank"
                                 >- {{ item.label }}</a>
                                 <nuxt-link
                                         v-if="typeof item === 'object' && !item.url"
@@ -43,7 +43,8 @@
                         { label: 'Code of Conduct', to: '/codeofconduct/' },
                         { label: 'Diversity', to: "/diversity/" },
                         { label: 'COVID-19 Statement', to: '/covid-19-statement/' },
-                        { label: 'Blog', to: '/blog/' }
+                        { label: 'Blog', to: '/blog/' },
+                        { label: 'Shop', url: 'https://shop.spreadshirt.com/jupytercon/' }
                     ]
                 }, {
                     label: 'Participate',
