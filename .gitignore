@@ -7,3 +7,8 @@ menu-footer/src/components/BlockHeaderPlain.vue
 menu-footer/src/components/DesktopFooter.vue
 menu-footer/src/components/MenuBar.vue
 menu-footer/src/components/MenuContent.vue
+
+# source files for the program generation
+scripts/*.csv
+
+.vscode
