@@ -6,7 +6,7 @@ import pandas as pd
 SESSIONS_SPEAKERS = '2020-09-03-presentation-speakers.csv'
 SESSIONS = '2020-09-07-sessions.csv'
 CONFIRM_COLUMN = 'Confirmed (Y=confirm, N=Deny, P=confirm/switch to poster)'
-OUT = '../pages/talks.vue'
+OUT = '../pages/program.vue'
 
 sessions_speakers = pd.read_csv(SESSIONS_SPEAKERS)
 
@@ -22,12 +22,12 @@ data = indent(joined.to_json(orient='records', indent=4), prefix=' ' * 16)
 page = f"""
 <template>
     <div>
-        <BlockHeaderPlain title="Confirmed Talks">
+        <BlockHeaderPlain title="Program">
             <template v-slot:side-content>
             </template>
         </BlockHeaderPlain>
         <div class="main">
-            <h1>List of Confirmed Talks</h1>
+            <h1>List of Talks (preview)</h1>
             <div :key="talk.Number" v-for="talk in talks">
                 <h2>{{{{ talk.Title }}}}</h2>
             </div>

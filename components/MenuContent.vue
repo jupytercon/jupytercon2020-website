@@ -63,8 +63,8 @@
                     label: 'Program',
                     to: '/program/',
                     items: [
+                        { label: 'Talks', to: '/program/' },
                         { label: 'Speaker Guide', to: '/speaker-guide/' },
-                        { label: 'Confirmed Talks', to: '/talks/' },
                     ]
                 }, {
                     label: 'Sponsors',
