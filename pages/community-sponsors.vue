@@ -6,9 +6,9 @@
         </BlockHeaderPlain>
         <div class="main">
             <h1>Community Sponsors</h1>
-                <p>If your affinity group would like to partner with us:  
-                    <ul>   
-                        <li>complete the <a href="https://forms.gle/3kQSGcChimkwuyhM8">Community Partner Form</a></li>  
+                <p>If your affinity group would like to partner with us:
+                    <ul>
+                        <li>complete the <a href="https://forms.gle/3kQSGcChimkwuyhM8">Community Partner Form</a></li>
                         <li>email us with any questions: <a href="mailto:jupytercon-diversity@numfocus.org">jupytercon-diversity@numfocus.org</a></li>
                     </ul>
                 </p>
@@ -216,7 +216,7 @@ community_sponsors: [
                         description: "Julia is a high-level, high-performance, dynamic programming language. While it is a general purpose language and can be used to write any application, many of its features are well-suited for numerical analysis and computational science.",
                         image: require("~/assets/images/sponsors/julia-logo-color.png"),
                         website: "https://julialang.org",
-                    },                    
+                    },
                     {
                         twitterLink: "https://twitter.com/pydatasw",
                         twitterHandle: "@pydatasw",
@@ -225,6 +225,15 @@ community_sponsors: [
                         description: "Southwest Germany chapter [Karlsruhe, Mannheim, Heidelberg, Stuttgart] with a unique mix of academia and industry.",
                         image: require("~/assets/images/sponsors/pydata-sudwest.png"),
                         website: "https://sw.pydata.de",
+                    },
+                    {
+                        twitterLink: "https://twitter.com/womenaintech",
+                        twitterHandle: "@WOMENAinTech",
+                        name: "Women of MENA In Technology",
+                        location: "Global",
+                        description: "Women Of MENA In Technology is a Non-Profit 501(c)(3) Organization establish in Silicon Valley in 2015 with a mission to close the diversity and gender gap in STEM by connecting, mentoring, educating and elevating Middle Eastern and North African women in STEM globally.  We have over 20,000 community members, 90% of whom identify as technical and self-reported as engineers, data scientists, researchers, founders, intrapreneurs, entrepreneurs, innovators and investors. Join us to elevate, support, and catalyze diverse Women in STEM.",
+                        image: require("~/assets/images/sponsors/women-mena-tech.png"),
+                        website: "http://womenofmenaintechnology.com/",
                     },
                 ]
             }
