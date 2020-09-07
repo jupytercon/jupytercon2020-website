@@ -8,13 +8,20 @@
             </template>
             <template v-slot:content>
                 <div class="header-content">
-                    <h2>Program</h2>
+                    <h2>Speaker Guide</h2>
                     <slot>
+                        <p>
+                            All the important information you will need as a speaker.
+                        </p>
+                        <nuxt-link class="speaker-guide-button button" to="/speaker-guide/">Read the Speaker Guide</nuxt-link>
                     </slot>
                 </div>
 
             </template>
         </BlockHeader>
+
+        <h1 id="Program">Program</h1>
+
         <DesktopFooter />
     </div>
 </template>
@@ -34,6 +41,7 @@
 <style lang="scss" scoped>
     @import 'assets/scss/settings';
     @import 'assets/scss/common';
+
     .location-name {
         color: $figma-orange;
     }
@@ -58,5 +66,11 @@
 
     .disabled {
         pointer-events: none;
+    }
+
+    .speaker-guide-button {
+        margin-top:auto;
+        border-color: white;
+        color: white;
     }
 </style>
