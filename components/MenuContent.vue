@@ -61,11 +61,10 @@
                     ]
                 }, {
                     label: 'Program',
-                    disabled: true,
+                    to: '/program/',
                     items: [
-                        'Schedule',
-                        'Social events',
-                        'Tips for attendees'
+                        'Speaker Guide',
+                        'Confirmed Talks'
                     ]
                 }, {
                     label: 'Sponsors',
