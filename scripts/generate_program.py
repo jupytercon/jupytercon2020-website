@@ -31,11 +31,11 @@ page = f"""
             <p>
                 <em>The full program and schedule will be available soon.</em>
             </p>
-            <ul v-for="talk in talks">
+            <ul :key="talk.Number" v-for="talk in program">
                 <li>{{{{ talk.Title }}}}</li>
             </ul>
-            </div>
         </div>
+        <DesktopFooter />
     </div>
 </template>
 
@@ -44,10 +44,10 @@ page = f"""
     import DesktopFooter from "../components/DesktopFooter";
 
     export default {{
-        name: "talks",
+        name: "program",
         data() {{
             return {{
-                talks: {data}
+                program: {data}
             }}
         }},
         components: {{DesktopFooter, BlockHeaderPlain}}
