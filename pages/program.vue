@@ -10,11 +10,11 @@
             <p>
                 <em>The full program and schedule will be available soon.</em>
             </p>
-            <ul v-for="talk in talks">
+            <ul :key="talk.Number" v-for="talk in program">
                 <li>{{ talk.Title }}</li>
             </ul>
-            </div>
         </div>
+        <DesktopFooter />
     </div>
 </template>
 
@@ -23,10 +23,10 @@
     import DesktopFooter from "../components/DesktopFooter";
 
     export default {
-        name: "talks",
+        name: "program",
         data() {
             return {
-                talks:                 [
+                program:                 [
                     {
                         "Number":8,
                         "Title":"fastpages - A new, open source Jupyter notebook blogging system."
