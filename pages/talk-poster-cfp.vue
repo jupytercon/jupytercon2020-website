@@ -25,7 +25,7 @@
             <p>
             Authors submit proposals by <s>Monday, July 20, 2020</s> Wednesday, July 22, 2020 (<a href="https://en.wikipedia.org/wiki/Anywhere_on_Earth">Anywhere on Earth</a>)<br/>
             Authors receive proposal accept/decline decision August 10-12, 2020<br/>
-            Authors upload talks by September 11, 2020<br/>
+            Authors upload talks by <s>September 11, 2020</s> September 18, 2020<br/>
             </p>
 
             <a class="button" :href="pyDataBaseUrl">Proposal System (Submissions are closed)</a>
