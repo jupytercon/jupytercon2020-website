@@ -28,8 +28,12 @@ page = f"""
         </BlockHeaderPlain>
         <div class="main">
             <h1>List of Talks (preview)</h1>
-            <div :key="talk.Number" v-for="talk in talks">
-                <h2>{{{{ talk.Title }}}}</h2>
+            <p>
+                <em>The full program and schedule will be available soon.</em>
+            </p>
+            <ul v-for="talk in talks">
+                <li>{{{{ talk.Title }}}}</li>
+            </ul>
             </div>
         </div>
     </div>
