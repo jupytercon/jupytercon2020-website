@@ -25,9 +25,11 @@ https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851
                 <h2>Propose a tutorial</h2>
                     <slot> The JupyterCon organizing committee would like to invite all commmunity members to submit a tutorial for JupyterCon 2020. 
                     </slot>
+                    <br>
+                    <br>
                     <slot>
-                                <a class="button" style="border-color: white; color: white; margin-top: 20px"  :href="pyDataBaseUrl">Proposal System (Submissions are closed)</a>
-                                </slot>
+                    <em>Proposal submissions are now closed.</em>
+                    </slot>
                 </div>
 
             </template>
@@ -42,8 +44,6 @@ https://www.flickr.com/photos/oreillyconf/44286557691/in/album-72157698903074851
             Authors receive proposal accept/decline decision August 10-12, 2020<br/>
             Authors upload talks by <s>September 11, 2020</s> September 18, 2020<br/>
             </p>
-
-            <a class="button" :href="pyDataBaseUrl">Proposal System (Submissions are closed)</a>
 
             <h2>Guidelines for proposal submission</h2>
 
