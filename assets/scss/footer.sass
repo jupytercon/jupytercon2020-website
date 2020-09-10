@@ -3,6 +3,7 @@
 .jc-footer
   position: relative
   background: $figma-grey
+  padding-bottom: 5px
 
   .logo
     position: absolute
@@ -11,13 +12,6 @@
     left: 86px
     top: 87px
     background: url(~assets/svg/empty-icon.svg)
-
-  .terms
-    margin-left: 270px
-    padding-bottom: 65px
-    font-family: $figma-font-ibm
-    color: #9E9E9E
-    font-size: 14px
 
   .footer-links
     padding-top: 87px
@@ -45,3 +39,34 @@
       font-size: 24px
       margin-bottom: 6px
       color: $figma-orange
+
+  .links
+    text-align: center
+    display: flex
+    display-direction: row
+    align-items: center
+    margin-left: 270px
+    margin-right: 100px
+
+    .social-icons
+      display: flex
+      display-direction: row
+      flex-grow: 1
+
+    .social-icon
+      height: 24px
+      width: 24px
+      margin: 2px
+
+    .twitter-icon
+      background: url(~assets/svg/twitter.svg) no-repeat
+      background-size: 24px 24px
+
+    .youtube-icon
+      background: url(~assets/svg/youtube.svg) no-repeat
+      background-size: 24px 24px
+
+    .terms
+      font-family: $figma-font-ibm
+      color: #9E9E9E
+      font-size: 14px
