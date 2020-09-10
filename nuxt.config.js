@@ -2,8 +2,6 @@ const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
     base: '/jupytercon2020-website/'
 } : {}
 
-console.log('routerbase', routerBase)
-
 export default {
   mode: 'universal',
   /*
