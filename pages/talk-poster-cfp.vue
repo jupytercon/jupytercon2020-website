@@ -72,7 +72,7 @@
 
                     <p>Talks that address the community tooling and best practices in the Jupyter ecosystem. Community tools include frontends, kernels, extensions, and other tools in the Jupyter ecosystem. Community practices include how Jupyter is used in a workflow and introspection into the Jupyter community itself.</p>
 
-            <h2>Posters at JupyterCon 2020</h2>
+            <h2 id="posters">Posters at JupyterCon 2020</h2>
     <img src="~assets/images/poster.jpg" class="float-right" style="margin-left:30px;"/>
                 <p>
                     The poster session is a forum for ideas to be presented in a concise, visually appealing way. Posters can be work in progress or the highlights of a project you would like to share and discuss. Posters are shared as a static pdf file. We also encourage you to consider linking to an ‘executable’ and ‘interactive’ poster, such as a <a href="https://voila.readthedocs.io/en/stable/">Voilà dashboard</a>. Show us how you tell stories with Jupyter.
@@ -85,8 +85,8 @@
                 </p>
 
                 <ul>
-                    <li> A small thumbnail image (JPG or PNG) for our poster gallery</li>
-                    <li> A poster pdf file</li>
+                    <li> A small thumbnail image (JPG or PNG) for our poster gallery (1280x720 pixels)</li>
+                    <li> A poster pdf file (preferred size: A2, 16.5 x 23.4 inches)</li>
                     <li> A short description, which may include a link to an interactive site, such as a Voilà dashboard</li>
                     <li> A short video (at most 2 minutes) introducing your project</li>
                 </ul>
