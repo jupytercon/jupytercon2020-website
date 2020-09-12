@@ -86,7 +86,7 @@
 
                 <ul>
                     <li> A small thumbnail image (JPG or PNG) for our poster gallery (1280x720 pixels)</li>
-                    <li> A poster pdf file (preferred size: A2 or 16.5 x 23.4 inches)</li>
+                    <li> A poster pdf file (preferred size: A2, 16.5 x 23.4 inches)</li>
                     <li> A short description, which may include a link to an interactive site, such as a Voilà dashboard</li>
                     <li> A short video (at most 2 minutes) introducing your project</li>
                 </ul>
