@@ -175,18 +175,24 @@
                     {
                         name: "IBM",
                         link: "https://www.ibm.com",
-                        description: "IBM's goal is to lead in the creation, development, and manufacture of the industry’s most advanced information technologies, including computer systems, software, networking systems, storage devices, and microelectronics.", 
+                        description: "IBM's goal is to lead in the creation, development, and manufacture of the industry’s most advanced information technologies, including computer systems, software, networking systems, storage devices, and microelectronics.",
                         image: require("~/assets/images/sponsors/ibm.png")
+                    },
+                    {
+                        name: "InfuseAI",
+                        link: "https://www.infuseai.io",
+                        description: "InfuseAI is a machine learning company whose goal is to equip enterprises with an effortless entrance into the world of artificial intelligence. Their machine learning platform, PrimeHub, enables top-rated educational and financial institutions in Taiwan to capitalize on their teams’ true productivity while collaborating in multi-user Jupyter environments. In a matter of seconds, admins can configure resources and environment settings for their teams, so that their teams can spend more time doing what they love. PrimeHub paves the way for productivity, collaboration, and innovation across industries.",
+                        image: require("~/assets/images/sponsors/infuseai.png")
                     }
                 ],
                 core: [
                     {
-                        link: "https://numfocus.org/",	
-                        description: "The mission of NumFOCUS is to promote open practices in research, data, and scientific computing by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs.",	
+                        link: "https://numfocus.org/",
+                        description: "The mission of NumFOCUS is to promote open practices in research, data, and scientific computing by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs.",
                         image: require("~/assets/images/sponsors/NumFocus.png")
                     },
                     {
-                        link: "https://jupyter.org/",	
+                        link: "https://jupyter.org/",
                         description: "Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.",
                         image: require("~/assets/images/sponsors/jupyter.png")
                     }
