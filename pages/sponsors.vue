@@ -165,7 +165,7 @@
                 ],
                 silver: [
                     {
-                        name: "Nvidia",
+                        name: "NVidia",
                         link: "https://www.nvidia.com",
                         description: "Fueled by the insatiable demand for better 3D graphics, and the massive scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the exciting intersection of virtual reality, high performance computing, and artificial intelligence.",
                         image: require("~/assets/images/sponsors/nvidia.png")
