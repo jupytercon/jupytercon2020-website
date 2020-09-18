@@ -151,7 +151,7 @@
                     {
                         name: "Bloomberg",
                         link: "https://techatbloomberg.com",
-                        description: "Bloomberg is building the world’s most trusted information network for financial professionals. Our 6,000+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems",
+                        description: "Bloomberg is building the world’s most trusted information network for financial professionals. Our 6,000+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems.",
                         image: require("~/assets/images/sponsors/bloomberg.png"),
                     }
                 ],
