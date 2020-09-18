@@ -144,9 +144,15 @@
                 platinum: [
                     {
                         name: "OVHCloud",
-                        link: "https://www.ovh.com/",
+                        link: "https://www.ovh.com",
                         description: "OVHcloud provides everything you need for a successful online project: web hosting, domain names, dedicated servers, CDN, cloud environments, big data, and more.",
                         image: require("~/assets/images/sponsors/OVH.png"),
+                    },
+                    {
+                        name: "Bloomberg",
+                        link: "https://techatbloomberg.com",
+                        description: "Bloomberg is building the world’s most trusted information network for financial professionals. Our 6,000+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems.",
+                        image: require("~/assets/images/sponsors/bloomberg.png"),
                     }
                 ],
                 gold: [
@@ -187,12 +193,12 @@
                 ],
                 core: [
                     {
-                        link: "https://numfocus.org/",
+                        link: "https://numfocus.org",
                         description: "The mission of NumFOCUS is to promote open practices in research, data, and scientific computing by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs.",
                         image: require("~/assets/images/sponsors/NumFocus.png")
                     },
                     {
-                        link: "https://jupyter.org/",
+                        link: "https://jupyter.org",
                         description: "Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.",
                         image: require("~/assets/images/sponsors/jupyter.png")
                     }
