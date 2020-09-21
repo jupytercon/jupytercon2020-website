@@ -189,6 +189,12 @@
                         link: "https://www.infuseai.io",
                         description: "InfuseAI is a machine learning company whose goal is to equip enterprises with an effortless entrance into the world of artificial intelligence. Top-rated educational and financial institutions in Taiwan use its platform, PrimeHub, to collaborate in multi-user Jupyter environments. PrimeHub paves the way for productivity, collaboration, and innovation across industries.",
                         image: require("~/assets/images/sponsors/infuseai.png")
+                    },
+                    {
+                        name: "GitHub",
+                        link: "https://github.com",
+                        description: "GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 50 million developers.",
+                        image: require("~/assets/images/sponsors/github.png")
                     }
                 ],
                 core: [
