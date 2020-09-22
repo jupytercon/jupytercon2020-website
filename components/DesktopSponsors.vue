@@ -30,7 +30,7 @@ export default {
       return {
           sponsors: Object.keys(sponsors).flatMap(sponsor => {
               if (sponsors.hasOwnProperty(sponsor)) {
-                return sponsors[sponsor];
+                return sponsors[sponsor].filter(s => !!s.image);
               }
               return [];
           })
