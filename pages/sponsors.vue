@@ -140,7 +140,7 @@
         name: "proposals",
         components: {DesktopFooter, BlockHeaderPlain},
         data() {
-            return this.$store.state.sponsors
+            return { ...this.$store.state.sponsors }
         },
     }
 </script>
