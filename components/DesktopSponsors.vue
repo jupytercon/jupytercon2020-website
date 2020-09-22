@@ -9,7 +9,7 @@
           <nuxt-link class="button hollow" to="/sponsors/">View all</nuxt-link>
         </div>
       </div>
-      <no-ssr placeholder="Loading...">
+      <client-only placeholder="Loading...">
         <carousel class="logos" :loop="true" :perPage=3 :autoplay="true" :navigationEnabled="true">
           <slide class="small-3" :key="sponsor.link" v-for="sponsor in sponsors">
             <a :href="sponsor.link">
@@ -17,7 +17,7 @@
             </a>
           </slide>
         </carousel>
-      </no-ssr>
+      </client-only>
     </div>
   </div>
 </template>
@@ -30,7 +30,7 @@ export default {
       return {
           sponsors: Object.keys(sponsors).flatMap(sponsor => {
               if (sponsors.hasOwnProperty(sponsor)) {
-                return sponsors[sponsor];
+                return sponsors[sponsor].filter(s => !!s.image);
               }
               return [];
           })

@@ -46,7 +46,7 @@ export default {
   plugins: [
     '~/plugins/pydata.js',
     { src: '~/plugins/prevue.js', mode: 'client' },
-    { src: '~/plugins/vue-carousel', ssr: false },
+    { src: '~/plugins/vue-carousel', mode: 'client' },
   ],
   /*
   ** Nuxt.js dev-modules
