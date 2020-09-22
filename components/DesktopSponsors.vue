@@ -57,7 +57,7 @@ export default {
             margin-top: 18px
             width: 170px
 
-    h2
+    h1, h2
         color: $figma-orange
 
     .logos
