@@ -62,9 +62,9 @@
                     ]
                 }, {
                     label: 'Program',
-                    to: '/program/',
                     items: [
-                        { label: 'Talks', to: '/program/' },
+                        { label: 'Schedule - Talks', url: 'https://cfp.jupytercon.com/2020/schedule/general-sessions/' },
+                        { label: 'Schedule - Tutorials', url: 'https://cfp.jupytercon.com/2020/schedule/tutorial-sessions/' },
                         { label: 'Speaker Guide', to: '/speaker-guide/' },
                     ]
                 }, {
