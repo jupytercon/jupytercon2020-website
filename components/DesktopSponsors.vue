@@ -11,7 +11,7 @@
       </div>
       <client-only placeholder="Loading...">
         <carousel class="logos" :loop="true" :perPage=3 :autoplay="true" :navigationEnabled="true">
-          <slide class="small-3" :key="sponsor.link" v-for="sponsor in sponsors">
+          <slide title=" " class="small-3" :key="sponsor.link" v-for="sponsor in sponsors">
             <a :href="sponsor.link">
                 <img class="sponsor" :src="sponsor.image"/>
             </a>
@@ -26,10 +26,10 @@
 export default {
   name: "DesktopSponsors",
   data() {
-      const sponsors = this.$store.state.sponsors;
+      const sponsors = { ... this.$store.state.sponsors };
       return {
           sponsors: Object.keys(sponsors).flatMap(sponsor => {
-              if (sponsors.hasOwnProperty(sponsor)) {
+              if (Array.isArray(sponsors[sponsor])) {
                 return sponsors[sponsor].filter(s => !!s.image);
               }
               return [];
