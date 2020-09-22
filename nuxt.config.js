@@ -45,7 +45,7 @@ export default {
   */
   plugins: [
     '~/plugins/pydata.js',
-    {src: '~/plugins/prevue.js', mode: 'client'},
+    { src: '~/plugins/prevue.js', mode: 'client' },
     { src: '~/plugins/vue-carousel', ssr: false },
   ],
   /*

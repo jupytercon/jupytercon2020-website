@@ -10,34 +10,11 @@
         </div>
       </div>
       <no-ssr placeholder="Loading...">
-        <carousel class="grid-x logos" :perPage=3 :autoplay="true" :navigationEnabled="true">
-          <slide :key="sponsor.link" v-for="sponsor in core">
-            <div class="cell small-3">
-                <a :href="sponsor.link">
-                    <img class="sponsor" :src="sponsor.image"/>
-                </a>
-            </div>
-          </slide>
-          <slide :key="sponsor.link" v-for="sponsor in platinum">
-            <div class="cell small-3">
-                <a :href="sponsor.link">
-                    <img class="sponsor" :src="sponsor.image"/>
-                </a>
-            </div>
-          </slide>
-          <slide :key="sponsor.link" v-for="sponsor in silver">
-            <div class="cell small-3">
-                <a :href="sponsor.link">
-                    <img class="sponsor" :src="sponsor.image"/>
-                </a>
-            </div>
-          </slide>
-          <slide :key="sponsor.link" v-for="sponsor in bronze">
-            <div class="cell small-3">
-                <a :href="sponsor.link">
-                    <img class="sponsor" :src="sponsor.image"/>
-                </a>
-            </div>
+        <carousel class="logos" :perPage=3 :autoplay="true" :navigationEnabled="true">
+          <slide class="small-3" :key="sponsor.link" v-for="sponsor in sponsors">
+            <a :href="sponsor.link">
+                <img class="sponsor" :src="sponsor.image"/>
+            </a>
           </slide>
         </carousel>
       </no-ssr>
@@ -49,7 +26,15 @@
 export default {
   name: "DesktopSponsors",
   data() {
-    return this.$store.state.sponsors;
+      const sponsors = this.$store.state.sponsors;
+      return {
+          sponsors: Object.keys(sponsors).flatMap(sponsor => {
+              if (sponsors.hasOwnProperty(sponsor)) {
+                return sponsors[sponsor];
+              }
+              return [];
+          })
+      }
   },
 };
 </script>
