@@ -10,7 +10,16 @@
                                 href="https://www.eventbrite.com/e/jupytercon-2020-tickets-109183767588">
                             Register / Tickets
                         </a>
-                        <nuxt-link class="button hollow" :to="{path: '/covid-19-statement/'}">COVID-19 Statement</nuxt-link>
+                        <a
+                                class="button hollow"
+                                href="https://cfp.jupytercon.com/2020/schedule/general-sessions/">
+                            Talks
+                        </a>
+                        <a
+                                class="button hollow"
+                                href="https://cfp.jupytercon.com/2020/schedule/tutorial-sessions/">
+                            Tutorials
+                        </a>
                     </div>
                 </slot>
             </div>
