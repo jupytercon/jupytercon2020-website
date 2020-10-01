@@ -54,7 +54,6 @@
                         'Call for proposals',
                         { label: 'Propose a talk or poster', to: "/talk-poster-cfp/" },
                         { label: 'Propose a tutorial', to: "/tutorial-cfp/" },
-                        { label: 'Propose a sprint', to: "/sprint/" },
                         'Financial Aid',
                         { label: 'Technical Program Committee', to: '/participate/#tech-program-committee'},
                         { label: 'Community Reviewers', to: '/participate/#Reviewers'}
@@ -66,6 +65,7 @@
                         { label: 'Schedule - Talks', url: 'https://cfp.jupytercon.com/2020/schedule/general-sessions/' },
                         { label: 'Schedule - Tutorials', url: 'https://cfp.jupytercon.com/2020/schedule/tutorial-sessions/' },
                         { label: 'Speaker Guide', to: '/speaker-guide/' },
+                        { label: 'Sprint projects', to: "/sprint/" },
                     ]
                 }, {
                     label: 'Sponsors',
