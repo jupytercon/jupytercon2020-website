@@ -40,6 +40,13 @@ export const state = () => ({
           "Fueled by the insatiable demand for better 3D graphics, and the massive scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the exciting intersection of virtual reality, high performance computing, and artificial intelligence.",
         image: require("~/assets/images/sponsors/nvidia.png"),
       },
+      {
+        name: "TwoSigma",
+        link: "https://opensource.twosigma.com",
+        description:
+          "TODO",
+        image: require("~/assets/images/sponsors/twosigma.png"),
+      },
     ],
     bronze: [
       {
