@@ -66,6 +66,7 @@
                         { label: 'Schedule - Tutorials', url: 'https://cfp.jupytercon.com/2020/schedule/tutorial-sessions/' },
                         { label: 'Speaker Guide', to: '/speaker-guide/' },
                         { label: 'Sprint projects', to: "/sprint/" },
+                        { label: 'Attendee Experience', to: "/attendee-experience/" },
                     ]
                 }, {
                     label: 'Sponsors',
