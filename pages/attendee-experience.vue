@@ -22,6 +22,7 @@
                 Most of the presentations are pre-recorded, and the video will be released following the official schedules, and be available for on-demand watching in the course platform thereafter.
                 (Videos will become public on the JupyterCon YouTube channel at least two weeks after the conference ends.)
             </p>
+            <Tweet id="1312405705509535745"></Tweet>
             <p>
                 The tutorials, presented as online courses, will be complemented by live "office hours" with the speakers, peppered throughout the week.
                 These will be held using Webex Meetings, with great care to ensure the safe participation by all attendees.
@@ -51,8 +52,8 @@
             </ol>
             <p>
                 The keynote talks are live on Webex Events. We thought long and hard about the security measures to take to protect our community from things like bombing and trolling. The live portions of the programming are available to ticket holders, but the recordings will be made public after the conference has ended.
+                <a href="http://jupytercon.com/blog">Read about our fabulous keynote speakers in the Jupyter blog!</a>
             </p>
-            <a href="http://jupytercon.com/blog">Read about our fabulous keynote speakers in the Jupyter blog!</a>
             <p>
                 We are really excited about the way we integrated Jupyter into the authoring and delivery of the conference content. This is just the beginning, and we're sure improvements will be imagined and applied, but what is on offer starting today is a celebration of Jupyter, using Jupyter as the medium!
             </p>
