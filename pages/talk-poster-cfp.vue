@@ -107,7 +107,7 @@
 
                     <p>
                         The primary presenter should submit the proposal, and afterwards the proposal can be edited to add other authors.
-                    /p>
+                    </p>
 
                 <h3>Proposal</h3>
 
