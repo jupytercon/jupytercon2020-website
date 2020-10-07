@@ -73,6 +73,17 @@
                 <li>Each course has a Forum tab that takes you to the correct team and channel for that course. You can view Mattermost inside the course, or open in a new browser tab.</li>
                 <li>If you encounter any technical issues, email <a href="mailto:academy-support@numfocus.org">academy-support@numfocus.org</a></li>
             </ol>
+            <h2>JupyterHub and BinderHub</h2>
+            <p>
+                Participants have access to compute resources running on JupyterHub (for graded assignments) and BinderHub (for non-graded environments).
+            </p>
+            <p>
+                The resources <strong>per user</strong> are:
+            </p>
+            <ul>
+                <li>For regular courses: 1 CPU, 2 GB</li>
+                <li>For courses that require a GPU: 1 GPU (Nvidia Tesla v100 16GB), 8 CPU, 45 GB</li>
+            </ul>
         </div>
         <DesktopFooter />
     </div>
