@@ -140,6 +140,15 @@ sprint_projects: [
                         image: require("~/assets/images/sprints/empty.png"),
                         website: "https://github.com/executablebooks/thebe",
                     },
+                    {
+                        githubLink: "https://github.com/terminusdb/terminusdb-client-python",
+                        githubLinkText: "github.com/terminusdb/terminusdb-client-python",
+                        name: "TerminusDB",
+                        timezone: "Europe UTC+1",
+                        description: "TerminusDB is an open-source full-featured in-memory graph database management system that stores data like git. The Python client looks to improve the interactive knowledge graph visualization in Jupyter notebook. Make user experience better.",
+                        image: require("~/assets/images/sprints/logo-terminusdb.png"),
+                        website: "https://terminusdb.com/",
+                    },
                 ]
             }
         },
