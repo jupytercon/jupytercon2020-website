@@ -11,63 +11,66 @@
             </p>
 
             <h2>Monday, October 12</h2>
-            <h3>Google | 15:30-16:00</h3>
-
             <p>
+                <a href="https://jupytercon.webex.com/meet/google">Google | 15:30-16:00</a><br>
                 <strong>Interactive development with Apache Beam & Dataflow</strong><br>
                 Speaker: Reza Rokni
             </p>
 
             <h2>Tuesday, October 13</h2>
-            <h3>Google | 15:30-16:00</h3>
             <p>
+                <a href="https://jupytercon.webex.com/meet/google">Google | 15:30-16:00</a><br>
                 <strong>TensorFlow on GCP</strong><br>
                 Speaker: Karl Weinmeister
             </p>
 
-            <h3>Google | 18:00-18:30</h3>
             <p>
+                <a href="https://jupytercon.webex.com/meet/google">Google | 18:00-18:30</a><br>
                 <strong>Scaling up data analysis from notebooks using BigQuery</strong><br>
                 Speaker: Lak Lakshmanan
             </p>
 
             <h2>Wednesday, October 14</h2>
-            <h3>Google | 15:30-16:00</h3>
             <p>
+                <a href="https://jupytercon.webex.com/meet/google">Google | 15:30-16:00</a><br>
                 <strong>CTO Discussion</strong><br>
                 Speaker: Jeff Sternberg
             </p>
 
             <h2>Thursday, October 15</h2>
-            <h3>Google | 18:00-18:30</h3>
             <p>
+                <a href="https://jupytercon.webex.com/meet/google">Google | 18:00-18:30</a><br>
                 <strong>ML Ops with Kubeflow Pipelines from a notebook</strong><br>
                 Speaker: Amy Unruh
             </p>
 
-            <h3>Facebook | 18:00-18:30</h3>
             <p>
-                <strong>Notebook Authoring - Language Experiences (LSP). Come learn how we're improving notebook authoring experiences with LSP!
-5-10 presentation with 10 minutes Q&A</strong><br>
+                <a href="https://jupytercon.webex.com/meet/facebook">Facebook | 18:00-18:30</a><br>
+                <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
+                <strong>Come learn how we're improving notebook authoring experiences with LSP!</strong><br>
+                <strong>5-10 presentation with 10 minutes Q&A</strong><br>
                 Hosts: Omer Dunay and Daniel Cheng, Software Engineers
             </p>
 
-            <h3>Facebook | 18:00-18:30</h3>
             <p>
-                <strong>Designing Notebooks at Facebook. Come learn how we're designing the user experience for notebooks at Facebook!
-5-10 presentation with 10 minutes Q&A</strong><br>
+                <a href="https://jupytercon.webex.com/meet/facebook">Facebook | 18:00-18:30</a><br>
+                <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
+                <strong>Come learn how we're improving notebook authoring experiences with LSP!</strong><br>
+                <strong>5-10 presentation with 10 minutes Q&A</strong><br>
                 Hosts: JP Hennessy, Product Designer, and Jordan Eschler, User Experience Researcher
             </p>
 
             <h2>Friday, October 16</h2>
             <h3>InfuseAi | 00:00-01:00</h3>
             <p>
-                <strong>Introduction to Primehub; Notebook-native workflow – submitting jobs within PrimeHub with Q&A</strong><br>
+                <strong>Introduction to Primehub</strong><br>
+                <strong>Notebook-native workflow – submitting jobs within PrimeHub with Q&A</strong><br>
                 Host: Engineering Team
             </p>
             <h3>InfuseAi | 09:00-10:00</h3>
             <p>
-                <strong>Introduction to Primehub; Notebook-native workflow – submitting jobs within PrimeHub with Q&A</strong><br>
+                <strong>Introduction to Primehub</strong><br>
+                <strong>Notebook-native workflow – submitting jobs within PrimeHub with Q&A</strong><br>
                 Host: Engineering Team
             </p>
         </div>
