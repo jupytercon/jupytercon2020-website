@@ -11,68 +11,188 @@
             </p>
 
             <h2>Monday, October 12</h2>
-            <p>
-                <a href="https://jupytercon.webex.com/meet/google">Google | 15:30-16:00</a><br>
-                <strong>Interactive development with Apache Beam & Dataflow</strong><br>
-                Speaker: Reza Rokni
-            </p>
+            <div class="grid-container sponsors">
+                <div class="grid-y">
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png"/>
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/google">15:30-16:00</a><br>
+                                    <strong>Interactive development with Apache Beam & Dataflow</strong><br>
+                                    Speaker: Reza Rokni
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
 
             <h2>Tuesday, October 13</h2>
-            <p>
-                <a href="https://jupytercon.webex.com/meet/google">Google | 15:30-16:00</a><br>
-                <strong>TensorFlow on GCP</strong><br>
-                Speaker: Karl Weinmeister
-            </p>
 
-            <p>
-                <a href="https://jupytercon.webex.com/meet/google">Google | 18:00-18:30</a><br>
-                <strong>Scaling up data analysis from notebooks using BigQuery</strong><br>
-                Speaker: Lak Lakshmanan
-            </p>
+            <div class="grid-container sponsors">
+                <div class="grid-y">
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png"/>
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/google">15:30-16:00</a><br>
+                                    <strong>TensorFlow on GCP</strong><br>
+                                    Speaker: Karl Weinmeister
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="grid-container sponsors">
+                <div class="grid-y">
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png"/>
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/google">18:00-18:30</a><br>
+                                    <strong>Scaling up data analysis from notebooks using BigQuery</strong><br>
+                                    Speaker: Lak Lakshmanan
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             <h2>Wednesday, October 14</h2>
-            <p>
-                <a href="https://jupytercon.webex.com/meet/google">Google | 15:30-16:00</a><br>
-                <strong>CTO Discussion</strong><br>
-                Speaker: Jeff Sternberg
-            </p>
+            <div class="grid-container sponsors">
+                <div class="grid-y">
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png"/>
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/google">15:30-16:00</a><br>
+                                    <strong>CTO Discussion</strong><br>
+                                    Speaker: Jeff Sternberg
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             <h2>Thursday, October 15</h2>
-            <p>
-                <a href="https://jupytercon.webex.com/meet/google">Google | 18:00-18:30</a><br>
-                <strong>ML Ops with Kubeflow Pipelines from a notebook</strong><br>
-                Speaker: Amy Unruh
-            </p>
+            <div class="grid-container sponsors">
+                <div class="grid-y">
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png"/>
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/google">18:00-18:30</a><br>
+                                    <strong>ML Ops with Kubeflow Pipelines from a notebook</strong><br>
+                                    Speaker: Amy Unruh
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-            <p>
-                <a href="https://jupytercon.webex.com/meet/facebook">Facebook | 18:00-18:30</a><br>
-                <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
-                <strong>Come learn how we're improving notebook authoring experiences with LSP!</strong><br>
-                <strong>5-10 presentation with 10 minutes Q&A</strong><br>
-                Hosts: Omer Dunay and Daniel Cheng, Software Engineers
-            </p>
+            <div class="grid-container sponsors">
+                <div class="grid-y">
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="facebook" src="~assets/images/sponsors/facebook.png"/>
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/facebook">18:00-18:30</a><br>
+                                    <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
+                                    <strong>Come learn how we're improving notebook authoring experiences with LSP!</strong><br>
+                                    <strong>5-10 presentation with 10 minutes Q&A</strong><br>
+                                    Hosts: Omer Dunay and Daniel Cheng, Software Engineers
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-            <p>
-                <a href="https://jupytercon.webex.com/meet/facebook">Facebook | 18:00-18:30</a><br>
-                <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
-                <strong>Come learn how we're improving notebook authoring experiences with LSP!</strong><br>
-                <strong>5-10 presentation with 10 minutes Q&A</strong><br>
-                Hosts: JP Hennessy, Product Designer, and Jordan Eschler, User Experience Researcher
-            </p>
+            <div class="grid-container sponsors">
+                <div class="grid-y">
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="facebook" src="~assets/images/sponsors/facebook.png"/>
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/facebook">18:30-19:00</a><br>
+                                    <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
+                                    <strong>Come learn how we're improving notebook authoring experiences with LSP!</strong><br>
+                                    <strong>5-10 presentation with 10 minutes Q&A</strong><br>
+                                    Hosts: Omer Dunay and Daniel Cheng, Software Engineers
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             <h2>Friday, October 16</h2>
-            <h3>InfuseAi | 00:00-01:00</h3>
-            <p>
-                <strong>Introduction to Primehub</strong><br>
-                <strong>Notebook-native workflow – submitting jobs within PrimeHub with Q&A</strong><br>
-                Host: Engineering Team
-            </p>
-            <h3>InfuseAi | 09:00-10:00</h3>
-            <p>
-                <strong>Introduction to Primehub</strong><br>
-                <strong>Notebook-native workflow – submitting jobs within PrimeHub with Q&A</strong><br>
-                Host: Engineering Team
-            </p>
+            <div class="grid-container sponsors">
+                <div class="grid-y">
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="infuseai" src="~assets/images/sponsors/infuseai.png"/>
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a>00:00-01:00</a><br>
+                                    <strong>Introduction to Primehub</strong><br>
+                                    <strong>Notebook-native workflow – submitting jobs within PrimeHub with Q&A</strong><br>
+                                    Host: Engineering Team
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="grid-container sponsors">
+                <div class="grid-y">
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="infuseai" src="~assets/images/sponsors/infuseai.png"/>
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a>09:00-10:00</a><br>
+                                    <strong>Introduction to Primehub</strong><br>
+                                    <strong>Notebook-native workflow – submitting jobs within PrimeHub with Q&A</strong><br>
+                                    Host: Engineering Team
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
         <DesktopFooter />
     </div>
@@ -94,6 +214,7 @@
         font-size: 36px;
     }
     h2 {
+        margin-top: 20px;
         font-size: 24px;
     }
     h3 {
@@ -105,5 +226,28 @@
     .main {
         background-color: $figma-grey3;
         padding: 100px;
+    }
+    .sponsors {
+        background-color: white;
+    }
+    .sponsor-category {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .sponsor-row {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        min-height: 240px;
+        display: flex;
+    }
+    .sponsor-image {
+        margin: 10%;
+        width: 60%;
+    }
+    .sponsor-row-container {
+        align-items: center;
+    }
+    .sponsor-text-plain {
+        margin: 30px;
     }
 </style>
