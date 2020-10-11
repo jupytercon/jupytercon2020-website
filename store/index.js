@@ -44,7 +44,7 @@ export const state = () => ({
         name: "TwoSigma",
         link: "https://opensource.twosigma.com",
         description:
-          "TODO",
+          "Two Sigma Investments was founded in 2001 on the belief that innovative technology and data science could help discover value in the world’s data. Today, Two Sigma, through its use of algorithms and with its unique culture, drives transformations in many industries including investment management and insurance.",
         image: require("~/assets/images/sponsors/twosigma.png"),
       },
     ],
