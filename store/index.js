@@ -40,6 +40,13 @@ export const state = () => ({
           "Fueled by the insatiable demand for better 3D graphics, and the massive scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the exciting intersection of virtual reality, high performance computing, and artificial intelligence.",
         image: require("~/assets/images/sponsors/nvidia.png"),
       },
+      {
+        name: "TwoSigma",
+        link: "https://opensource.twosigma.com",
+        description:
+          "Two Sigma Investments was founded in 2001 on the belief that innovative technology and data science could help discover value in the world’s data. Today, Two Sigma, through its use of algorithms and with its unique culture, drives transformations in many industries including investment management and insurance.",
+        image: require("~/assets/images/sponsors/twosigma.png"),
+      },
     ],
     bronze: [
       {
