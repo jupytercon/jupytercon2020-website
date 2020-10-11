@@ -64,6 +64,7 @@
                     items: [
                         { label: 'Schedule - Talks', url: 'https://cfp.jupytercon.com/2020/schedule/general-sessions/' },
                         { label: 'Schedule - Tutorials', url: 'https://cfp.jupytercon.com/2020/schedule/tutorial-sessions/' },
+                        { label: 'Sponsor Exhibit Schedule', to: "/sponsors-schedule/" },
                         { label: 'Speaker Guide', to: '/speaker-guide/' },
                         { label: 'Sprint projects', to: "/sprint/" },
                         { label: 'Attendee Experience', to: "/attendee-experience/" },
