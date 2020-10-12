@@ -16,7 +16,7 @@
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
-                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png"/>
+                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
@@ -38,7 +38,7 @@
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
-                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png"/>
+                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
@@ -49,15 +49,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-
-            <div class="grid-container sponsors">
-                <div class="grid-y">
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
-                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png"/>
+                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
@@ -77,13 +72,27 @@
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
-                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png"/>
+                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
                                     <a href="https://jupytercon.webex.com/meet/google">15:30-16:00</a><br>
                                     <strong>CTO Discussion</strong><br>
                                     Speaker: Jeff Sternberg
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="bloomberg" src="~assets/images/sponsors/bloomberg.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/bloomberg">18:00-18:30</a><br>
+                                    <strong>Learn about Bloomberg Engineering, what we build, and more about our culture.</strong><br>
+                                    Hosts: Engineering @ Bloomberg
                                 </p>
                             </div>
                         </div>
@@ -97,7 +106,7 @@
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
-                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png"/>
+                                <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
@@ -108,15 +117,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-
-            <div class="grid-container sponsors">
-                <div class="grid-y">
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
-                                <img class="sponsor-image" alt="facebook" src="~assets/images/sponsors/facebook.png"/>
+                                <img class="sponsor-image" alt="facebook" src="~assets/images/sponsors/facebook.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
@@ -129,23 +133,32 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-
-            <div class="grid-container sponsors">
-                <div class="grid-y">
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
-                                <img class="sponsor-image" alt="facebook" src="~assets/images/sponsors/facebook.png"/>
+                                <img class="sponsor-image" alt="bloomberg" src="~assets/images/sponsors/bloomberg.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/bloomberg">18:00-18:30</a><br>
+                                    <strong>Learn about Bloomberg Engineering, what we build, and more about our culture.</strong><br>
+                                    Hosts: Engineering @ Bloomberg
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="facebook" src="~assets/images/sponsors/facebook.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
                                     <a href="https://jupytercon.webex.com/meet/facebook">18:30-19:00</a><br>
                                     <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
-                                    <strong>Come learn how we're improving notebook authoring experiences with LSP!</strong><br>
+                                    <strong>Come learn how we’re designing the user experience for notebooks at Facebook!</strong><br>
                                     <strong>5-10 presentation with 10 minutes Q&A</strong><br>
-                                    Hosts: Omer Dunay and Daniel Cheng, Software Engineers
+                                    Hosts: JP Hennessy (Product Designer @ Facebook), Jordan Eschler (User Experience Researcher @ Facebook)
                                 </p>
                             </div>
                         </div>
@@ -159,7 +172,7 @@
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
-                                <img class="sponsor-image" alt="infuseai" src="~assets/images/sponsors/infuseai.png"/>
+                                <img class="sponsor-image" alt="infuseai" src="~assets/images/sponsors/infuseai.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
@@ -171,15 +184,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-
-            <div class="grid-container sponsors">
-                <div class="grid-y">
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
-                                <img class="sponsor-image" alt="infuseai" src="~assets/images/sponsors/infuseai.png"/>
+                                <img class="sponsor-image" alt="infuseai" src="~assets/images/sponsors/infuseai.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
