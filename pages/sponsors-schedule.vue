@@ -126,8 +126,8 @@
                                 <p>
                                     <a href="https://jupytercon.webex.com/meet/facebook">18:00-18:30</a><br>
                                     <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
-                                    <strong>Come learn how we're improving notebook authoring experiences with LSP!</strong><br>
-                                    <strong>5-10 presentation with 10 minutes Q&A</strong><br>
+                                    <em>Come learn how we're improving notebook authoring experiences with LSP!</em><br>
+                                    <em>5-10 presentation with 10 minutes Q&A</em><br>
                                     Hosts: Omer Dunay and Daniel Cheng, Software Engineers
                                 </p>
                             </div>
@@ -156,8 +156,8 @@
                                 <p>
                                     <a href="https://jupytercon.webex.com/meet/facebook">18:30-19:00</a><br>
                                     <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
-                                    <strong>Come learn how we’re designing the user experience for notebooks at Facebook!</strong><br>
-                                    <strong>5-10 presentation with 10 minutes Q&A</strong><br>
+                                    <em>Come learn how we’re designing the user experience for notebooks at Facebook!</em><br>
+                                    <em>5-10 presentation with 10 minutes Q&A</em><br>
                                     Hosts: JP Hennessy (Product Designer @ Facebook), Jordan Eschler (User Experience Researcher @ Facebook)
                                 </p>
                             </div>
