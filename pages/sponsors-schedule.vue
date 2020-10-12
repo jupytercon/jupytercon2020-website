@@ -141,8 +141,8 @@
                             <div class="cell auto sponsor-text-plain">
                                 <p>
                                     <a href="https://jupytercon.webex.com/meet/bloomberg">18:00-18:30</a><br>
-                                    <strong>Learn about Bloomberg Engineering, what we build, and more about our culture.</strong><br>
-                                    Hosts: Engineering @ Bloomberg
+                                    <strong>Get help from a Bloomberg tech recruiter on resume/interviewing tips</strong><br>
+                                    Topic: Resume Review with Bloomberg
                                 </p>
                             </div>
                         </div>
