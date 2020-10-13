@@ -52,6 +52,19 @@
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
+                                <img class="sponsor-image" alt="ibm" src="~assets/images/sponsors/ibm.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/ibm">17:45-18:30</a><br>
+                                    <strong>Meet and Greet with the IBM presenters</strong><br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
                                 <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
@@ -72,6 +85,19 @@
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
+                                <img class="sponsor-image" alt="ibm" src="~assets/images/sponsors/ibm.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/ibm">14:00-14:30</a><br>
+                                    <strong>Meet and Greet with the IBM presenters</strong><br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
                                 <img class="sponsor-image" alt="google" src="~assets/images/sponsors/google.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
@@ -79,6 +105,19 @@
                                     <a href="https://jupytercon.webex.com/meet/google">15:30-16:00</a><br>
                                     <strong>CTO Discussion</strong><br>
                                     Speaker: Jeff Sternberg
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="ibm" src="~assets/images/sponsors/ibm.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/ibm">15:30-16:00</a><br>
+                                    <strong>Meet and Greet with the IBM presenters</strong><br>
                                 </p>
                             </div>
                         </div>
@@ -97,12 +136,64 @@
                             </div>
                         </div>
                     </div>
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="ibm" src="~assets/images/sponsors/ibm.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/ibm">18:00-18:30</a><br>
+                                    <strong>Meet and Greet with the IBM presenters</strong><br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
             <h2>Thursday, October 15</h2>
             <div class="grid-container sponsors">
                 <div class="grid-y">
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="ibm" src="~assets/images/sponsors/ibm.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/ibm">14:00-14:30</a><br>
+                                    <strong>Meet and Greet with the IBM presenters</strong><br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="ibm" src="~assets/images/sponsors/ibm.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/ibm">15:30-16:00</a><br>
+                                    <strong>Meet and Greet with the IBM presenters</strong><br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="ibm" src="~assets/images/sponsors/ibm.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/ibm">17:00-18:30</a><br>
+                                    <strong>Meet and Greet with the IBM presenters</strong><br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
@@ -120,27 +211,11 @@
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
-                                <img class="sponsor-image" alt="facebook" src="~assets/images/sponsors/facebook.png">
-                            </div>
-                            <div class="cell auto sponsor-text-plain">
-                                <p>
-                                    <a href="https://jupytercon.webex.com/meet/facebook">18:00-18:30</a><br>
-                                    <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
-                                    <em>Come learn how we're improving notebook authoring experiences with LSP!</em><br>
-                                    <em>5-10 presentation with 10 minutes Q&A</em><br>
-                                    Hosts: Omer Dunay and Daniel Cheng, Software Engineers
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="cell sponsor-row">
-                        <div class="grid-x sponsor-row-container">
-                            <div class="cell small-4">
                                 <img class="sponsor-image" alt="bloomberg" src="~assets/images/sponsors/bloomberg.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
-                                    <a href="https://jupytercon.webex.com/meet/bloomberg">18:00-18:30</a><br>
+                                    <a href="https://jupytercon.webex.com/meet/bloomberg">17:30-18:00</a><br>
                                     <strong>Get help from a Bloomberg tech recruiter on resume/interviewing tips</strong><br>
                                     Topic: Resume Review with Bloomberg
                                 </p>
@@ -154,7 +229,23 @@
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
-                                    <a href="https://jupytercon.webex.com/meet/facebook">18:30-19:00</a><br>
+                                    <a href="https://jupytercon.webex.com/meet/facebook">17:30-18:00</a><br>
+                                    <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
+                                    <em>Come learn how we're improving notebook authoring experiences with LSP!</em><br>
+                                    <em>5-10 presentation with 10 minutes Q&A</em><br>
+                                    Hosts: Omer Dunay and Daniel Cheng, Software Engineers
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="facebook" src="~assets/images/sponsors/facebook.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/facebook">18:00-18:30</a><br>
                                     <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
                                     <em>Come learn how we’re designing the user experience for notebooks at Facebook!</em><br>
                                     <em>5-10 presentation with 10 minutes Q&A</em><br>
