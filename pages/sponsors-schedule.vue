@@ -230,10 +230,10 @@
                             <div class="cell auto sponsor-text-plain">
                                 <p>
                                     <a href="https://jupytercon.webex.com/meet/facebook">17:30-18:00</a><br>
-                                    <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
-                                    <em>Come learn how we're improving notebook authoring experiences with LSP!</em><br>
+                                    <strong>Designing Notebooks at Facebook</strong><br>
+                                    <em>Come learn how we’re designing the user experience for notebooks at Facebook!</em><br>
                                     <em>5-10 presentation with 10 minutes Q&A</em><br>
-                                    Hosts: Omer Dunay and Daniel Cheng, Software Engineers
+                                    Hosts: JP Hennessy (Product Designer @ Facebook), Jordan Eschler (User Experience Researcher @ Facebook)
                                 </p>
                             </div>
                         </div>
@@ -247,9 +247,9 @@
                                 <p>
                                     <a href="https://jupytercon.webex.com/meet/facebook">18:00-18:30</a><br>
                                     <strong>Notebook Authoring - Language Experiences (LSP)</strong><br>
-                                    <em>Come learn how we’re designing the user experience for notebooks at Facebook!</em><br>
+                                    <em>Come learn how we're improving notebook authoring experiences with LSP!</em><br>
                                     <em>5-10 presentation with 10 minutes Q&A</em><br>
-                                    Hosts: JP Hennessy (Product Designer @ Facebook), Jordan Eschler (User Experience Researcher @ Facebook)
+                                    Hosts: Omer Dunay and Daniel Cheng, Software Engineers
                                 </p>
                             </div>
                         </div>
