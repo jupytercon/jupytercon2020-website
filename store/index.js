@@ -15,6 +15,13 @@ export const state = () => ({
           "Bloomberg is building the world’s most trusted information network for financial professionals. Our 6,000+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems.",
         image: require("~/assets/images/sponsors/bloomberg.png"),
       },
+      {
+        name: "AWS",
+        link: "https://aws.amazon.com",
+        description:
+          "Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 165 fully featured services from data centers globally. Millions of customers —including the fastest-growing startups, largest enterprises, and leading government agencies—trust AWS to power their infrastructure, become more agile, and lower costs.",
+        image: require("~/assets/images/sponsors/aws.png"),
+      },
     ],
     gold: [
       {
