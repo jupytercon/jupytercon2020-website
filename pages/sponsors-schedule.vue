@@ -267,7 +267,7 @@
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
-                                    <a>00:00-01:00</a><br>
+                                    <a href="https://jupytercon.webex.com/meet/infuseai">00:00-01:00</a><br>
                                     <strong>Introduction to Primehub</strong><br>
                                     <strong>Notebook-native workflow – submitting jobs within PrimeHub with Q&A</strong><br>
                                     Host: Engineering Team
@@ -282,7 +282,7 @@
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
-                                    <a>09:00-10:00</a><br>
+                                    <a href="https://jupytercon.webex.com/meet/infuseai">09:00-10:00</a><br>
                                     <strong>Introduction to Primehub</strong><br>
                                     <strong>Notebook-native workflow – submitting jobs within PrimeHub with Q&A</strong><br>
                                     Host: Engineering Team
