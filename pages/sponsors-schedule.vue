@@ -171,6 +171,20 @@
                     <div class="cell sponsor-row">
                         <div class="grid-x sponsor-row-container">
                             <div class="cell small-4">
+                                <img class="sponsor-image" alt="ibm" src="~assets/images/sponsors/github.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/github">14:00-15:00</a><br>
+                                    <strong>Github Meet and Greet</strong><br/>
+                                    <em>with Hamel Husain (Machine Learning Engineer @ GitHub) and Arfon Smith (Product @ GitHub)</em><br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
                                 <img class="sponsor-image" alt="ibm" src="~assets/images/sponsors/ibm.png">
                             </div>
                             <div class="cell auto sponsor-text-plain">
@@ -250,6 +264,20 @@
                                     <em>Come learn how we're improving notebook authoring experiences with LSP!</em><br>
                                     <em>5-10 presentation with 10 minutes Q&A</em><br>
                                     Hosts: Omer Dunay and Daniel Cheng, Software Engineers
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell sponsor-row">
+                        <div class="grid-x sponsor-row-container">
+                            <div class="cell small-4">
+                                <img class="sponsor-image" alt="ibm" src="~assets/images/sponsors/github.png">
+                            </div>
+                            <div class="cell auto sponsor-text-plain">
+                                <p>
+                                    <a href="https://jupytercon.webex.com/meet/github">18:00-19:00</a><br>
+                                    <strong>Github Meet and Greet</strong><br/>
+                                    <em>with Hamel Husain (Machine Learning Engineer @ GitHub) and Arfon Smith (Product @ GitHub)</em><br>
                                 </p>
                             </div>
                         </div>
