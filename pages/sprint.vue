@@ -7,8 +7,11 @@
             </template>
             <template v-slot:content>
                 <div class="header-content">
-                <h2>Sprint with the Jupyter Community!</h2>
+                <h2>Join the Community!</h2>
                     <slot>The JupyterCon 2020 Sprint Event is a 24-hour digital event following the conference. Attendees will have the opportunity to meet online active contributors and maintainers of their favorite open source projects, exchange ideas, collaborate in real time, and create lasting connections.
+                    <br/><br/>
+                    <h4><a href="#sprint-projects" style="border: 1px solid white;padding: 5px;background-color: #ececec;">Projects</a>
+                        <a href="#sprint-schedule" style="border: 1px solid white;padding: 5px;background-color: #ececec;">Schedule</a></h4>
                     </slot>
                 </div>
 
@@ -24,7 +27,7 @@
 
             <h3>What is the venue for the sprints?</h3>
             <p>Sprints will be online, with the aim of connecting people from all over the world, so you will be able to join from anywhere!</p>
-            <h1>Sprint Projects</h1>
+            <h1 id="sprint-projects">Sprint Projects</h1>
             <div class="grid-container projects">
                 <div class="grid-y">
                     <div class="cell project-row" v-for="project in sprint_projects">
@@ -44,6 +47,11 @@
                                         <img class="icon-github" src="@/assets/images/icon-github.png">
                                         {{ project.githubLinkText }}
                                     </a>
+                                    <br/>
+                                    <a v-if="project.docLink" :href="project.docLink" target="_blank">
+                                        <img class="icon-doc" src="@/assets/images/icon-doc.png">
+                                        {{ project.docLinkText }}
+                                    </a>
                                 </p>
                                 <p>
                                     {{ project.description }}
@@ -52,6 +60,53 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <h1 id="sprint-schedule">Sprint Schedule</h1>
+            <div class="grid-container schedule">
+            <p>
+            Due to the online aspect of our sprint session, we are having a <i>kick-off</i> and <i>wrap-up</i> call for two different time zones groups:
+            </p>
+            <ul>
+                <li><b>Block A:</b> European/African time zones.</li>
+                <li><b>Block B:</b> Americas time zones.</li>
+            </ul>
+
+            <p>
+            What about the transmissions?
+            </p>
+            <ul>
+                <li><b>Kick-off:</b> General introduction to our sprint day, and Projects will be doing short presentation for all the participants.</li>
+                <li><b>Wrap-up:</b> What have we done during the day? Let's share our experiences!</li>
+            </ul>
+            </p>
+            <p>
+            Everyone is encouraged to participate in the full-day event! the transmissions are only to enable more people to hear about
+            the projects and the progress during the day.
+
+            Instructions to join our Mattermost server and to watch the transmission on YouTube will be send by email!
+            </p>
+            <table>
+                <tr>
+                    <td><b>Time UTC</b> <a style="color: gray;" href="https://time.is/UTC">check it now</a>!</td>
+                    <td><b>Activity</b></td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;">07:00 a.m.</td>
+                    <td>Kick-off (Block A)</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;">3:00 p.m.</td>
+                    <td>Wrap-up (Block A)</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;">4:00 p.m.</td>
+                    <td>Kick-off (Block B)</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;">11:59 p.m.</td>
+                    <td>Wrap-up (Block B)</td>
+                </tr>
+            </table>
             </div>
         </div>
         <DesktopFooter />
@@ -125,6 +180,8 @@ sprint_projects: [
                     {
                         githubLink: "https://github.com/alan-turing-institute/the-turing-way",
                         githubLinkText: "github.com/alan-turing-institute/the-turing-way",
+                        docLink : "https://hackmd.io/@turingway/JC2020-sprint",
+                        docLinkText: "hackmd.io/@turingway/JC2020-sprint",
                         name: "The Turing Way",
                         timezone: "Europe UTC+1",
                         description: "The Turing Way is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science. Our goal is to provide all the information that data scientists in academia, industry, government and in the third sector need at the start of their projects to ensure that they are easy to reproduce and reuse at the end.",
@@ -189,6 +246,21 @@ sprint_projects: [
     .projects {
         background-color: white;
     }
+
+    .schedule {
+        background-color: white;
+        padding: 20px;
+    }
+    .schedule table {
+        border-collapse: collapse;
+    }
+    .schedule table, th, td {
+        border: 1px solid #dddddd;
+        padding: 10px;
+    }
+    .schedule b {
+        color: #f37626;
+    }
     .project-category {
         margin-top: 40px;
         margin-bottom: 40px;
@@ -211,6 +283,12 @@ sprint_projects: [
     }
     .icon-github {
         height: 20px;
+        margin-right: 4px;
+        margin-bottom: 1px;
+        margin-left: 2px;
+    }
+    .icon-doc {
+        height: 22px;
         margin-right: 4px;
         margin-bottom: 1px;
     }
