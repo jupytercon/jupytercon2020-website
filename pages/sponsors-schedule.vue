@@ -175,7 +175,7 @@
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
-                                    <a href="https://jupytercon.webex.com/meet/github">14:00-15:00</a><br>
+                                    <a href="https://jupytercon.webex.com/jupytercon/j.php?MTID=me8e15985878beeb1420fbdf05731590e">14:00-15:00</a><br>
                                     <strong>Github Meet and Greet</strong><br/>
                                     <em>with Hamel Husain (Machine Learning Engineer @ GitHub) and Arfon Smith (Product @ GitHub)</em><br>
                                 </p>
@@ -275,7 +275,7 @@
                             </div>
                             <div class="cell auto sponsor-text-plain">
                                 <p>
-                                    <a href="https://jupytercon.webex.com/meet/github">18:00-19:00</a><br>
+                                    <a href="https://jupytercon.webex.com/jupytercon/j.php?MTID=md1b3ed69725105a93dcdeea62dff6829">18:00-19:00</a><br>
                                     <strong>Github Meet and Greet</strong><br/>
                                     <em>with Hamel Husain (Machine Learning Engineer @ GitHub) and Arfon Smith (Product @ GitHub)</em><br>
                                 </p>
