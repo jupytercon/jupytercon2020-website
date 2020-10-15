@@ -91,19 +91,19 @@
                     <td><b>Activity</b></td>
                 </tr>
                 <tr>
-                    <td style="text-align: center;">07:00h</td>
+                    <td style="text-align: center;">07:00 a.m.</td>
                     <td>Kick-off (Block A)</td>
                 </tr>
                 <tr>
-                    <td style="text-align: center;">15:00h</td>
+                    <td style="text-align: center;">3:00 p.m.</td>
                     <td>Wrap-up (Block A)</td>
                 </tr>
                 <tr>
-                    <td style="text-align: center;">16:00h</td>
+                    <td style="text-align: center;">4:00 p.m.</td>
                     <td>Kick-off (Block B)</td>
                 </tr>
                 <tr>
-                    <td style="text-align: center;">23:59h</td>
+                    <td style="text-align: center;">11:59 p.m.</td>
                     <td>Wrap-up (Block B)</td>
                 </tr>
             </table>
