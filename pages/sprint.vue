@@ -24,6 +24,9 @@
 
             <h3>How can I join the Sprint Event?</h3>
             <p>The sign-ups for sprint participants is still open in our <a href="https://www.eventbrite.com/e/jupytercon-2020-tickets-109183767588">tickets store</a> and they are <b>Free!</b>. We will email the intructions to join the platforms, and the schedule for the event a couple of days before the sprint day.</p>
+            <p>
+            <b>Attention:</b> If you didn't get the email, or decided to join last minute, make sure you register on <a href="https://academy.numfocus.org">academy.numfocus.org</a> using the same email address from your ticket, and then visit <a href="https://forum.numfocus.org">forum.numfocus.org</a>.
+            </p>
 
             <h3>What is the venue for the sprints?</h3>
             <p>Sprints will be online, with the aim of connecting people from all over the world, so you will be able to join from anywhere!</p>
