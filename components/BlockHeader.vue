@@ -7,8 +7,8 @@
                     <div class="tickets" v-if="buttons">
                         <a
                                 class="button hollow"
-                                href="https://www.eventbrite.com/e/jupytercon-2020-tickets-109183767588">
-                            Register / Tickets
+                                href="https://www.youtube.com/c/JupyterCon/videos">
+                            Videos
                         </a>
                         <a
                                 class="button hollow"
