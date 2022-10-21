@@ -27,7 +27,6 @@
         <DesktopFooter />
     </div>
 </template>
-
 <script>
     import BlockHeader from "../components/BlockHeader";
     import BlockAbout from "../components/BlockAbout";
